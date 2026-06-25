@@ -1,0 +1,6 @@
+{
+  "name": "DIN 743 Shaft Design Calculator",
+  "description": "An interactive engineer-grade SaaS application implementing the DIN 743 mechanical fatigue and strength check standards for industrial valve shafts, featuring material libraries, instant calculations, interactive tables, and a PDF-ready reporting system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
