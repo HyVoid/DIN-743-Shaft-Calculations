@@ -1,4 +1,3 @@
-# English | [简体中文](#简体中文)
 
 # Turn DIN 743 Shaft Calculations into Repeatable Engineering Decisions
 
