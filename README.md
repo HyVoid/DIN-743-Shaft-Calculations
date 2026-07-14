@@ -9,22 +9,16 @@
 
 > **No signup. No installation. Free.**
 >
-> 🌐 **Open in Browser:** *HTML version link here*
-> 📥 **Download Excel:** *Release/Gumroad link here*
+> 🌐 **Open in Browser:** [*here*](https://hyvoid.github.io/DIN-743-Shaft-Calculations/)
+> 
+> 📥 **Download Excel:** [*here*](https://alexhasgreatestuff.gumroad.com/l/zjyuhp)
 
 ---
 
 ## Screenshots
 
-### Browser Version
+<img width="1536" height="1024" alt="ChatGPT Image Jul 14, 2026, 09_33_27 AM" src="https://github.com/user-attachments/assets/1dfe02f6-32ab-4eb5-87f5-3ca6d3086c09" />
 
-<!-- screenshot: browser version -->
-
-*Shows the complete shaft verification workflow, from parameter input to PASS/FAIL evaluation, directly in the browser.*
-
-### Excel Version
-
-<!-- screenshot: excel version -->
 
 *Shows the protected engineering workbook with structured inputs, hidden calculation engine, and printable reporting outputs.*
 
