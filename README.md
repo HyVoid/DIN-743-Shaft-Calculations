@@ -15,15 +15,6 @@
 
 ---
 
-## Screenshots
-
-<img width="1536" height="1024" alt="ChatGPT Image Jul 14, 2026, 09_33_27 AM" src="https://github.com/user-attachments/assets/1dfe02f6-32ab-4eb5-87f5-3ca6d3086c09" />
-
-
-*Shows the protected engineering workbook with structured inputs, hidden calculation engine, and printable reporting outputs.*
-
----
-
 ## What It Helps You Track
 
 * Whether a shaft section satisfies the minimum fatigue safety requirement defined by the project.
