@@ -7,7 +7,9 @@
 
 **Standardize DIN 743 shaft verification into a free, no-install engineering workflow available in both browser and Excel formats—so fatigue safety decisions become auditable, repeatable, and fast.**
 
-> **No signup. No installation. Free.**
+**No signup. No installation. Free in your browser.**
+
+Try the browser version for free. If you need the Excel version, you can buy it with a 7-day money-back guarantee.
 >
 > 🌐 **Open in Browser:** [*here*](https://hyvoid.github.io/DIN-743-Shaft-Calculations/)
 > 
