@@ -13,7 +13,7 @@ Try the browser version for free. If you need the Excel version, you can buy it 
 >
 > 🌐 **Open in Browser:** [*here*](https://hyvoid.github.io/DIN-743-Shaft-Calculations/)
 > 
-> 📥 **Download Excel:** [*here*](https://alexhasgreatestuff.gumroad.com/l/zjyuhp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=din-743-shaft-strength)
+> 📥 **Download Excel:** [*here*](https://www.theseusworkshop.com/l/zjyuhp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=din-743-shaft-strength)
 
 ---
 
