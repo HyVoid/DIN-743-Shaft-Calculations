@@ -426,7 +426,7 @@ Evaluate final acceptability.
 * **Logistics Operations Dashboard** — track shipment execution across entities.
 * **Service Operations Tracker** — standardize field team execution and reporting.
 
-More tools: *GitHub profile or Gumroad store link here.*
+More tools: [Visit Our Website](https://www.theseusworkshop.com/)
 
 ---
 
