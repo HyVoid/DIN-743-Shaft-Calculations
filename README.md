@@ -1,3 +1,5 @@
+[ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
+
 # DIN 743 Shaft Calculation Tool: Fatigue Strength Analysis Template
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
