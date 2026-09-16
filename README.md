@@ -1,105 +1,67 @@
-
-# Turn DIN 743 Shaft Calculations into Repeatable Engineering Decisions
+# DIN 743 Shaft Calculation Tool: Fatigue Strength Analysis Template
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Browser%20%2B%20Excel-green.svg)
 ![Tool](https://img.shields.io/badge/Tool-DIN%20743%20Decision%20Support-orange.svg)
 
-**Standardize DIN 743 shaft verification into a free, no-install engineering workflow available in both browser and Excel formats—so fatigue safety decisions become auditable, repeatable, and fast.**
+<p><strong>DIN 743 Shaft Calculation Template</strong>: A free, no-install <strong>shaft fatigue strength analysis tool</strong> available as a <strong>browser calculator</strong> and a reusable <strong>Excel spreadsheet</strong>. Standardize your <strong>shaft verification workflow</strong>, calculate safety factors for combined bending and torsion, and ensure mechanical engineering designs are auditable, repeatable, and fast.</p>
 
 **No signup. No installation. Free in your browser.**
 
-Try the browser version for free. If you need the Excel version, you can buy it with a 30-day, no-questions-asked money-back guarantee.
->
-> 🌐 **Open in Browser:** [*here*](https://hyvoid.github.io/DIN-743-Shaft-Calculations/)
+Try the web-based calculator for quick validations. For formal documentation, batch processing, or offline use, you can purchase the unlocked Excel workbook backed by a 30-day money-back guarantee.
+
+> 🌐 **Free Online Tool:** [**Launch Free DIN 743 Browser Calculator**](https://hyvoid.github.io/DIN-743-Shaft-Calculations/)
 > 
-> 📥 **Download Excel:** [*here*](https://www.theseusworkshop.com/l/zjyuhp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=din-743-shaft-strength)
+> 📥 **Premium Asset:** [**Download DIN 743 Shaft Calculation Excel Template**](https://www.theseusworkshop.com/l/zjyuhp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=din-743-shaft-strength)
 
 ---
 
-## What It Helps You Track
+## Shaft Fatigue Verification: Pain Points & Solutions
 
-* Whether a shaft section satisfies the minimum fatigue safety requirement defined by the project.
-* The effect of material selection on final safety margins.
-* How bending moments and torsional loads combine to change design acceptability.
-* Whether geometry changes such as fillet radii materially alter fatigue performance.
-* The difference between nominal stress and corrected component endurance limits.
-* Which shaft sections require redesign before release to manufacturing.
+| Engineering Design Pain Point | DIN 743 Tool Solution (What It Tracks) |
+| :--- | :--- |
+| **Uncertain Fatigue Safety Factors** | Automated verification of **minimum fatigue safety requirements** (S_f) against baseline project standards. |
+| **Guessing Material Endurance Limits** | Dynamic calculation of how **material selection (yield strength, tensile strength)** directly affects final safety margins. |
+| **Complex Multi-Axial Loadings** | Integrated evaluation of combined **bending moments and torsional loads** to determine overall design acceptability. |
+| **Unquantified Stress Concentrations** | Real-time tracking of geometry changes (e.g., **fillet radii, keyways**) and their effect on **notch sensitivity**. |
+| **Improper Nominal Stress Usage** | Automated transition from raw **nominal stress** to corrected **component endurance limits** (incorporating size and surface roughness factors). |
+| **Ambiguous Release Criteria** | Clear Pass/Fail identification denoting which **critical shaft cross-sections require redesign** before manufacturing release. |
 
 ---
 
-# Why I Built This
+## Why I Built This Mechanical Engineering Shaft Design Tool
 
-DIN 743 calculations are rarely difficult because of the mathematics. They become difficult because the reasoning process fragments across handwritten notes, isolated formulas, engineering judgment, and undocumented assumptions.
+DIN 743 calculations are rarely difficult because of the mathematics. They become difficult because the mechanical design reasoning process fragments across handwritten notes, isolated formulas, engineering judgment, and undocumented static strength assumptions.
 
-I repeatedly saw design reviews where engineers arrived at different conclusions using the same loads and dimensions.
+I repeatedly saw design reviews where engineers arrived at different conclusions using the exact same cyclic loading and dimensional constraints. The failure was usually not computational; it was analytical.
 
-The failure was usually not computational.
-
-It was analytical.
-
-Someone forgot a correction factor. Someone used nominal stresses directly against material fatigue limits. Someone copied a formula from an old spreadsheet without validating whether the underlying assumptions still applied.
+Someone forgot a stress concentration factor (Kt). Someone used nominal stresses directly against material fatigue limits without proper correction. Someone copied a formula from an old spreadsheet without validating whether the underlying dynamic loading assumptions still applied.
 
 The consequence was predictable:
 
-* Conservative designs became unnecessarily expensive.
-* Marginal designs passed review unnoticed.
-* Verification became dependent on individual experience rather than organizational process.
+* Conservative mechanical designs became unnecessarily expensive.
+* Marginal shaft models passed QA review unnoticed.
+* Structural verification became dependent on individual tribal knowledge rather than an auditable organizational process.
 
-This workbook productizes the reasoning embedded in DIN 743.
+This workbook productizes the reasoning embedded in the DIN 743 standard. Instead of treating shaft fatigue verification as a one-off calculation exercise, it turns the standard into a reusable decision framework.
 
-Instead of treating shaft verification as a one-off calculation exercise, it turns the standard into a reusable decision framework.
-
-For example:
+### A Practical Example: Nominal vs. Corrected Stress
 
 **Before**
-
-A designer compares nominal bending stress of 185 MPa directly against a material fatigue limit of 210 MPa and concludes the design is acceptable.
+A CAD designer compares a nominal bending stress of 185 MPa directly against a material fatigue limit of 210 MPa and concludes the design is acceptable.
 
 **After**
+The calculation tool automatically applies geometry effects, notch sensitivity, size corrections, and surface influence factors. The corrected endurance limit drops to 168 MPa.
 
-The workbook automatically applies geometry effects, notch sensitivity, size corrections, and surface influence factors. The corrected endurance limit drops to 168 MPa.
+The conclusion changes immediately:
 
-The conclusion changes:
-
-```
+```text
 Original Decision:
 PASS
 
 Corrected Decision:
-FAIL → redesign required
+FAIL → Redesign Required
 ```
-
-That difference is often what separates documented engineering judgment from false confidence.
-
----
-
-## Common Industrial Valve Shaft Problems This Solves
-
-| Problem                                         | Without This Tool                          | With This Tool                                    |
-| ----------------------------------------------- | ------------------------------------------ | ------------------------------------------------- |
-| Material properties stored in personal notes    | Inconsistent assumptions between engineers | Centralized reference library ensures consistency |
-| Nominal stress used as final decision criterion | Unsafe acceptance of marginal designs      | Fatigue corrections automatically applied         |
-| Hidden spreadsheet logic                        | Reviewers cannot reproduce results         | Transparent input → calculation → output flow     |
-| Geometry effects overlooked                     | Fillet and notch risks underestimated      | Stress concentration factors incorporated         |
-| Manual reporting                                | Significant documentation effort           | Standardized printable calculation reports        |
-| Experience-dependent reviews                    | Variable decision quality                  | Repeatable DIN-based reasoning                    |
-
----
-
-## Who This Is For
-
-This tool is designed for:
-
-* Mechanical engineers performing DIN 743 shaft verification.
-* Valve manufacturers documenting design calculations.
-* Engineering teams seeking reproducible fatigue assessments.
-* Technical reviewers auditing design assumptions.
-* Organizations converting tribal knowledge into reusable assets.
-
-This tool is **not** designed to replace CAE platforms, finite element analysis software, or enterprise PLM systems.
-
-No spreadsheet expertise is required. Open the browser version and start evaluating immediately, or use the protected Excel workbook within existing engineering workflows.
 
 ---
 
