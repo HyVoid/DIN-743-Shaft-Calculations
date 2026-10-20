@@ -386,6 +386,28 @@ Evaluate final acceptability.
 
 ---
 
+## The Business Logic & Methodology
+
+Industrial valve shaft design is not just a matter of calculating stress. It is a **mechanical design verification problem**: engineers must determine whether a shaft can withstand its expected bending and torsional loads while maintaining an acceptable fatigue safety margin. A design that appears acceptable based on nominal stress alone may become unsuitable once geometry, material properties, surface condition, and fatigue-related effects are considered.
+
+This calculator turns the DIN 743 shaft verification process into a repeatable engineering decision workflow. It connects material selection, shaft geometry, operating loads, fatigue assessment, and safety-factor evaluation so that design risks can be identified before manufacturing.
+
+The methodology addresses four practical engineering problems:
+
+- **Material-based fatigue assessment:** Material strength and endurance properties provide the starting point for evaluating shaft fatigue resistance. This helps engineers assess whether the selected material is appropriate for the expected loading conditions rather than relying on tensile strength alone.
+
+- **Stress concentration and geometry evaluation:** Shaft shoulders, fillets, grooves, and keyways can increase local stress and influence fatigue performance. Accounting for these geometric effects helps engineers identify vulnerable sections and evaluate whether a geometry change could improve design reliability.
+
+- **Combined bending and torsion verification:** Industrial valve shafts may experience bending moments and torque simultaneously. Evaluating their combined fatigue effects helps prevent a design from being accepted merely because its bending and torsional checks appear satisfactory when considered separately.
+
+- **Fatigue safety-factor assessment:** Comparing the calculated safety margin with the project's required minimum provides a consistent basis for design acceptance or further investigation. When the requirement is not met, engineers can investigate changes to shaft diameter, transition geometry, material selection, or operating loads.
+
+The practical outcome is a more traceable **DIN 743 shaft design and fatigue verification process**. Instead of relying on disconnected calculations and undocumented assumptions, engineers can follow a consistent path from design inputs to a documented assessment, supporting design reviews, engineering communication, and manufacturing release decisions.
+
+The calculator is intended as a decision-support aid. Its results depend on the accuracy of the inputs, the validity of the implemented standard-based methods, and verification against the applicable edition of DIN 743. Final design approval remains the responsibility of the qualified engineer.
+
+---
+
 ## Other Tools in This Series
 
 * **Budget Control Console** — compare planned budgets, commitments, and remaining spend.
