@@ -2,8 +2,10 @@
 
 
 # DIN 743 Shaft Calculation Tool: Free Online Shaft Sizing Calculator & Automated Fatigue Strength Analysis Excel Template
-<img width="895" height="790" alt="image" src="https://github.com/user-attachments/assets/f2850e79-f646-4083-aede-52bf57759d2d" />
+<img width="1920" height="790" alt="image" src="https://github.com/user-attachments/assets/7488196d-f46b-404a-9ee5-adf83da8c83d" />
+<img width="1920" height="790" alt="image" src="https://github.com/user-attachments/assets/9ffa110b-aa4a-4650-bfe3-ddd5105abfec" />
 
+ 
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Browser%20Calculator%20%2B%20Excel%20Template-green.svg)
@@ -76,6 +78,8 @@ Input your operating **bending moment**, **torsional torque**, and **axial thrus
 Once you finish your single-point trial in the browser, scale your workflow to real-world engineering production with the [**Automated DIN 743 Shaft & Valve Calculation Excel Template**](https://www.theseusworkshop.com/l/zjyuhp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=din-743-shaft-strength).
 
 * **Why switch to the Excel Workbook?** While the underlying DIN 743 mechanical theory and commercial risk logic are highly complex, the Excel product has already pre-packaged all the heavy lifting into **22 automated matching calculation rules**.
+  <img width="1920" height="790" alt="image" src="https://github.com/user-attachments/assets/b30e51ae-fade-4f83-8869-7de538238ee4" />
+
 * **Full Mainstream & Severe-Service Coverage:** Newly expanded to cover high-demand industrial materials—including **Martensitic Stainless Steel, Super Duplex Stainless Steel, Nickel Alloys, Titanium Alloys, and AISI 4340 Alloy Steel**—automatically cross-referenced across **5 surface finish states × 4 tensile strength ($R_m$) intervals** to calibrate **6 distinct valve operating condition classifications**.
 * **True Zero-Threshold Operation (No Formula Dragging):** Every lookup and stress correction formula updates dynamically. **You do not even need to double-click the cell corner or drag your mouse to copy formulas.** Simply download the `.xlsx` file to your computer, paste your own dimensional and load data into the input columns, and get instant, one-click Pass/Fail engineering and commercial decision feedback—allowing complete beginners to immediately leverage senior-level analysis.
 
