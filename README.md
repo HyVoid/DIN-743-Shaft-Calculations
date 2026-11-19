@@ -3,8 +3,6 @@
 
 # DIN 743 Shaft Calculation Tool: Free Online Shaft Sizing Calculator & Automated Fatigue Strength Analysis Excel Template
 <img width="1920" height="790" alt="image" src="https://github.com/user-attachments/assets/7488196d-f46b-404a-9ee5-adf83da8c83d" />
-<img width="1920" height="790" alt="image" src="https://github.com/user-attachments/assets/9ffa110b-aa4a-4650-bfe3-ddd5105abfec" />
-
  
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
@@ -76,6 +74,8 @@ Input your operating **bending moment**, **torsional torque**, and **axial thrus
 
 ### Step 4: Upgrade to One-Click Batch Automation with the Pro Excel Template
 Once you finish your single-point trial in the browser, scale your workflow to real-world engineering production with the [**Automated DIN 743 Shaft & Valve Calculation Excel Template**](https://www.theseusworkshop.com/l/zjyuhp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=din-743-shaft-strength).
+<img width="1920" height="790" alt="image" src="https://github.com/user-attachments/assets/9ffa110b-aa4a-4650-bfe3-ddd5105abfec" />
+
 
 * **Why switch to the Excel Workbook?** While the underlying DIN 743 mechanical theory and commercial risk logic are highly complex, the Excel product has already pre-packaged all the heavy lifting into **22 automated matching calculation rules**.
   <img width="1920" height="790" alt="image" src="https://github.com/user-attachments/assets/b30e51ae-fade-4f83-8869-7de538238ee4" />
