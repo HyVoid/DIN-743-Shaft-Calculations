@@ -20,6 +20,19 @@ Use the free web calculator for quick single-shaft checks, or download the fully
 > 
 > 📥 **Automated Excel Spreadsheet (.xlsx):** [**Download the Automated DIN 743 Shaft Fatigue & Valve Stem Verification Excel Template (30-Day Money-Back Guarantee)**](https://www.theseusworkshop.com/l/zjyuhp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=din-743-shaft-strength)
 
+
+## Questions, Feedback & Product Updates
+
+This toolkit is designed around practical din 743 shaft sizing, combined-load fatigue and material/notch factors workflows. Feedback helps identify unclear assumptions, missing scenarios, calculation issues, and improvements to the decision process.
+
+- **Questions & workflow fit:** [Ask about shaft geometry, load cases, bending and torsion inputs, axial force, material properties, surface or size factors, notch sensitivity, stress concentration factors, fatigue safety factors, or supported operating-condition classifications](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions).
+- **Ideas & improvements:** [Suggest additional shaft geometries, material records, operating-condition cases, validation checks, calculation explanations, or report outputs](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas).
+- **Report a technical problem:** [Open the DIN-743-Shaft-Calculations issue form](https://github.com/HyVoid/DIN-743-Shaft-Calculations/issues/new?template=bug-report.yml).
+- **Product updates:** [Follow maintenance and improvement notes](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates).
+
+Do not post customer drawings, proprietary CAD files, supplier design reports, machine identifiers, confidential load histories, or unpublished product designs. Use simplified geometry and synthetic load/material values. Do not treat public issue discussion as an engineering design review.
+Use the smallest reproducible example possible. Include the relevant worksheet, input field, date or scenario, and expected versus actual result. Browser demos and spreadsheet previews should be described separately from the downloadable Excel workbook when reporting an environment-specific issue.
+
 ---
 
 ## Who This DIN 743 Shaft Design Software & Excel Template Is For (User Roles & Scenarios)
