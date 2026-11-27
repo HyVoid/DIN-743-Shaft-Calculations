@@ -1,250 +1,226 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
+# DIN 743 Shaft Calculation Tool: Free Online Shaft Sizing Calculator & Automated Fatigue Strength Excel Template
 
-# DIN 743 Shaft Calculation Tool: Free Online Shaft Sizing Calculator & Automated Fatigue Strength Analysis Excel Template
-<img width="1920" height="790" alt="image" src="https://github.com/user-attachments/assets/7488196d-f46b-404a-9ee5-adf83da8c83d" />
- 
+<img width="1920" height="790" alt="DIN 743 Shaft Calculation Tool Preview" src="https://github.com/user-attachments/assets/7488196d-f46b-404a-9ee5-adf83da8c83d" />
 
-![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
-![Platform](https://img.shields.io/badge/Platform-Browser%20Calculator%20%2B%20Excel%20Template-green.svg)
-![Engineering Standard](https://img.shields.io/badge/Standard-DIN%20743%20Shaft%20Fatigue%20Verification-orange.svg)
-![Automation](https://img.shields.io/badge/Automation-22%20Built--In%20Material%20%26%20Valve%20Rules-brightgreen.svg)
+![Price](https://img.shields.io/badge/Excel%20Template-Free%20%2F%20Pay%20What%20You%20Want-brightgreen.svg)
+![Platform](https://img.shields.io/badge/Platform-Web%20Calculator%20%2B%20Excel%20(.xlsx)-blue.svg)
+![Engineering Standard](https://img.shields.io/badge/Standard-DIN%20743%20Fatigue%20Verification-orange.svg)
+![Automation](https://img.shields.io/badge/Built--In%20Logic-22%20Material%20%26%20Valve%20Rules-teal.svg)
+![License](https://img.shields.io/badge/License-Apache%202.0-lightgrey.svg)
 
-<p><strong>DIN 743 Shaft Calculation Template & Online Calculator</strong>: A ready-to-use, zero-setup <strong>mechanical shaft fatigue strength analysis tool</strong> and <strong>rotary/valve shaft sizing spreadsheet</strong> designed for engineers, CAD designers, and technical buyers who need instant, audit-ready results without memorizing complex German engineering tables. Available as a <strong>free browser-based shaft calculator</strong> and an <strong>automated Microsoft Excel template (.xlsx)</strong>, this toolkit calculates <strong>safety factors for combined bending, torsion, and axial loads</strong>, automates <strong>stress concentration factor (<em>K<sub>t</sub></em>)</strong> and <strong>notch sensitivity</strong> corrections, and calibrates material endurance limits across <strong>6 valve operating condition classifications</strong>.</p>
+**Get audit-ready DIN 743 shaft sizing and fatigue verification results in minutes—without memorizing German engineering tables, building fragile spreadsheets from scratch, or buying expensive FEA software.**
 
-**No signup. No software installation. Instant Pass/Fail engineering feedback.**
+The **DIN 743 Shaft Calculation Tool** is a plug-and-play **mechanical shaft fatigue strength analysis tool** and **rotary/valve shaft sizing spreadsheet** built for engineers, CAD designers, and technical decision-makers who need fast, defensible answers they can trust in real design reviews and supplier evaluations.
 
-Use the free web calculator for quick single-shaft checks, or download the fully unlocked **Pro Excel Workbook** featuring **22 pre-programmed material and surface matching rules**—paste your raw data and get instant batch calculation results without writing or dragging a single formula.
+It automatically calculates **safety factors for combined bending, torsion, and axial loads**, applies **stress concentration factor ($K_t$)** and **notch sensitivity** corrections, and calibrates material endurance limits across **6 valve operating condition classifications**.
 
-> 🌐 **Free Interactive Web App:** [**Launch the Free Online DIN 743 Shaft Sizing & Fatigue Calculator (No Install Required)**](https://hyvoid.github.io/DIN-743-Shaft-Calculations/)
-> 
-> 📥 **Automated Excel Spreadsheet (.xlsx):** [**Download the Automated DIN 743 Shaft Fatigue & Valve Stem Verification Excel Template (30-Day Money-Back Guarantee)**](https://www.theseusworkshop.com/l/zjyuhp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=din-743-shaft-strength)
+**Zero setup. Zero formula dragging. Instant Pass/Fail engineering & commercial clarity.**
 
+- Start right now with the **free browser calculator** for quick single-shaft checks (no signup required).
+- Grab the **full unlocked Automated Excel Workbook (`.xlsx`) for Free (Pay What You Want — `$0+`)** to unlock **22 pre-programmed material and surface matching rules**—just paste your shaft dimensions and load inputs to get instant batch Pass/Fail decisions.
+
+> 🌐 **Try Instantly in Your Browser (Free, No Install):**
+> [**Launch the Free Online DIN 743 Shaft Sizing & Fatigue Calculator →**](https://hyvoid.github.io/DIN-743-Shaft-Calculations/)
+>
+> 📥 **Get the Full Automated Excel Workbook (`.xlsx`) — Free / Pay What You Want (`$0+`):**
+> [**Download the Ready-to-Use DIN 743 Shaft Fatigue & Valve Stem Excel Template →**](https://www.theseusworkshop.com/l/zjyuhp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=din-743-shaft-strength)
+
+---
+
+## Live Spreadsheet Preview (See What You Get Before Downloading)
+
+Want to inspect the layout, built-in material rules, and audit-ready report tabs before grabbing your free copy? Explore the workbook structure directly in Google Sheets:
+
+👉 [**Open the Live Spreadsheet Preview on Google Sheets**](https://docs.google.com/spreadsheets/d/1hkUnfBzuRpEWYokyyuTbXEXIKju9FyKF/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)
+
+> **Compatibility Note:** Google Sheets preview may display occasional `#NAME?` warnings due to differences between Google Sheets and Microsoft Excel formula syntax. This affects the online preview only—the downloadable `.xlsx` workbook runs cleanly with full automation in Microsoft Excel.
+
+---
+
+## Who This DIN 743 Shaft Sizing & Fatigue Toolkit Is Built For
+
+You do not need a PhD in metallurgy or a `$10,000` simulation license to walk into a design review or supplier meeting with senior-level confidence. This **plug-and-play shaft verification workflow** is built for practical teams who need fast, reliable answers under tight deadlines:
+
+- **Junior Mechanical Engineers & CAD Designers:** Need a ready-to-use **shaft diameter sizing calculator** to verify stepped shafts, fillet radii, grooves, and keyways in SolidWorks, Inventor, or AutoCAD—turning days of deciphering DIN 743 Part 1–3 charts into a 5-minute check.
+- **Valve Engineers & Actuator Sizing Specialists:** Need a dedicated **valve stem torque and fatigue spreadsheet** pre-calibrated for **6 valve operating condition classifications** and corrosion-resistant alloys (**Martensitic Stainless Steel, Super Duplex, Nickel Alloys, Titanium Alloys, and AISI 4340**).
+- **Pump, Gearbox & Rotating Equipment Practitioners:** Need a repeatable **combined bending and torsion shaft calculation worksheet** to verify cyclic endurance limits, static yield margins, and overload risks without reinventing the math for every project.
+- **Technical Buyers, Cost Engineers & QA Reviewers:** Need an accessible **engineering & commercial decision sheet** to audit supplier drawings—catching under-designed shafts before field failure and spotting unnecessarily oversized alloy shafts before they inflate your BOM.
+
+---
+
+## Common Shaft Sizing Pain Points vs. Instant Automated Solutions
+
+| Real-World Sizing Pain Point | Why It Creates Career & Commercial Risk | How This DIN 743 Toolkit Solves It Instantly |
+| :--- | :--- | :--- |
+| **Guessing Shaft Fatigue Safety Factors ($S_f$)** | Rough estimates lead to rejected design reviews, awkward client questions, or field fatigue cracks. | Automatically computes **dynamic fatigue** and **static yield safety factors** against DIN 743 thresholds with clear **PASS / FAIL** flags. |
+| **Hard-to-Find Exotic Alloy Data** | Standard carbon steel textbook tables break down when sizing corrosion-resistant or high-load shafts. | Built-in rules for **Martensitic SS, Super Duplex, Nickel Alloys, Titanium Alloys, and AISI 4340** across **4 tensile strength ($R_m$) brackets**. |
+| **Error-Prone Multi-Axial Load Math** | Combining bending moments, torsional shear, and axial forces by hand makes mistakes easy to miss. | Integrated **von Mises equivalent stress engine** combining alternating and mean loads for **bending, torsion, and axial thrust**. |
+| **Overlooked Notch & Geometry Effects** | Ignoring shaft shoulders, fillets, and keyways hides local stress spikes that trigger premature fracture. | Real-time calculation of **geometric stress concentration ($K_t$)**, **fatigue notch factors ($K_f$)**, and **size reduction factors ($K_d$)**. |
+| **Comparing Raw Nominal Stress to Catalog Values** | Skipping surface roughness and operating severity derating overstates true shaft capacity by 30%–60%. | Automated derating across **5 surface finish states $\times$ 4 $R_m$ intervals**, calibrated for **6 valve operating condition classifications**. |
+| **Fragile Spreadsheets & Broken Cell Links** | Copy-pasting or dragging formulas in legacy Excel sheets silently corrupts batch calculations. | **Zero-drag automated architecture**—paste your raw inputs and let all **22 built-in calculation rules** update automatically. |
+
+---
+
+## Choose Your Workflow: Manual Lookup vs. Free Web Calculator vs. Free Excel Workbook
+
+Both the browser app and the Excel workbook are free to access—choose the format that matches how you work today:
+
+| Workflow Dimension | Manual DIN 743 Lookup / Scratchpad | Free Online Web Calculator | Automated Excel Workbook (`.xlsx`) — **Free / Pay What You Want** |
+| :--- | :--- | :--- | :--- |
+| **Best For** | Academic study or rough hand checks | Fast single-shaft browser checks | **Real-world design, batch sizing, supplier audits & client reports** |
+| **Alloy & Material Coverage** | Manual textbook table lookup | Standard baseline engineering steels | **22 pre-programmed rules (Martensitic SS, Super Duplex, Nickel, Titanium, 4340)** |
+| **Surface Finish $\times$ $R_m$ Matrix** | Manual DIN chart interpolation | Single-point surface input | **Automated 5 Surface States $\times$ 4 $R_m$ Range cross-matching matrix** |
+| **Valve Operating Conditions** | Custom manual derating required | General mechanical loading only | **Pre-calibrated for 6 Valve Operating Condition Classifications** |
+| **Spreadsheet Maintenance** | High risk of broken formulas | Resets when browser refreshes | **100% Auto-Updating (Zero formula dragging or cell-corner clicking)** |
+| **Deliverables & Audit Trail** | Unstandardized scratch notes | Quick screen check only | **Offline batch rows, editable inputs, clean audit-ready PDF export** |
+
+---
+
+## Go From Raw Dimensions to a Confident Decision in 4 Steps
+
+You don't need to build formulas or memorize DIN notation to produce clean, defensible calculations:
+
+### Step 1: Test a Quick Single-Shaft Case in the Browser
+Open the [**Free Online DIN 743 Shaft Calculator**](https://hyvoid.github.io/DIN-743-Shaft-Calculations/) and enter your shaft diameter ($d$), critical geometry feature (fillet radius, groove, or keyway), and loads to see how geometry drives stress concentration.
+
+### Step 2: Match Your Material Grade & Surface Finish
+Select your shaft or valve stem alloy and machining state. The engine automatically evaluates how **tensile strength ($R_m$)**, **yield strength ($R_{p0.2}$)**, and **surface roughness ($R_z$)** determine your real component endurance limit.
+
+### Step 3: Apply Combined Loads & Service Severity
+Enter your operating **bending moment**, **torsional torque**, and **axial thrust**, then select the operating severity to get immediate **PASS / FAIL** feedback against DIN 743 criteria.
+
+### Step 4: Scale to Real Projects with the Free Automated Excel Workbook
+Ready to save your calculations, run multiple design options side by side, or export an audit-ready report? Grab the [**Automated DIN 743 Shaft & Valve Calculation Excel Workbook (Free / Pay What You Want)**](https://www.theseusworkshop.com/l/zjyuhp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=din-743-shaft-strength).
+
+<img width="1920" height="790" alt="Automated DIN 743 Excel Dashboard Preview" src="https://github.com/user-attachments/assets/9ffa110b-aa4a-4650-bfe3-ddd5105abfec" />
+
+- **Senior-Level Logic, Beginner-Friendly Operation:** Complex DIN 743 fatigue theory and commercial risk checks are pre-packaged into **22 automated matching rules**, so you get reliable outputs on day one.
+- **Built for Severe-Service Industrial Materials:** Covers **Martensitic Stainless Steel, Super Duplex Stainless Steel, Nickel Alloys, Titanium Alloys, and AISI 4340**, cross-referenced across **5 surface finish states $\times$ 4 $R_m$ brackets** and **6 valve operating condition classifications**.
+- **True Paste-and-Go Automation:** No dragging cell corners, no broken VLOOKUPs, no macros to troubleshoot. Download the `.xlsx` file, paste your dimensional and load data into the input columns, and immediately generate clean engineering and commercial PASS/FAIL reports.
+
+<img width="1920" height="790" alt="22 Pre-Programmed Material and Valve Rules Preview" src="https://github.com/user-attachments/assets/b30e51ae-fade-4f83-8869-7de538238ee4" />
+
+👉 [**Get the Automated DIN 743 Excel Workbook (Free / Pay What You Want — `$0+`) →**](https://www.theseusworkshop.com/l/zjyuhp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=din-743-shaft-strength)
+
+---
+
+## The Commercial Logic: Why DIN 743 Protects Both Your Reputation & Your Margin
+
+On paper, shaft calculation looks like pure mechanics. On the job, **DIN 743 verification is a commercial decision shield**. Most costly failures do not happen because someone forgot basic math—they happen because teams rely on scattered notes or uncalibrated shortcuts that hide two expensive blind spots:
+
+### Blind Spot 1: The "Nominal Stress" Trap (Field Failures & Costly Rework)
+A common shortcut is comparing raw **nominal stress** directly against a material catalog's fatigue or yield limit.
+- **The Engineering Reality:** Keyways, shoulder steps, larger shaft diameters, machined surface roughness, and harsh valve duty cycles routinely cut a component's actual fatigue capacity by **30% to 60%**.
+- **The Business Impact:** A shaft that looks "safe" on a simplified check can fracture after a few thousand cycles in service—causing unplanned downtime, warranty claims, and lost client trust.
+
+#### Quick Example: Raw Nominal Check vs. Automated DIN 743 Check
+- **Naive Nominal Check:** Nominal bending stress of `$185\text{ MPa}$` vs. catalog material fatigue limit of `$210\text{ MPa}$` $\rightarrow$ looks like **PASS**.
+- **Automated DIN 743 Check:** After applying notch sensitivity, size derating, **5-state surface roughness**, and **6-class valve service factors**, the actual allowable endurance limit drops to `$168\text{ MPa}$`.
+
+```text
+Naive Check:
+185 MPa < 210 MPa  ->  PASS (Hidden Field Failure Risk)
+
+DIN 743 Corrected Check:
+185 MPa > 168 MPa  ->  FAIL (Catch & Fix Before Manufacturing)
+```
+
+### Blind Spot 2: Blind Over-Engineering (Overpriced Bids & Eroded Margins)
+When engineers or buyers aren't sure how an alloy performs across specific $R_m$ ranges or operating classes, they pad designs with arbitrary "fear margins"—oversizing the shaft diameter or jumping prematurely from **Martensitic Stainless Steel / 4340** to ultra-expensive **Nickel or Titanium Alloys**.
+- **The Engineering Reality:** Increasing a shaft diameter by just 20% increases bar stock weight by over 40% and forces larger, pricier actuators, bearings, and housings.
+- **The Business Impact:** Inflated BOM costs lose competitive tenders or quietly wipe out 15%–35% of your gross margin.
+
+### How This Free Workbook Helps You Win Both Ways
+1. **Defend Your Safety Margins:** Automatically enforces DIN 743 derating across **5 surface states $\times$ 4 $R_m$ intervals** and **6 valve duty classes** so risky designs never slip into production.
+2. **Optimize Material Cost in Seconds:** Compare **Martensitic SS, Super Duplex, Nickel, Titanium, and 4340** side by side to choose the most cost-effective compliant material and minimum safe diameter—delivering immediate commercial value to your team.
+
+---
+
+## About Theseus Workshop — Plug-and-Play Decision Toolkits
+
+This DIN 743 workbook is our free community starter kit from **Theseus Workshop**.
+
+We design lightweight, ready-to-use Excel templates and decision calculators for real-world engineering, construction, and industrial business workflows—built specifically for practitioners who want **senior-level structure, fast results, and zero software bloat** without spending weeks building models from scratch.
+
+> **Our Core Design Principle:** Put the right industry rules, validations, and decision outputs in one clean workspace—so you can make high-stakes technical and commercial calls with confidence in minutes.
+
+- 📥 **Grab This Free Toolkit (`$0+` Pay What You Want):** [**Download the Automated DIN 743 Shaft & Valve Excel Workbook**](https://www.theseusworkshop.com/l/zjyuhp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=din-743-shaft-strength)
+- 🧰 **Need More Ready-to-Use Business & Engineering Decision Toolkits?** If this free template saves you hours today, explore our complete library of plug-and-play spreadsheets for **cost estimating, project control, BOQ takeoffs, and industrial TCO analysis** at [**TheseusWorkshop.com**](https://www.theseusworkshop.com?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20about%20section&utm_content=din-743-shaft-strength).
+
+---
+
+## Explore Other Decision Toolkits in This Series
+
+Looking for the same paste-and-go structure across other commercial and engineering workflows? Check out our companion repositories:
+
+- **[construction-estimating](https://github.com/HyVoid/construction-estimating)** — *What will this construction scope cost under current assumptions?* Standardize tender estimating and turn completed estimates into reusable cost libraries.
+- **[aia-construction-cost-tracker-excel](https://github.com/HyVoid/aia-construction-cost-tracker-excel)** — *How do estimates and tracked costs compare through delivery?* Track estimated vs. actual costs using AIA-standard structures.
+- **[construction-project-management-excel](https://github.com/HyVoid/construction-project-management-excel)** — *What is our real project financial position after change orders and billing?* Integrate budgets, change orders, progress billing, and cash flow in one control framework.
+- **[industrial-energy-tco-calculator](https://github.com/HyVoid/industrial-energy-tco-calculator)** — *Which energy option delivers the lowest true Total Cost of Ownership?* Compare industrial energy sources by normalizing fuel cost, efficiency, capex, and lifecycle costs.
+- **[residential-boq-template](https://github.com/HyVoid/residential-boq-template)** — *What will this residential project cost and which divisions are drifting over budget?* Estimate costs from BOQ takeoffs while tracking approved budgets against actual spend.
+- **[tunnel-cost-estimator-boq-excel](https://github.com/HyVoid/tunnel-cost-estimator-boq-excel)** — *What will this drill-and-blast tunnel project cost under the assumed cycle?* Estimate excavation, drilling, blasting, support, equipment, and labor into a structured BOQ.
+- **[Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit](https://github.com/HyVoid/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit)** — *Can I trace every foundation bid number back to measured dimensions?* Automate concrete volumes, formwork, earthwork, bar bending schedules (BBS), and BOQ pricing.
+
+👉 [**Browse All Ready-to-Use Toolkits at TheseusWorkshop.com**](https://www.theseusworkshop.com/)
+
+---
 
 ## Questions, Feedback & Product Updates
 
-This toolkit is designed around practical din 743 shaft sizing, combined-load fatigue and material/notch factors workflows. Feedback helps identify unclear assumptions, missing scenarios, calculation issues, and improvements to the decision process.
+We actively improve this toolkit based on real-world DIN 743 shaft sizing, combined-load fatigue, and material/notch workflows:
 
-- **Questions & workflow fit:** [Ask about shaft geometry, load cases, bending and torsion inputs, axial force, material properties, surface or size factors, notch sensitivity, stress concentration factors, fatigue safety factors, or supported operating-condition classifications](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions).
-- **Ideas & improvements:** [Suggest additional shaft geometries, material records, operating-condition cases, validation checks, calculation explanations, or report outputs](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas).
-- **Report a technical problem:** [Open the DIN-743-Shaft-Calculations issue form](https://github.com/HyVoid/DIN-743-Shaft-Calculations/issues/new?template=bug-report.yml).
-- **Product updates:** [Follow maintenance and improvement notes](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates).
+- **Questions & workflow fit:** [Ask about shaft geometry, load cases, bending/torsion/axial inputs, material rules, notch sensitivity, or operating classifications](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions)
+- **Feature ideas & requests:** [Suggest new shaft geometries, alloy records, operating cases, or report views](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas)
+- **Report a technical bug:** [Submit an issue via the DIN-743-Shaft-Calculations bug report form](https://github.com/HyVoid/DIN-743-Shaft-Calculations/issues/new?template=bug-report.yml)
+- **Release notes & updates:** [Follow maintenance and improvement logs](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates)
 
-Do not post customer drawings, proprietary CAD files, supplier design reports, machine identifiers, confidential load histories, or unpublished product designs. Use simplified geometry and synthetic load/material values. Do not treat public issue discussion as an engineering design review.
-Use the smallest reproducible example possible. Include the relevant worksheet, input field, date or scenario, and expected versus actual result. Browser demos and spreadsheet previews should be described separately from the downloadable Excel workbook when reporting an environment-specific issue.
-
----
-
-## Who This DIN 743 Shaft Design Software & Excel Template Is For (User Roles & Scenarios)
-
-Whether you are sizing a drive shaft from scratch, validating a valve stem under high-pressure cyclic loading, or auditing a supplier's mechanical calculation report, this **shaft strength verification template** eliminates manual lookup errors:
-
-* **Junior Mechanical Engineers & Entry-Level CAD Designers:** Need a plug-and-play **shaft diameter sizing calculator** to verify stepped shafts, fillet radii, and keyways in SolidWorks, Inventor, or AutoCAD without spending days deciphering DIN 743 Part 1–3 charts or running costly Finite Element Analysis (FEA).
-* **Valve Design Engineers & Actuator Sizing Specialists:** Need a dedicated **valve stem torque and fatigue spreadsheet** pre-calibrated for **6 valve operating condition classifications** and corrosion-resistant alloys (**Martensitic Stainless Steel, Super Duplex, Nickel Alloys, Titanium Alloys, and AISI 4340**).
-* **Pump, Gearbox & Rotating Equipment Engineers:** Need a repeatable **combined bending and torsion shaft calculation worksheet** to evaluate cyclic endurance limits, peak static overloads, and shaft deflection safety margins.
-* **Technical Procurement, Cost Engineers & QA Auditors:** Need a zero-barrier **engineering decision-support spreadsheet** to verify whether a shaft design is dangerously under-sized (risking field failure) or overly conservative (wasting raw material budget on oversized alloy bar stock).
-
-## Spreadsheet Preview
-
-Want to take a closer look before downloading? You can preview the spreadsheet in Google Sheets to explore its layout, structure, and calculation logic.
-
-**[View Spreadsheet Preview on Google Sheets](https://docs.google.com/spreadsheets/d/1hkUnfBzuRpEWYokyyuTbXEXIKju9FyKF/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**
-
-> **Note on Compatibility:** The Google Sheets preview may display occasional `#NAME?` errors or formula warnings due to differences between Google Sheets and Microsoft Excel formula compatibility. These are preview-only compatibility issues and do not affect the functionality of the original Excel workbook. For the intended formula behavior and full functionality, please download and open the `.xlsx` file in Microsoft Excel.
+> **Privacy & Reproducibility Note:** Please do not post confidential customer drawings, proprietary CAD files, supplier reports, or unpublished product specs in public threads. Share simplified geometry and synthetic load values with the smallest reproducible example (worksheet name, input cell, expected vs. actual result), and specify whether the issue occurred in the browser app, Google Sheets preview, or Excel workbook. Public discussions do not constitute a formal stamped engineering design review.
 
 ---
 
-## Shaft Fatigue Verification & Sizing: Common Pain Points vs. Automated Template Solutions
-
-| Mechanical Design & Sizing Pain Point | High-Frequency Engineering Risk | How This DIN 743 Calculator & Excel Template Solves It |
-| :--- | :--- | :--- |
-| **Uncertain Shaft Fatigue Safety Factors ($S_f$)** | Guessing safety margins leads to unexpected fatigue cracks or failed customer design audits. | Automatically calculates **dynamic fatigue safety factors** and **static yield safety factors** against DIN 743 baseline thresholds with instant **Pass/Fail** flags. |
-| **Confusing Material Endurance Limit Lookups** | Standard carbon steel tables fail when sizing exotic alloys for corrosive or high-load environments. | Built-in database covering **Martensitic SS, Super Duplex, Nickel Alloys, Titanium Alloys, and 4340 Steel** across **4 tensile strength ($R_m$) brackets**. |
-| **Complex Multi-Axial Load Combinations** | Evaluating simultaneous bending moments, torsional shear, and axial tension by hand is error-prone. | Integrated **von Mises equivalent stress calculator** combining alternating and mean loads for **bending, torsion, and axial forces**. |
-| **Unquantified Notch Sensitivity & Stress Concentrations** | Ignoring shaft shoulders, grooves, and keyways causes catastrophic fracture at geometry transitions. | Real-time tracking of **geometric stress concentration factors ($K_t$)**, **fatigue notch factors ($K_f$)**, and **size reduction factors ($K_d$)**. |
-| **Raw Nominal Stress Misuse** | Comparing nominal CAD stress directly to catalog yield strength ignores surface finish and operating severity. | Automated derating across **5 surface roughness states × 4 $R_m$ intervals**, calibrated specifically for **6 valve operating condition classifications**. |
-| **Broken Formulas in Legacy Spreadsheets** | Copying and dragging cells in old Excel sheets corrupts references during batch shaft evaluations. | **Zero-drag automated Excel architecture**—paste your raw parameter rows and let the 22 built-in calculation rules auto-populate results immediately. |
-
----
-
-## Feature Comparison: Manual DIN 743 Calculation vs. Free Web Calculator vs. Pro Excel Template
-
-| Operational & Engineering Dimension | Manual Calculation / Scratchpad Sheet | Free Online DIN 743 Browser Calculator | Automated DIN 743 Pro Excel Template (.xlsx) |
-| :--- | :--- | :--- | :--- |
-| **Target Use Case** | Academic study or one-off rough estimation | Fast single-point browser validation | **Production design, batch shaft/valve sizing & QA documentation** |
-| **Material Library & Alloy Coverage** | Manual textbook table lookup required | Standard baseline engineering steels | **Pre-built 22 calculation rules (Martensitic SS, Super Duplex, Nickel Alloys, Titanium, 4340)** |
-| **Surface Finish × Tensile Strength ($R_m$) Matrix** | Manual interpolation from DIN charts | Basic single-point surface input | **Automated 5 Surface States × 4 $R_m$ Range cross-matching matrix** |
-| **Valve Operating Condition Calibration** | Not included (requires custom derating) | General mechanical loading only | **Pre-calibrated for 6 Valve Operating Condition Classifications** |
-| **Formula Maintenance & Data Entry** | High risk of cell-reference & copy-paste errors | Manual single-item web form input | **100% Auto-Updating Formulas (No double-clicking or dragging formulas required)** |
-| **Batch Processing & Offline Audit Trail** | Slow, unstandardized, hard to audit | Single session only (resets on refresh) | **Unlimited offline batch rows, customizable unlocked sheets, client-ready PDF export** |
-
----
-
-## Quick Start Tutorial: How to Calculate Shaft Fatigue Strength in 4 Steps (Zero-Formula Workflow)
-
-You do not need a background in advanced metallurgy or structural mechanics to get accurate shaft sizing results. Follow this workflow to go from raw dimensions to an engineering decision in minutes:
-
-### Step 1: Validate a Single Shaft Geometry in the Free Browser Calculator
-Open the [**Free Online DIN 743 Shaft Strength Web Calculator**](https://hyvoid.github.io/DIN-743-Shaft-Calculations/) and enter your baseline shaft diameter ($d$), critical cross-section feature (stepped fillet radius, keyway, or groove), and nominal load inputs to see how geometry affects stress concentration.
-
-### Step 2: Select Your Material Grade and Surface Roughness State
-Choose your shaft or valve stem material and machining finish. The calculation engine evaluates how your **tensile strength ($R_m$)** and **yield strength ($R_{p0.2}$)** interact with surface roughness ($R_z$) to establish the true corrected endurance limit.
-
-### Step 3: Apply Combined Loads and Operating Severity
-Input your operating **bending moment**, **torsional torque**, and **axial thrust**, then select the corresponding service severity. Instantly review whether the cross-section passes or fails DIN 743 safety factor criteria.
-
-### Step 4: Upgrade to One-Click Batch Automation with the Pro Excel Template
-Once you finish your single-point trial in the browser, scale your workflow to real-world engineering production with the [**Automated DIN 743 Shaft & Valve Calculation Excel Template**](https://www.theseusworkshop.com/l/zjyuhp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=din-743-shaft-strength).
-<img width="1920" height="790" alt="image" src="https://github.com/user-attachments/assets/9ffa110b-aa4a-4650-bfe3-ddd5105abfec" />
-
-
-* **Why switch to the Excel Workbook?** While the underlying DIN 743 mechanical theory and commercial risk logic are highly complex, the Excel product has already pre-packaged all the heavy lifting into **22 automated matching calculation rules**.
-  <img width="1920" height="790" alt="image" src="https://github.com/user-attachments/assets/b30e51ae-fade-4f83-8869-7de538238ee4" />
-
-* **Full Mainstream & Severe-Service Coverage:** Newly expanded to cover high-demand industrial materials—including **Martensitic Stainless Steel, Super Duplex Stainless Steel, Nickel Alloys, Titanium Alloys, and AISI 4340 Alloy Steel**—automatically cross-referenced across **5 surface finish states × 4 tensile strength ($R_m$) intervals** to calibrate **6 distinct valve operating condition classifications**.
-* **True Zero-Threshold Operation (No Formula Dragging):** Every lookup and stress correction formula updates dynamically. **You do not even need to double-click the cell corner or drag your mouse to copy formulas.** Simply download the `.xlsx` file to your computer, paste your own dimensional and load data into the input columns, and get instant, one-click Pass/Fail engineering and commercial decision feedback—allowing complete beginners to immediately leverage senior-level analysis.
-
-👉 [**Download the Ready-to-Use DIN 743 Automated Excel Template on Theseus Workshop**](https://www.theseusworkshop.com/l/zjyuhp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=din-743-shaft-strength)
-
----
-
-## The Business Logic & Methodology: Uncovering Hidden Commercial Blind Spots in Shaft Sizing
-
-For non-specialists, junior engineers, and project managers, shaft calculation often looks like a pure math exercise. In reality, **DIN 743 shaft verification is a commercial risk-control tool**. 
-
-DIN 743 calculations rarely fail because of basic arithmetic; they fail because engineering assumptions fragment across handwritten notes, uncalibrated spreadsheets, and disconnected vendor quotes. When a team lacks a standardized calculation system, they fall into two expensive commercial blind spots:
-
-### Blind Spot 1: The "Nominal Stress" Trap (Warranty Claims, Field Fracture & Recall Liability)
-Beginners frequently calculate raw **nominal stress** (dividing load by cross-sectional area) and compare it directly against a material's catalog fatigue or yield strength. 
-* **The Objective Fact:** Real-world shafts contain stress raisers (keyways, shoulder steps), size penalties (larger diameters have lower specific fatigue strength), and surface roughness micro-notches. Together with severe valve operating conditions, these factors routinely reduce a shaft's actual load-carrying capacity by **30% to 60%**.
-* **The Commercial Consequence:** A shaft or valve stem that looks "100% safe" on a basic calculator can snap in the field after a few thousand cycles, triggering unplanned plant shutdowns, emergency replacement penalties, and warranty claims that wipe out the profit of an entire product line.
-
-#### Real-World Impact: Raw Nominal Stress vs. DIN 743 Corrected Stress
-* **Before (Uninformed Nominal Check):** A designer compares a nominal bending stress of `185 MPa` directly against a catalog material fatigue limit of `210 MPa` and approves the drawing for manufacturing.
-* **After (Automated DIN 743 Template Check):** The template automatically applies notch sensitivity, shaft size derating, **5-state surface roughness factors**, and **6-class valve operating calibration**. The actual allowable endurance limit drops to `168 MPa`.
-
-```text
-Original Naive Decision:
-185 MPa < 210 MPa  →  PASS (Hidden Field Failure Risk)
-
-Corrected DIN 743 Decision:
-185 MPa > 168 MPa  →  FAIL (Redesign or Material Upgrade Required Before Production)
-
-```
-
-### Blind Spot 2: Blind Over-Engineering & Alloy Overspending (Lost Bids & Margin Erosion)
-
-When engineers or buyers do not know exactly how a material behaves across specific tensile strength ($R_m$) intervals or valve service classifications, they compensate for uncertainty by adding arbitrary "fear factors"—either making the shaft unnecessarily thick or blindly upgrading from **Martensitic Stainless Steel or 4340** to ultra-expensive **Nickel Alloys or Titanium Alloys**.
-
-* **The Objective Fact:** Oversizing a valve stem or drive shaft by just 20% increases bar stock weight by over 40%, forces the selection of a larger, more expensive actuator or bearing housing, and increases machining time.
-* **The Commercial Consequence:** Inflated Bill of Materials (BOM) costs make your quotes uncompetitive in price-sensitive bids, or silently erode 15%–35% of your gross manufacturing margin.
-
-### How Our 22-Rule Automated Excel Engine Solves Both Problems
-
-Instead of requiring you to master German mechanical standards, this workbook productizes the decision logic into a foolproof workflow:
-
-1. **Eliminates Under-Design Liability:** Automatically enforces DIN 743 derating across **5 surface states × 4 $R_m$ brackets** and **6 valve operating conditions** so marginal designs never slip through QA review.
-2. **Prevents Material Overspending:** Lets you test **Martensitic SS, Super Duplex, Nickel Alloys, Titanium, and 4340** side by side in seconds—so you can select the exact cost-optimal alloy and minimum safe diameter that meets compliance, protecting both your technical reputation and your profit margin.
-
----
-
-## About Theseus Workshop
-
-I build lightweight trackers, engineering calculators, and commercial decision-support templates for complex technical workflows with too many moving parts to reliably hold in one person's head.
-
-The guiding principle behind every tool is simple:
-
-> **What critical data and rules need to exist in one place so your next engineering or business decision can be made confidently in seconds?**
-
-This **DIN 743 Shaft Fatigue Calculation Tool** turns proven mechanical engineering standards into a reusable, zero-threshold operational asset rather than another fragile, isolated spreadsheet.
-
-* 🛒 **Get This Template:** **[Download the Automated DIN 743 Shaft & Valve Calculation Excel Workbook](https://www.theseusworkshop.com/l/zjyuhp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=din-743-shaft-strength)**
-* 🧰 **Explore All Engineering & Decision Templates:** Visit our official store at **[TheseusWorkshop.com](https://www.google.com/search?q=https://www.theseusworkshop.com%3Futm_source%3Dgithub%26utm_medium%3DGitHub%2520README%26utm_campaign%3Dreadme%2520about%2520section%26utm_content%3Ddin-743-shaft-strength)** to discover more plug-and-play spreadsheets, engineering verification workflows, and business decision tools.
-
----
-
-## Technical Details
+## Technical Details & Calculation Architecture
 
 <details>
-<summary>For technical reviewers, Excel practitioners, and collaborators</summary>
+<summary><strong>Click to expand:</strong> Workbook Architecture, 3 Classic Engineering Traps, Worked Valve Stem Example, Formulas & Validation Rules (For Technical Reviewers)</summary>
 
 ---
 
 ### Workbook Architecture
 
-| Sheet       | Purpose                                                |
-| ----------- | ------------------------------------------------------ |
-| GUIDE       | Usage instructions, scope, version control, disclaimer |
-| INPUT       | Single editable entry point                            |
-| REFERENCE   | Material database and DIN parameters                   |
-| CALCULATION | Protected calculation engine                           |
-| RESULTS     | Safety dashboard and PASS/FAIL evaluation              |
-| REPORT      | Standardized reporting output                          |
+| Sheet | Purpose |
+| :--- | :--- |
+| `GUIDE` | Usage instructions, scope, version control, disclaimer |
+| `INPUT` | Single editable entry point with built-in input validation |
+| `REFERENCE` | Protected material database and DIN 743 lookup parameters |
+| `CALCULATION` | Protected calculation engine (prevents accidental formula overwrite) |
+| `RESULTS` | Safety factor dashboard and automated PASS / FAIL evaluation |
+| `REPORT` | Standardized, print-ready engineering reporting output |
 
-#### Data Flow
+#### Clean One-Way Data Flow
 
 ```text
-GUIDE
-   ↓
-INPUT
-   ↓
-REFERENCE
-   ↓
-CALCULATION
-   ↓
-RESULTS
-   ↓
-REPORT
+GUIDE -> INPUT -> REFERENCE -> CALCULATION -> RESULTS -> REPORT
 ```
 
-Validation occurs at INPUT.
-
-Outputs depend exclusively on CALCULATION results.
-
-No circular references are permitted.
+- Input validation runs directly on `INPUT`.
+- All outputs reference `CALCULATION` exclusively—zero circular references permitted.
 
 ---
 
 ### Three Traps That Catch Even Experienced Mechanical Engineers
 
----
-
 #### Trap 1: Comparing Nominal Stress Directly to Material Fatigue Limits
+- **Faulty Decision:** `$185\text{ MPa} < 210\text{ MPa} \rightarrow \text{PASS}$`
+- **Why It Fails:** Catalog endurance limits must be corrected for size ($K_d$), surface ($K_F$), and notch effects ($\beta$):
 
-A decision was made:
+$$\sigma_{WK} = \frac{\sigma_W \cdot K_d \cdot K_F}{\beta}$$
 
-```
-185 MPa < 210 MPa
-PASS
-```
-
-Faulty assumption:
-
-Nominal stresses represent actual fatigue capacity.
-
-Why incorrect:
-
-Material endurance limits must be adjusted for component effects.
-
-Corrected approach:
-
-```
-σWK = (σW × Kd × KF) / β
-```
-
-Corrected outcome:
-
-```
-Corrected endurance limit:
-168 MPa
-
-185 MPa > 168 MPa
-
-FAIL
-```
+- **Corrected Outcome:** Corrected component endurance limit drops to `$168\text{ MPa}$`. Since `$185\text{ MPa} > 168\text{ MPa}$`, the true result is **FAIL**.
 
 <details>
-<summary>Formula Reference</summary>
+<summary>Excel Formula Reference</summary>
 
 ```excel
 =(Sigma_W * Kd * KF) / Beta
@@ -252,132 +228,70 @@ FAIL
 
 </details>
 
----
+#### Trap 2: Underestimating Geometry & Fillet Radius Effects
+- **Faulty Assumption:** Small changes in shoulder fillets or grooves have negligible impact.
+- **Corrected Approach:** Convert geometric stress concentration ($\alpha$) into fatigue notch factor ($\beta$) via notch sensitivity ($q$):
 
-#### Trap 2: Ignoring Geometry Effects
+$$\beta = 1 + q \cdot (\alpha - 1)$$
 
-Decision:
-
-Increase shaft diameter slightly.
-
-Faulty assumption:
-
-Small geometry changes have negligible influence.
-
-Why incorrect:
-
-Fillets and grooves alter stress concentration significantly.
-
-Corrected approach:
-
-Evaluate α and β factors.
-
-Outcome:
-
-Larger fillet radius improved fatigue safety by reducing notch severity.
+- **Outcome:** Increasing a fillet radius often improves fatigue safety far more cost-effectively than upgrading the entire shaft alloy.
 
 <details>
-<summary>Formula Reference</summary>
+<summary>Excel Formula Reference</summary>
 
 ```excel
-Beta = 1 + q*(Alpha-1)
+=1 + q*(Alpha - 1)
+```
+
+</details>
+
+#### Trap 3: Evaluating Bending and Torsion Independently
+- **Faulty Assumption:** If bending safety ($S_b$) and torsion safety ($S_t$) each pass individually, the shaft is safe.
+- **Corrected Approach:** Evaluate combined multi-axial fatigue safety:
+
+$$S = \frac{S_b \cdot S_t}{\sqrt{S_b^2 + S_t^2}}$$
+
+- **Outcome:** Two individually passing load cases frequently result in a **combined FAIL** under simultaneous loading.
+
+<details>
+<summary>Excel Formula Reference</summary>
+
+```excel
+=(Sb * St) / SQRT(Sb^2 + St^2)
 ```
 
 </details>
 
 ---
 
-#### Trap 3: Treating Bending and Torsion Independently
+### Worked Example Scenario (17-4PH Valve Stem)
 
-Decision:
+| Parameter | Value |
+| :--- | ---: |
+| Material | 17-4PH |
+| Shaft Diameter ($d$) | `$40\text{ mm}$` |
+| Fillet Radius ($r$) | `$2\text{ mm}$` |
+| Bending Moment ($M_b$) | `$450,000\text{ N}\cdot\text{mm}$` |
+| Torque ($T$) | `$180,000\text{ N}\cdot\text{mm}$` |
+| Service Factor ($K_A$) | `$1.25$` |
+| Required Safety Factor ($S_{\min}$) | `$1.50$` |
 
-Both safety factors exceed limits individually.
+**Intermediate Section & Nominal Stress Calculations:**
 
-Faulty assumption:
+$$W_b = \frac{\pi d^3}{32}, \quad W_p = \frac{\pi d^3}{16}$$
 
-Independent acceptance guarantees system acceptance.
+$$\sigma_b = \frac{M_b \cdot K_A}{W_b}, \quad \tau_t = \frac{T \cdot K_A}{W_p}$$
 
-Why incorrect:
+After applying notch sensitivity, geometry corrections, size effects, and surface influence factors:
 
-Combined loading governs fatigue performance.
-
-Corrected approach:
-
-Use combined safety assessment.
-
-Outcome:
-
-Individual PASS conditions became combined FAIL.
-
-<details>
-<summary>Formula Reference</summary>
-
-```excel
-S=(Sb*St)/SQRT(Sb^2+St^2)
-```
-
-</details>
+- **Calculated Combined Safety Factor:** `$S = 1.38$`
+- **Requirement:** `$S \ge 1.50$`
+- **Result:** **FAIL** (`$1.38 < 1.50$`)
+- **Actionable Recommendation:** Increase shaft diameter, enlarge fillet radius, reduce applied loads, or re-evaluate material grade before releasing to manufacturing.
 
 ---
 
-### Example Scenario
-
-A valve stem section is evaluated using:
-
-| Parameter              |        Value |
-| ---------------------- | -----------: |
-| Material               |       17-4PH |
-| Diameter               |        40 mm |
-| Fillet Radius          |         2 mm |
-| Bending Moment         | 450,000 N·mm |
-| Torque                 | 180,000 N·mm |
-| Service Factor         |         1.25 |
-| Required Safety Factor |         1.50 |
-
-Intermediate calculations:
-
-```text
-Wb = πd³/32
-Wp = πd³/16
-
-σb = Mb×KA/Wb
-τt = T×KA/Wp
-```
-
-After applying:
-
-* notch sensitivity,
-* geometry corrections,
-* size effects,
-* surface influence factors,
-
-the combined fatigue safety factor becomes:
-
-```text
-S = 1.38
-```
-
-Interpretation:
-
-```
-Required:
-S ≥ 1.50
-
-Actual:
-S = 1.38
-```
-
-Recommendation:
-
-Increase diameter, modify geometry, reduce loads, or reconsider material selection before release.
-
-Decision implication:
-
-The shaft should not proceed to manufacturing under the current design assumptions.
-
----
-
-### Formula Reference
+### Core Formula Reference
 
 <details>
 <summary>Section Properties</summary>
@@ -387,9 +301,7 @@ Wp = PI()*(d^3)/16
 Wb = PI()*(d^3)/32
 ```
 
-Purpose:
-
-Calculate torsional and bending section moduli.
+Calculates torsional and bending section moduli for solid circular shafts.
 
 </details>
 
@@ -397,13 +309,11 @@ Calculate torsional and bending section moduli.
 <summary>Nominal Stress</summary>
 
 ```excel
-σb=(Mb×KA)/Wb
-τt=(T×KA)/Wp
+Sigma_b = (Mb * KA) / Wb
+Tau_t   = (T * KA) / Wp
 ```
 
-Purpose:
-
-Calculate nominal stresses.
+Calculates application-factor-adjusted nominal bending and torsional stresses.
 
 </details>
 
@@ -411,12 +321,10 @@ Calculate nominal stresses.
 <summary>Notch Effects</summary>
 
 ```excel
-β=1+q×(α−1)
+Beta = 1 + q * (Alpha - 1)
 ```
 
-Purpose:
-
-Convert geometric concentration into fatigue influence.
+Converts geometric stress concentration into effective fatigue notch impact.
 
 </details>
 
@@ -424,63 +332,43 @@ Convert geometric concentration into fatigue influence.
 <summary>Corrected Endurance Limits</summary>
 
 ```excel
-σWK=(σW×Kd×KF)/β
-τWK=(τW×Kd×KF)/β
+Sigma_WK = (Sigma_W * Kd * KF) / Beta
+Tau_WK   = (Tau_W * Kd * KF) / Beta
 ```
 
-Purpose:
-
-Determine component fatigue capacity.
+Determines actual component-level fatigue strength.
 
 </details>
 
 <details>
-<summary>Combined Safety</summary>
+<summary>Combined Safety Factor</summary>
 
 ```excel
-S=(Sb×St)/SQRT(Sb^2+St^2)
+S = (Sb * St) / SQRT(Sb^2 + St^2)
 ```
 
-Purpose:
-
-Evaluate final acceptability.
+Evaluates final combined bending + torsion fatigue acceptability.
 
 </details>
 
 ---
 
-### Validation Rules
+### Built-In Input Validation Rules
 
-| Field                 | Rule                            | Error Behavior              |
-| --------------------- | ------------------------------- | --------------------------- |
-| Project Name          | Required                        | Prevent completion          |
-| Material ID           | Must exist in library           | Reject invalid entry        |
-| Diameter              | Greater than zero               | Validation warning          |
-| Radius                | Positive and less than diameter | Validation warning          |
-| Bending Moment        | ≥ 0                             | Reject negative input       |
-| Torque                | ≥ 0                             | Reject negative input       |
-| Service Factor        | 1.00–3.00                       | Prevent invalid entry       |
-| Minimum Safety Factor | 1.20–5.00                       | Prevent invalid entry       |
-| Reference Data        | Administrator controlled        | Hidden and protected        |
-| Calculation Engine    | Read-only                       | Formula overwrite prevented |
+| Field | Validation Rule | Error Behavior |
+| :--- | :--- | :--- |
+| Project Name | Required | Prevents incomplete report generation |
+| Material ID | Must exist in library | Rejects invalid material entry |
+| Diameter ($d$) | `$> 0$` | Validation warning |
+| Fillet Radius ($r$) | `$0 < r < d$` | Validation warning |
+| Bending Moment ($M_b$) | `$\ge 0$` | Rejects negative input |
+| Torque ($T$) | `$\ge 0$` | Rejects negative input |
+| Service Factor ($K_A$) | `$1.00 - 3.00$` | Prevents out-of-range entry |
+| Minimum Safety Factor | `$1.20 - 5.00$` | Prevents out-of-range entry |
+| Reference Data | Admin controlled | Hidden and protected |
+| Calculation Engine | Read-only | Prevents accidental formula overwrite |
 
 </details>
-
----
-
-
-
-## Other Tools in This Series
-
-* **[construction-estimating](https://github.com/HyVoid/construction-estimating)** — What will this construction scope cost under current assumptions? — Standardize construction tender estimating and transform completed estimates into reusable cost libraries.
-* **[aia-construction-cost-tracker-excel](https://github.com/HyVoid/aia-construction-cost-tracker-excel)** — How do estimates and tracked costs compare through delivery? — Compare construction estimates against actual costs throughout project delivery using AIA-standard formats.
-* **[construction-project-management-excel](https://github.com/HyVoid/construction-project-management-excel)** — Is the project financial position accurate after incorporating approved changes actual costs and billing progress? — Integrate budgets change orders progress billing and cash flow into a single construction project control framework.
-* **[industrial-energy-tco-calculator](https://github.com/HyVoid/industrial-energy-tco-calculator)** — Which energy option delivers the lowest total cost of ownership for this specific project under its actual operating conditions? — Compare industrial energy sources on a true useful-energy basis by normalizing fuel costs equipment efficiency infrastructure investment and lifecycle ownership costs.
-* **[residential-boq-template](https://github.com/HyVoid/residential-boq-template)** — What will this residential project cost and which divisions are already over budget? — Estimate residential construction costs from BOQ takeoffs and rates while tracking approved budgets against actual spending.
-* **[tunnel-cost-estimator-boq-excel](https://github.com/HyVoid/tunnel-cost-estimator-boq-excel)** — What will this drill-and-blast tunnel project cost under the assumed construction cycle? — Estimate drill-and-blast tunnel excavation, drilling, blasting, support, equipment, and labour requirements into a complete project cost and BOQ.
-* **[Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit](https://github.com/HyVoid/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit)** — What is the total material and reinforcement cost for the foundation substructure, and can I trace every commercial bid value back to the measured dimensions? — Calculate foundation concrete volumes, formwork areas, earthwork quantities, reinforcement tonnage via automated bar bending schedules, and commercial bill of quantities values from measured structural dimensions.
-
-More tools: [Visit Our Website](https://www.theseusworkshop.com/)
 
 ---
 
