@@ -1,229 +1,226 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
+# Outil de calcul d'arbre DIN 743 : calculateur en ligne gratuit de dimensionnement d'arbres et modèle Excel automatisé de résistance à la fatigue
 
-# Outil de calcul d'arbres DIN 743 : calculateur en ligne gratuit de dimensionnement d'arbre et modèle Excel d'analyse automatisée de la résistance à la fatigue
-<img width="1920" height="790" alt="image" src="https://github.com/user-attachments/assets/7488196d-f46b-404a-9ee5-adf83da8c83d" />
-<img width="1920" height="790" alt="image" src="https://github.com/user-attachments/assets/9ffa110b-aa4a-4650-bfe3-ddd5105abfec" />
+<img width="1920" height="790" alt="DIN 743 Shaft Calculation Tool Preview" src="https://github.com/user-attachments/assets/7488196d-f46b-404a-9ee5-adf83da8c83d" />
 
- 
+![Price](https://img.shields.io/badge/Excel%20Template-Free%20%2F%20Pay%20What%20You%20Want-brightgreen.svg)
+![Platform](https://img.shields.io/badge/Platform-Web%20Calculator%20%2B%20Excel%20(.xlsx)-blue.svg)
+![Engineering Standard](https://img.shields.io/badge/Standard-DIN%20743%20Fatigue%20Verification-orange.svg)
+![Automation](https://img.shields.io/badge/Built--In%20Logic-22%20Material%20%26%20Valve%20Rules-teal.svg)
+![License](https://img.shields.io/badge/License-Apache%202.0-lightgrey.svg)
 
-![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
-![Platform](https://img.shields.io/badge/Platform-Browser%20Calculator%20%2B%20Excel%20Template-green.svg)
-![Engineering Standard](https://img.shields.io/badge/Standard-DIN%20743%20Shaft%20Fatigue%20Verification-orange.svg)
-![Automation](https://img.shields.io/badge/Automation-22%20Built--In%20Material%20%26%20Valve%20Rules-brightgreen.svg)
+**Obtenez en quelques minutes un dimensionnement d'arbre DIN 743 et des résultats de vérification de fatigue prêts pour l'audit—sans mémoriser les tableaux d'ingénierie allemands, sans construire des feuilles de calcul fragiles à partir de zéro, et sans acheter un logiciel d'éléments finis coûteux.**
 
-<p><strong>Modèle de calcul d'arbres DIN 743 et calculateur en ligne</strong> : un <strong>outil d'analyse de la résistance à la fatigue des arbres mécaniques</strong> et un <strong>tableur de dimensionnement d'arbres tournants et de tiges de soupape</strong> prêts à l'emploi et sans configuration, conçus pour les ingénieurs, les dessinateurs CAO et les acheteurs techniques qui exigent des résultats immédiats et auditables sans mémoriser les tables d'ingénierie allemandes complexes. Proposée en <strong>calculateur d'arbres gratuit dans le navigateur</strong> et en <strong>modèle Microsoft Excel automatisé (.xlsx)</strong>, cette boîte à outils calcule les <strong>coefficients de sécurité sous charges combinées de flexion, de torsion et d'effort axial</strong>, automatise les corrections de <strong>facteur de concentration de contraintes (<em>K<sub>t</sub></em>)</strong> et de <strong>sensibilité à l'entaille</strong>, et calibre les limites d'endurance des matériaux selon <strong>6 classifications de conditions de service de soupape</strong>.</p>
+**L'outil de calcul d'arbre DIN 743** est un **outil d'analyse de la résistance à la fatigue des arbres mécaniques** prêt à l'emploi et une **feuille de calcul de dimensionnement d'arbres rotatifs/de vannes** conçue pour les ingénieurs, les concepteurs CAO et les décideurs techniques qui ont besoin de réponses rapides et fiables lors de véritables revues de conception et d'évaluations de fournisseurs.
 
-**Aucune inscription. Aucune installation de logiciel. Un verdict d'ingénierie Conforme/Non conforme immédiat.**
+Il calcule automatiquement les **facteurs de sécurité pour les charges combinées de flexion, de torsion et axiales**, applique les corrections de **facteur de concentration de contraintes ($K_t$)** et de **sensibilité à l'entaille**, et calibre les limites d'endurance des matériaux selon les **6 classifications des conditions de fonctionnement des vannes**.
 
-Utilisez le calculateur web gratuit pour vérifier rapidement un arbre isolé, ou téléchargez le **classeur Excel Pro** entièrement déverrouillé, doté de **22 règles de correspondance matériau et état de surface préprogrammées** : collez vos données brutes et obtenez instantanément des résultats de calcul par lots, sans écrire ni faire glisser la moindre formule.
+**Aucune installation. Aucune formule à recopier. Clarté technique et commerciale immédiate de type Réussite/Échec.**
 
-> 🌐 **Application web interactive gratuite :** [**Lancer le calculateur en ligne gratuit de dimensionnement d'arbre et de fatigue DIN 743 (aucune installation requise)**](https://hyvoid.github.io/DIN-743-Shaft-Calculations/)
-> 
-> 📥 **Tableur Excel automatisé (.xlsx) :** [**Télécharger le modèle Excel automatisé de vérification de fatigue d'arbre et de tige de soupape DIN 743 (garantie de remboursement sous 30 jours)**](https://www.theseusworkshop.com/l/zjyuhp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=din-743-shaft-strength)
+- Commencez dès maintenant avec le **calculateur de navigateur gratuit** pour des vérifications rapides d'un seul arbre (sans inscription).
+- Récupérez le **classeur Excel automatisé entièrement déverrouillé (`.xlsx`) gratuitement (Payez ce que vous voulez — `$0+`)** pour débloquer **22 règles de correspondance préprogrammées pour matériaux et états de surface**—collez simplement les dimensions de votre arbre et vos données de charge pour obtenir instantanément des décisions Réussite/Échec par lot.
 
----
-
-## À qui s'adressent ce logiciel de conception d'arbres DIN 743 et ce modèle Excel (profils utilisateurs et cas d'usage)
-
-Que vous dimensionniez un arbre de transmission depuis zéro, validiez une tige de soupape sous chargement cyclique haute pression ou auditiez le rapport de calcul mécanique d'un fournisseur, ce **modèle de vérification de résistance d'arbre** élimine les erreurs de recherche manuelle :
-
-* **Ingénieurs mécaniciens débutants et dessinateurs CAO juniors :** ont besoin d'un **calculateur de dimensionnement de diamètre d'arbre** prêt à l'emploi pour vérifier des arbres épaulés, des rayons de raccordement et des rainures de clavette dans SolidWorks, Inventor ou AutoCAD, sans passer des journées à décrypter les abaques DIN 743 parties 1 à 3 ni à lancer une analyse par éléments finis (FEA) coûteuse.
-* **Ingénieurs en conception de soupapes et spécialistes du dimensionnement d'actionneurs :** ont besoin d'un **tableur dédié au couple et à la fatigue des tiges de soupape**, pré-calibré pour **6 classifications de conditions de service de soupape** et pour les alliages résistants à la corrosion (**aciers inoxydables martensitiques, Super Duplex, alliages de nickel, alliages de titane et AISI 4340**).
-* **Ingénieurs pompes, réducteurs et machines tournantes :** ont besoin d'une **fiche de calcul d'arbre en flexion et torsion combinées** reproductible pour évaluer les limites d'endurance cyclique, les surcharges statiques de pointe et les marges de sécurité en déflexion d'arbre.
-* **Acheteurs techniques, ingénieurs coûts et auditeurs qualité :** ont besoin d'un **tableur d'aide à la décision d'ingénierie** sans barrière pour vérifier si un arbre est dangereusement sous-dimensionné (risque de défaillance sur site) ou excessivement conservateur (gaspillage du budget matière en barres d'alliage surdimensionnées).
+> 🌐 **Essayez instantanément dans votre navigateur (gratuit, sans installation) :**
+> [**Lancez le calculateur en ligne gratuit de dimensionnement et de fatigue d'arbres DIN 743 →**](https://hyvoid.github.io/DIN-743-Shaft-Calculations/)
+>
+> 📥 **Obtenez le classeur Excel automatisé complet (`.xlsx`) — Gratuit / Payez ce que vous voulez (`$0+`) :**
+> [**Téléchargez le modèle Excel prêt à l'emploi pour la fatigue d'arbres et les tiges de vanne DIN 743 →**](https://www.theseusworkshop.com/l/zjyuhp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=din-743-shaft-strength)
 
 ---
 
-## Vérification de fatigue et dimensionnement d'arbre : difficultés courantes et réponses automatisées du modèle
+## Aperçu de la feuille de calcul en direct (voyez ce que vous obtenez avant de télécharger)
 
-| Difficulté de conception et de dimensionnement mécaniques | Risque d'ingénierie fréquent | Comment ce calculateur DIN 743 et ce modèle Excel le résolvent |
+Vous souhaitez examiner la mise en page, les règles de matériaux intégrées et les onglets de rapport prêts pour l'audit avant de récupérer votre copie gratuite ? Explorez la structure du classeur directement dans Google Sheets :
+
+👉 [**Ouvrez l'aperçu de la feuille de calcul en direct sur Google Sheets**](https://docs.google.com/spreadsheets/d/1hkUnfBzuRpEWYokyyuTbXEXIKju9FyKF/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)
+
+> **Note de compatibilité :** l'aperçu Google Sheets peut afficher occasionnellement des avertissements `#NAME?` en raison des différences de syntaxe de formules entre Google Sheets et Microsoft Excel. Cela n'affecte que l'aperçu en ligne—le classeur `.xlsx` téléchargeable fonctionne parfaitement, avec toute son automatisation, dans Microsoft Excel.
+
+---
+
+## Pour qui cet ensemble d'outils de dimensionnement et de fatigue d'arbres DIN 743 est conçu
+
+Vous n'avez pas besoin d'un doctorat en métallurgie ni d'une licence de simulation à `$10,000` pour aborder une revue de conception ou une réunion fournisseur avec une confiance de niveau senior. Ce **flux de vérification d'arbres prêt à l'emploi** est conçu pour les équipes pratiques qui ont besoin de réponses rapides et fiables sous des délais serrés :
+
+- **Ingénieurs mécaniques juniors et concepteurs CAO :** besoin d'un **calculateur de dimensionnement du diamètre d'arbre** prêt à l'emploi pour vérifier les arbres à gradins, les rayons de congé, les gorges et les rainures de clavette dans SolidWorks, Inventor ou AutoCAD—transformant des journées de déchiffrage des tableaux des parties 1 à 3 de la DIN 743 en une vérification de 5 minutes.
+- **Ingénieurs vannes et spécialistes du dimensionnement d'actionneurs :** besoin d'une **feuille de calcul dédiée du couple et de la fatigue des tiges de vanne**, précalibrée pour les **6 classifications des conditions de fonctionnement des vannes** et les alliages résistants à la corrosion (**aciers inoxydables martensitiques, super duplex, alliages de nickel, alliages de titane et AISI 4340**).
+- **Praticiens des pompes, réducteurs et équipements rotatifs :** besoin d'une **feuille de calcul d'arbres sous flexion et torsion combinées** réutilisable pour vérifier les limites d'endurance cycliques, les marges de limite d'élasticité statique et les risques de surcharge sans réinventer les calculs à chaque projet.
+- **Acheteurs techniques, ingénieurs coûts et réviseurs QA :** besoin d'une **feuille de décision technique et commerciale** accessible pour auditer les dessins des fournisseurs—repérer les arbres sous-dimensionnés avant la défaillance sur site et détecter les arbres en alliage surdimensionnés inutilement avant qu'ils ne gonflent votre BOM.
+
+---
+
+## Difficultés courantes de dimensionnement d'arbres face aux solutions automatisées instantanées
+
+| Difficulté de dimensionnement du monde réel | Pourquoi elle crée un risque professionnel et commercial | Comment cet ensemble d'outils DIN 743 la résout instantanément |
 | :--- | :--- | :--- |
-| **Coefficients de sécurité en fatigue d'arbre incertains ($S_f$)** | Estimer les marges de sécurité à l'aveugle conduit à des fissures de fatigue imprévues ou à des audits de conception clients non validés. | Calcule automatiquement les **coefficients de sécurité en fatigue dynamique** et les **coefficients de sécurité statiques vis-à-vis de la limite d'élasticité** par rapport aux seuils de référence DIN 743, avec des indicateurs **Conforme/Non conforme** immédiats. |
-| **Recherche confuse des limites d'endurance des matériaux** | Les tables d'aciers au carbone standard sont inadaptées au dimensionnement d'alliages exotiques pour des environnements corrosifs ou fortement chargés. | Base de données intégrée couvrant les **aciers inoxydables martensitiques, le Super Duplex, les alliages de nickel, les alliages de titane et l'acier 4340** sur **4 plages de résistance à la traction ($R_m$)**. |
-| **Combinaisons de charges multiaxiales complexes** | Évaluer à la main des moments de flexion, un cisaillement de torsion et une traction axiale simultanés est source d'erreurs. | **Calculateur de contrainte équivalente de von Mises** intégré, combinant charges alternées et charges moyennes pour la **flexion, la torsion et les efforts axiaux**. |
-| **Sensibilité à l'entaille et concentrations de contraintes non quantifiées** | Ignorer les épaulements, les gorges et les rainures de clavette d'un arbre provoque des ruptures catastrophiques aux transitions de géométrie. | Suivi en temps réel des **facteurs de concentration de contraintes géométriques ($K_t$)**, des **coefficients d'entaille en fatigue ($K_f$)** et des **facteurs d'échelle ($K_d$)**. |
-| **Mauvaise utilisation de la contrainte nominale brute** | Comparer directement la contrainte nominale issue de la CAO à la limite d'élasticité du catalogue ignore l'état de surface et la sévérité de service. | Déclassement automatisé sur **5 états de rugosité de surface × 4 intervalles de $R_m$**, calibré spécifiquement pour **6 classifications de conditions de service de soupape**. |
-| **Formules cassées dans les tableurs hérités** | Le copier-glisser de cellules dans d'anciens classeurs Excel corrompt les références lors des évaluations d'arbres par lots. | **Architecture Excel automatisée sans glisser-déposer** : collez vos lignes de paramètres bruts et laissez les 22 règles de calcul intégrées renseigner immédiatement les résultats. |
+| **Devination des facteurs de sécurité en fatigue des arbres ($S_f$)** | Des estimations approximatives entraînent des revues de conception rejetées, des questions gênantes des clients ou des fissures de fatigue sur site. | Calcule automatiquement les facteurs de sécurité en **fatigue dynamique** et en **limite d'élasticité statique** par rapport aux seuils DIN 743 avec des indicateurs **RÉUSSITE / ÉCHEC** clairs. |
+| **Données d'alliages exotiques difficiles à trouver** | Les tableaux de manuels pour acier au carbone standard ne suffisent plus lors du dimensionnement d'arbres résistants à la corrosion ou fortement chargés. | Règles intégrées pour les **inox martensitiques, super duplex, alliages de nickel, alliages de titane et AISI 4340** sur **4 tranches de résistance à la traction ($R_m$)**. |
+| **Calculs multi-axiaux sujets aux erreurs** | Combiner à la main des moments de flexion, des cisaillements de torsion et des forces axiales rend les erreurs faciles à manquer. | Moteur intégré de **contrainte équivalente de von Mises** combinant les charges alternées et moyennes pour la **flexion, la torsion et la poussée axiale**. |
+| **Effets d'entaille et de géométrie négligés** | Ignorer les épaulements d'arbre, les congés et les rainures de clavette masque les pics de contrainte locaux qui provoquent une rupture prématurée. | Calcul en temps réel de la **concentration de contraintes géométrique ($K_t$)**, des **facteurs d'entaille en fatigue ($K_f$)** et des **facteurs de réduction de taille ($K_d$)**. |
+| **Comparaison de la contrainte nominale brute aux valeurs de catalogue** | Omettre l'abattement pour rugosité de surface et sévérité de fonctionnement surestime la capacité réelle de l'arbre de 30 % à 60 %. | Abattement automatisé sur **5 états de finition de surface $\times$ 4 intervalles de $R_m$**, calibré pour les **6 classifications des conditions de fonctionnement des vannes**. |
+| **Feuilles de calcul fragiles et liens de cellules cassés** | Copier-coller ou recopier des formules dans des feuilles Excel héritées corrompt silencieusement les calculs par lot. | **Architecture automatisée sans recopie**—collez vos données brutes et laissez les **22 règles de calcul intégrées** se mettre à jour automatiquement. |
 
 ---
 
-## Comparatif fonctionnel : calcul manuel DIN 743 vs calculateur web gratuit vs modèle Excel Pro
+## Choisissez votre flux de travail : consultation manuelle, calculateur web gratuit ou classeur Excel gratuit
 
-| Dimension opérationnelle et technique | Calcul manuel / feuille de brouillon | Calculateur DIN 743 gratuit dans le navigateur | Modèle Excel DIN 743 Pro automatisé (.xlsx) |
+L'application navigateur et le classeur Excel sont tous deux gratuits d'accès—choisissez le format qui correspond à votre façon de travailler aujourd'hui :
+
+| Dimension du flux de travail | Consultation manuelle DIN 743 / brouillon | Calculateur web en ligne gratuit | Classeur Excel automatisé (`.xlsx`) — **Gratuit / Payez ce que vous voulez** |
 | :--- | :--- | :--- | :--- |
-| **Cas d'usage cible** | Étude académique ou estimation ponctuelle approximative | Validation rapide d'un point unique dans le navigateur | **Conception de production, dimensionnement d'arbres et de soupapes par lots et documentation qualité** |
-| **Bibliothèque de matériaux et couverture des alliages** | Recherche manuelle dans les tables des ouvrages requise | Aciers de construction standard de référence | **22 règles de calcul préétablies (inox martensitique, Super Duplex, alliages de nickel, titane, 4340)** |
-| **Matrice état de surface × résistance à la traction ($R_m$)** | Interpolation manuelle à partir des abaques DIN | Saisie de surface basique pour un point unique | **Matrice automatisée de correspondance 5 états de surface × 4 plages de $R_m$** |
-| **Calibrage des conditions de service de soupape** | Non inclus (déclassement personnalisé requis) | Chargement mécanique général uniquement | **Pré-calibré pour 6 classifications de conditions de service de soupape** |
-| **Maintenance des formules et saisie des données** | Risque élevé d'erreurs de référence de cellule et de copier-coller | Saisie manuelle élément par élément dans un formulaire web | **Formules à mise à jour automatique à 100 % (aucun double-clic ni glisser de formule requis)** |
-| **Traitement par lots et piste d'audit hors ligne** | Lent, non standardisé, difficile à auditer | Session unique uniquement (réinitialisation à l'actualisation) | **Lignes hors ligne illimitées, feuilles déverrouillées personnalisables, export PDF prêt pour le client** |
+| **Idéal pour** | Études académiques ou vérifications manuelles approximatives | Vérifications rapides d'un seul arbre dans le navigateur | **Conception réelle, dimensionnement par lot, audits fournisseurs et rapports clients** |
+| **Couverture d'alliages et de matériaux** | Consultation manuelle des tableaux de manuels | Aciers d'ingénierie de référence standards | **22 règles préprogrammées (inox martensitique, super duplex, nickel, titane, 4340)** |
+| **Matrice finition de surface $\times$ $R_m$** | Interpolation manuelle des tableaux DIN | Entrée de surface en un seul point | **Matrice automatisée de correspondance croisée 5 états de surface $\times$ 4 plages de $R_m$** |
+| **Conditions de fonctionnement des vannes** | Abattement manuel personnalisé requis | Chargement mécanique général uniquement | **Précalibré pour les 6 classifications des conditions de fonctionnement des vannes** |
+| **Maintenance de la feuille de calcul** | Risque élevé de formules cassées | Réinitialisation à chaque actualisation du navigateur | **Mise à jour 100 % automatique (aucune recopie de formule ni clic sur le coin de cellule)** |
+| **Livrables et piste d'audit** | Notes de brouillon non normalisées | Simple vérification à l'écran | **Lignes par lot hors ligne, entrées modifiables, export PDF propre prêt pour l'audit** |
 
 ---
 
-## Tutoriel de démarrage rapide : comment calculer la résistance à la fatigue d'un arbre en 4 étapes (méthode sans formule)
+## Passez des dimensions brutes à une décision assurée en 4 étapes
 
-Nul besoin d'une formation en métallurgie avancée ou en mécanique des structures pour obtenir un dimensionnement d'arbre fiable. Suivez cette méthode pour passer des cotes brutes à une décision d'ingénierie en quelques minutes :
+Vous n'avez pas besoin de construire des formules ni de mémoriser la notation DIN pour produire des calculs clairs et défendables :
 
-### Étape 1 : valider la géométrie d'un arbre isolé dans le calculateur gratuit du navigateur
-Ouvrez le [**calculateur web gratuit de résistance d'arbre DIN 743**](https://hyvoid.github.io/DIN-743-Shaft-Calculations/) et saisissez le diamètre de référence de votre arbre ($d$), la particularité de la section critique (rayon de raccordement d'un épaulement, rainure de clavette ou gorge) ainsi que les charges nominales, pour visualiser l'effet de la géométrie sur la concentration de contraintes.
+### Étape 1 : testez un cas d'arbre unique rapide dans le navigateur
+Ouvrez le [**calculateur d'arbres DIN 743 en ligne gratuit**](https://hyvoid.github.io/DIN-743-Shaft-Calculations/) et entrez le diamètre de votre arbre ($d$), la caractéristique géométrique critique (rayon de congé, gorge ou rainure de clavette) et les charges pour voir comment la géométrie pilote la concentration de contraintes.
 
-### Étape 2 : sélectionner la nuance de matériau et l'état de rugosité de surface
-Choisissez le matériau de votre arbre ou de votre tige de soupape ainsi que l'état de finition d'usinage. Le moteur de calcul évalue la manière dont la **résistance à la traction ($R_m$)** et la **limite d'élasticité ($R_{p0.2}$)** interagissent avec la rugosité de surface ($R_z$) pour établir la véritable limite d'endurance corrigée.
+### Étape 2 : associez votre nuance de matériau et votre état de surface
+Sélectionnez l'alliage et l'état d'usinage de votre arbre ou de votre tige de vanne. Le moteur évalue automatiquement comment la **résistance à la traction ($R_m$)**, la **limite d'élasticité ($R_{p0.2}$)** et la **rugosité de surface ($R_z$)** déterminent la limite d'endurance réelle de votre composant.
 
-### Étape 3 : appliquer les charges combinées et la sévérité de service
-Saisissez le **moment de flexion**, le **couple de torsion** et l'**effort axial** de service, puis sélectionnez la sévérité de service correspondante. Vérifiez instantanément si la section satisfait ou non les critères de coefficient de sécurité de la DIN 743.
+### Étape 3 : appliquez les charges combinées et la sévérité de service
+Entrez votre **moment de flexion**, votre **moment de torsion** et votre **poussée axiale** de fonctionnement, puis sélectionnez la sévérité de fonctionnement pour obtenir un retour immédiat **RÉUSSITE / ÉCHEC** selon les critères DIN 743.
 
-### Étape 4 : passer à l'automatisation par lots en un clic avec le modèle Excel Pro
-Une fois votre essai ponctuel terminé dans le navigateur, transposez votre méthode à la production industrielle réelle avec le [**modèle Excel automatisé de calcul d'arbres et de soupapes DIN 743**](https://www.theseusworkshop.com/l/zjyuhp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=din-743-shaft-strength).
+### Étape 4 : passez aux projets réels avec le classeur Excel automatisé gratuit
+Prêt à enregistrer vos calculs, à comparer plusieurs options de conception côte à côte ou à exporter un rapport prêt pour l'audit ? Récupérez le [**classeur Excel automatisé de calcul d'arbres et de vannes DIN 743 (Gratuit / Payez ce que vous voulez)**](https://www.theseusworkshop.com/l/zjyuhp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=din-743-shaft-strength).
 
-* **Pourquoi passer au classeur Excel ?** La théorie mécanique DIN 743 sous-jacente et la logique de risque commercial sont très complexes, mais le produit Excel a déjà intégré tout le travail lourd dans **22 règles de calcul automatiques de correspondance**.
-  <img width="1920" height="790" alt="image" src="https://github.com/user-attachments/assets/b30e51ae-fade-4f83-8869-7de538238ee4" />
+<img width="1920" height="790" alt="Automated DIN 743 Excel Dashboard Preview" src="https://github.com/user-attachments/assets/9ffa110b-aa4a-4650-bfe3-ddd5105abfec" />
 
-* **Couverture complète des matériaux courants et des services sévères :** extension récente aux matériaux industriels les plus demandés — **aciers inoxydables martensitiques, acier inoxydable Super Duplex, alliages de nickel, alliages de titane et acier allié AISI 4340** — automatiquement croisés sur **5 états de finition de surface × 4 intervalles de résistance à la traction ($R_m$)** afin de calibrer **6 classifications distinctes de conditions de service de soupape**.
-* **Un fonctionnement réellement sans barrière (aucune formule à tirer) :** chaque formule de recherche et de correction de contrainte se met à jour dynamiquement. **Vous n'avez même pas besoin de double-cliquer sur le coin de la cellule ni de tirer à la souris pour recopier des formules.** Téléchargez simplement le fichier `.xlsx` sur votre ordinateur, collez vos propres données dimensionnelles et de charge dans les colonnes de saisie, et obtenez en un clic un verdict immédiat, à la fois technique et commercial, Conforme/Non conforme — un débutant complet exploite ainsi immédiatement une analyse de niveau senior.
+- **Logique de niveau senior, utilisation accessible aux débutants :** la théorie complexe de fatigue DIN 743 et les vérifications de risque commercial sont préemballées dans **22 règles de correspondance automatisées**, pour des résultats fiables dès le premier jour.
+- **Conçu pour les matériaux industriels en service sévère :** couvre les **aciers inoxydables martensitiques, super duplex, alliages de nickel, alliages de titane et AISI 4340**, avec recoupement sur **5 états de finition de surface $\times$ 4 tranches de $R_m$** et les **6 classifications des conditions de fonctionnement des vannes**.
+- **Automatisation réelle de type coller-et-lancer :** aucun coin de cellule à recopier, aucun RECHERCHEV cassé, aucune macro à déboguer. Téléchargez le fichier `.xlsx`, collez vos données dimensionnelles et de charge dans les colonnes d'entrée, et générez immédiatement des rapports techniques et commerciaux propres de type RÉUSSITE/ÉCHEC.
 
-👉 [**Télécharger le modèle Excel automatisé DIN 743 prêt à l'emploi sur Theseus Workshop**](https://www.theseusworkshop.com/l/zjyuhp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=din-743-shaft-strength)
+<img width="1920" height="790" alt="22 Pre-Programmed Material and Valve Rules Preview" src="https://github.com/user-attachments/assets/b30e51ae-fade-4f83-8869-7de538238ee4" />
+
+👉 [**Obtenez le classeur Excel DIN 743 automatisé (Gratuit / Payez ce que vous voulez — `$0+`) →**](https://www.theseusworkshop.com/l/zjyuhp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=din-743-shaft-strength)
 
 ---
 
-## La logique métier et la méthodologie : révéler les angles morts commerciaux cachés du dimensionnement d'arbre
+## La logique commerciale : pourquoi la DIN 743 protège à la fois votre réputation et votre marge
 
-Pour les non-spécialistes, les ingénieurs juniors et les chefs de projet, le calcul d'arbre ressemble souvent à un simple exercice mathématique. En réalité, **la vérification d'arbre selon DIN 743 est un outil de maîtrise du risque commercial**. 
+Sur le papier, le calcul d'arbre ressemble à de la mécanique pure. Sur le terrain, **la vérification DIN 743 est un bouclier pour les décisions commerciales**. La plupart des défaillances coûteuses ne surviennent pas parce que quelqu'un a oublié des calculs de base—elles surviennent parce que les équipes s'appuient sur des notes dispersées ou des raccourcis non calibrés qui masquent deux angles morts coûteux :
 
-Les calculs DIN 743 échouent rarement pour des raisons d'arithmétique élémentaire ; ils échouent parce que les hypothèses d'ingénierie se dispersent entre notes manuscrites, tableurs non calibrés et devis fournisseurs déconnectés. Faute d'un système de calcul standardisé, une équipe tombe dans deux angles morts commerciaux coûteux :
+### Angle mort 1 : le piège de la « contrainte nominale » (défaillances sur site et reprises coûteuses)
+Un raccourci courant consiste à comparer directement la **contrainte nominale** brute à la limite de fatigue ou d'élasticité d'un catalogue de matériaux.
+- **La réalité technique :** les rainures de clavette, les épaulements, les diamètres d'arbre plus grands, la rugosité de surface usinée et les cycles de service sévères des vannes réduisent régulièrement la capacité réelle en fatigue d'un composant de **30 % à 60 %**.
+- **L'impact commercial :** un arbre qui semble « sûr » lors d'une vérification simplifiée peut se rompre après quelques milliers de cycles en service—provoquant des arrêts non planifiés, des réclamations sous garantie et une perte de confiance des clients.
 
-### Angle mort n° 1 : le piège de la « contrainte nominale » (réclamations au titre de la garantie, rupture sur site et responsabilité liée à un rappel produit)
-Les débutants calculent fréquemment la **contrainte nominale** brute (charge divisée par la section droite) et la comparent directement à la limite de fatigue ou à la limite d'élasticité du catalogue du matériau. 
-* **Le fait objectif :** les arbres réels comportent des concentrateurs de contraintes (rainures de clavette, épaulements), des pénalités d'échelle (les grands diamètres ont une résistance à la fatigue spécifique plus faible) et des micro-entailles de rugosité de surface. Associés à des conditions de service de soupape sévères, ces facteurs réduisent couramment de **30% à 60%** la capacité de charge réelle d'un arbre.
-* **La conséquence commerciale :** un arbre ou une tige de soupape qui paraît « sûr à 100 % » sur un calculateur basique peut casser sur site après quelques milliers de cycles, provoquant des arrêts d'usine non planifiés, des pénalités de remplacement d'urgence et des réclamations au titre de la garantie qui anéantissent la marge d'une gamme entière.
-
-#### Impact réel : contrainte nominale brute vs contrainte corrigée DIN 743
-* **Avant (vérification nominale non informée) :** un concepteur compare une contrainte nominale de flexion de `185 MPa` directement à une limite de fatigue catalogue de `210 MPa` et valide le plan pour la fabrication.
-* **Après (vérification automatisée avec le modèle DIN 743) :** le modèle applique automatiquement la sensibilité à l'entaille, le déclassement lié à la taille de l'arbre, les **facteurs de rugosité de surface à 5 états** et le **calibrage des conditions de service de soupape à 6 classes**. La limite d'endurance admissible réelle chute à `168 MPa`.
+#### Exemple rapide : vérification nominale brute vs vérification DIN 743 automatisée
+- **Vérification nominale naïve :** contrainte nominale de flexion de `$185\text{ MPa}$` contre limite de fatigue du matériau du catalogue de `$210\text{ MPa}$` $\rightarrow$ semble être **RÉUSSITE**.
+- **Vérification DIN 743 automatisée :** après application de la sensibilité à l'entaille, de l'abattement de taille, de la **rugosité de surface à 5 états** et des **facteurs de service de vanne à 6 classes**, la limite d'endurance admissible réelle chute à `$168\text{ MPa}$`.
 
 ```text
-Original Naive Decision:
-185 MPa < 210 MPa  →  PASS (Hidden Field Failure Risk)
+Naive Check:
+185 MPa < 210 MPa  ->  PASS (Hidden Field Failure Risk)
 
-Corrected DIN 743 Decision:
-185 MPa > 168 MPa  →  FAIL (Redesign or Material Upgrade Required Before Production)
-
+DIN 743 Corrected Check:
+185 MPa > 168 MPa  ->  FAIL (Catch & Fix Before Manufacturing)
 ```
 
-### Angle mort n° 2 : le surdimensionnement aveugle et le gaspillage d'alliages (appels d'offres perdus et érosion des marges)
+### Angle mort 2 : la sur-ingénierie aveugle (offres surfacturées et marges érodées)
+Lorsque les ingénieurs ou les acheteurs ne savent pas comment un alliage se comporte sur des plages de $R_m$ ou des classes de fonctionnement spécifiques, ils alourdissent les conceptions avec des « marges de peur » arbitraires—surdimensionnant le diamètre de l'arbre ou passant prématurément des **aciers inoxydables martensitiques / 4340** aux **alliages de nickel ou de titane** ultra-coûteux.
+- **La réalité technique :** augmenter le diamètre d'un arbre de seulement 20 % augmente le poids de la barre de plus de 40 % et impose des actionneurs, des roulements et des carters plus grands et plus chers.
+- **L'impact commercial :** des coûts de BOM gonflés font perdre des appels d'offres compétitifs ou effacent silencieusement 15 % à 35 % de votre marge brute.
 
-Lorsque les ingénieurs ou les acheteurs ne savent pas précisément comment un matériau se comporte dans des intervalles donnés de résistance à la traction ($R_m$) ou selon les classes de service de soupape, ils compensent l'incertitude par des « facteurs de peur » arbitraires : soit ils surdimensionnent inutilement l'arbre, soit ils passent aveuglément d'un **acier inoxydable martensitique ou d'un 4340** à des **alliages de nickel ou de titane** ultra-coûteux.
-
-* **Le fait objectif :** surdimensionner une tige de soupape ou un arbre de transmission de seulement 20% augmente de plus de 40% la masse de barre nécessaire, impose le choix d'un actionneur ou d'un palier plus grand et plus coûteux, et allonge le temps d'usinage.
-* **La conséquence commerciale :** des coûts de nomenclature (BOM) gonflés rendent vos devis non compétitifs sur les appels d'offres sensibles au prix, ou érodent silencieusement 15%–35% de votre marge brute de fabrication.
-
-### Comment notre moteur Excel automatisé à 22 règles résout ces deux problèmes
-
-Plutôt que d'exiger de vous la maîtrise des normes mécaniques allemandes, ce classeur transforme la logique de décision en un processus infaillible :
-
-1. **Élimine le risque lié à un sous-dimensionnement :** applique automatiquement le déclassement DIN 743 sur **5 états de surface × 4 plages de $R_m$** et **6 conditions de service de soupape**, afin qu'aucune conception limite ne passe au travers de la revue qualité.
-2. **Prévient le surcoût matière :** vous permet de comparer en quelques secondes **inox martensitique, Super Duplex, alliages de nickel, titane et 4340** — pour choisir l'alliage exactement optimal en coût et le diamètre minimal sûr conforme aux exigences, en protégeant à la fois votre réputation technique et votre marge.
+### Comment ce classeur gratuit vous aide à gagner des deux côtés
+1. **Défendez vos marges de sécurité :** applique automatiquement l'abattement DIN 743 sur **5 états de surface $\times$ 4 intervalles de $R_m$** et les **6 classes de service de vanne** afin que les conceptions risquées ne se glissent jamais en production.
+2. **Optimisez le coût matériau en quelques secondes :** comparez **inox martensitique, super duplex, nickel, titane et 4340** côte à côte pour choisir le matériau conforme le plus rentable et le diamètre de sécurité minimal—apportant une valeur commerciale immédiate à votre équipe.
 
 ---
 
-## À propos de Theseus Workshop
+## À propos de Theseus Workshop — ensembles d'outils de décision prêts à l'emploi
 
-Je conçois des outils de suivi légers, des calculateurs d'ingénierie et des modèles d'aide à la décision commerciale pour des processus techniques complexes comportant trop de paramètres mobiles pour être fiables dans une seule tête.
+Ce classeur DIN 743 est notre kit de démarrage communautaire gratuit de **Theseus Workshop**.
 
-Le principe directeur de chaque outil est simple :
+Nous concevons des modèles Excel légers et prêts à l'emploi ainsi que des calculateurs de décision pour les flux de travail réels d'ingénierie, de construction et d'industrie—conçus spécifiquement pour les praticiens qui veulent une **structure de niveau senior, des résultats rapides et zéro logiciel superflu** sans passer des semaines à construire des modèles à partir de zéro.
 
-> **Quelles données et règles critiques doivent être réunies au même endroit pour que votre prochaine décision technique ou commerciale puisse être prise en toute confiance en quelques secondes ?**
+> **Notre principe de conception fondamental :** regrouper les règles métier, les validations et les sorties de décision appropriés dans un espace de travail épuré—pour prendre des décisions techniques et commerciales à forts enjeux avec assurance en quelques minutes.
 
-Cet **outil de calcul de fatigue d'arbres DIN 743** transforme des normes de génie mécanique éprouvées en un actif opérationnel réutilisable et sans barrière, plutôt qu'en un énième tableur isolé et fragile.
-
-* 🛒 **Obtenir ce modèle :** **[Télécharger le classeur Excel automatisé de calcul d'arbres et de soupapes DIN 743](https://www.theseusworkshop.com/l/zjyuhp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=din-743-shaft-strength)**
-* 🧰 **Explorer tous les modèles d'ingénierie et d'aide à la décision :** visitez notre boutique officielle **[TheseusWorkshop.com](https://www.google.com/search?q=https://www.theseusworkshop.com%3Futm_source%3Dgithub%26utm_medium%3DGitHub%2520README%26utm_campaign%3Dreadme%2520about%2520section%26utm_content%3Ddin-743-shaft-strength)** pour découvrir d'autres tableurs prêts à l'emploi, processus de vérification d'ingénierie et outils d'aide à la décision commerciale.
+- 📥 **Récupérez cet ensemble d'outils gratuit (`$0+` Payez ce que vous voulez) :** [**Téléchargez le classeur Excel automatisé pour arbres et vannes DIN 743**](https://www.theseusworkshop.com/l/zjyuhp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=din-743-shaft-strength)
+- 🧰 **Besoin de davantage d'ensembles d'outils de décision prêts à l'emploi pour le business et l'ingénierie ?** Si ce modèle gratuit vous fait gagner des heures aujourd'hui, explorez notre bibliothèque complète de feuilles de calcul prêtes à l'emploi pour **l'estimation des coûts, le contrôle de projet, les avants-métrés BOQ et l'analyse TCO industrielle** sur [**TheseusWorkshop.com**](https://www.theseusworkshop.com?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20about%20section&utm_content=din-743-shaft-strength).
 
 ---
 
-## Détails techniques
+## Explorez les autres ensembles d'outils de décision de cette série
+
+Vous cherchez la même structure de coller-et-lancer pour d'autres flux de travail commerciaux et techniques ? Découvrez nos dépôts compagnons :
+
+- **[construction-estimating](https://github.com/HyVoid/construction-estimating)** — *Combien coûtera ce lot de travaux selon les hypothèses actuelles ?* Standardisez l'estimation d'appels d'offres et transformez les estimations terminées en bibliothèques de coûts réutilisables.
+- **[aia-construction-cost-tracker-excel](https://github.com/HyVoid/aia-construction-cost-tracker-excel)** — *Comment les estimations et les coûts suivis se comparent-ils jusqu'à la livraison ?* Suivez les coûts estimés et réels avec des structures aux normes AIA.
+- **[construction-project-management-excel](https://github.com/HyVoid/construction-project-management-excel)** — *Quelle est notre situation financière réelle après avenants et facturation ?* Intégrez budgets, avenants, facturation à l'avancement et trésorerie dans un cadre de contrôle unique.
+- **[industrial-energy-tco-calculator](https://github.com/HyVoid/industrial-energy-tco-calculator)** — *Quelle option énergétique offre le vrai coût total de possession le plus bas ?* Comparez les sources d'énergie industrielles en normalisant coût du combustible, efficacité, capex et coûts de cycle de vie.
+- **[residential-boq-template](https://github.com/HyVoid/residential-boq-template)** — *Combien coûtera ce projet résidentiel et quelles divisions dépassent le budget ?* Estimez les coûts à partir des avants-métrés BOQ tout en suivant les budgets approuvés par rapport aux dépenses réelles.
+- **[tunnel-cost-estimator-boq-excel](https://github.com/HyVoid/tunnel-cost-estimator-boq-excel)** — *Combien coûtera ce projet de tunnel en creusement-explosif selon le cycle supposé ?* Estimez excavation, forage, sautage, soutènement, équipement et main-d'œuvre dans un BOQ structuré.
+- **[Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit](https://github.com/HyVoid/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit)** — *Puis-je retracer chaque numéro d'offre de fondation jusqu'aux dimensions mesurées ?* Automatisez volumes de béton, coffrages, terrassements, plans de ferrage (BBS) et tarification BOQ.
+
+👉 [**Parcourez tous les ensembles d'outils prêts à l'emploi sur TheseusWorkshop.com**](https://www.theseusworkshop.com/)
+
+---
+
+## Questions, retours et mises à jour du produit
+
+Nous améliorons activement cet ensemble d'outils à partir de cas réels de dimensionnement d'arbres DIN 743, de fatigue sous charges combinées et de flux matériaux/entaille :
+
+- **Questions et adéquation au flux de travail :** [Posez des questions sur la géométrie d'arbre, les cas de charge, les entrées flexion/torsion/axiale, les règles matériaux, la sensibilité à l'entaille ou les classifications de fonctionnement](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions)
+- **Idées et demandes de fonctionnalités :** [Proposez de nouvelles géométries d'arbre, fiches d'alliages, cas de fonctionnement ou vues de rapport](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas)
+- **Signaler un bug technique :** [Soumettez un ticket via le formulaire de rapport de bug DIN-743-Shaft-Calculations](https://github.com/HyVoid/DIN-743-Shaft-Calculations/issues/new?template=bug-report.yml)
+- **Notes de version et mises à jour :** [Suivez les journaux de maintenance et d'amélioration](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates)
+
+> **Note de confidentialité et de reproductibilité :** veuillez ne pas publier de dessins clients confidentiels, fichiers CAO propriétaires, rapports de fournisseurs ou spécifications de produits inédits dans les fils publics. Partagez une géométrie simplifiée et des valeurs de charge synthétiques avec l'exemple reproductible le plus petit (nom de feuille, cellule d'entrée, résultat attendu vs obtenu), et précisez si le problème est survenu dans l'application navigateur, l'aperçu Google Sheets ou le classeur Excel. Les discussions publiques ne constituent pas une revue de conception d'ingénierie formelle et validée.
+
+---
+
+## Détails techniques et architecture de calcul
 
 <details>
-<summary>Pour les relecteurs techniques, les utilisateurs avancés d'Excel et les collaborateurs</summary>
+<summary><strong>Cliquez pour développer :</strong> Architecture du classeur, 3 pièges d'ingénierie classiques, exemple détaillé de tige de vanne, formules et règles de validation (pour les réviseurs techniques)</summary>
 
 ---
 
 ### Architecture du classeur
 
-| Feuille    | Rôle                                                   |
-| ----------- | ------------------------------------------------------ |
-| GUIDE       | Instructions d'utilisation, périmètre, gestion des versions, avertissement |
-| INPUT       | Point d'entrée unique modifiable                       |
-| REFERENCE   | Base de données matériaux et paramètres DIN            |
-| CALCULATION | Moteur de calcul protégé                               |
-| RESULTS     | Tableau de bord de sécurité et évaluation CONFORME / NON CONFORME |
-| REPORT      | Sortie de rapport standardisée                         |
+| Feuille | Objectif |
+| :--- | :--- |
+| `GUIDE` | Instructions d'utilisation, périmètre, gestion des versions, avertissement |
+| `INPUT` | Point d'entrée unique modifiable avec validation intégrée des entrées |
+| `REFERENCE` | Base de données matériaux protégée et paramètres de consultation DIN 743 |
+| `CALCULATION` | Moteur de calcul protégé (empêche l'écrasement accidentel des formules) |
+| `RESULTS` | Tableau de bord des facteurs de sécurité et évaluation automatisée RÉUSSITE / ÉCHEC |
+| `REPORT` | Sortie de rapport d'ingénierie standardisée et prête à imprimer |
 
-#### Flux de données
+#### Flux de données unidirectionnel propre
 
 ```text
-GUIDE
-   ↓
-INPUT
-   ↓
-REFERENCE
-   ↓
-CALCULATION
-   ↓
-RESULTS
-   ↓
-REPORT
+GUIDE -> INPUT -> REFERENCE -> CALCULATION -> RESULTS -> REPORT
 ```
 
-La validation s'effectue dans INPUT.
-
-Les sorties dépendent exclusivement des résultats de CALCULATION.
-
-Aucune référence circulaire n'est autorisée.
+- La validation des entrées s'exécute directement sur `INPUT`.
+- Toutes les sorties référencent exclusivement `CALCULATION`—aucune référence circulaire autorisée.
 
 ---
 
-### Trois pièges qui trompent même les ingénieurs mécaniciens expérimentés
+### Trois pièges qui prennent au dépourvu même les ingénieurs mécaniques expérimentés
 
----
+#### Piège 1 : comparer directement la contrainte nominale aux limites de fatigue des matériaux
+- **Décision erronée :** `$185\text{ MPa} < 210\text{ MPa} \rightarrow \text{PASS}$`
+- **Pourquoi cela échoue :** les limites d'endurance de catalogue doivent être corrigées pour la taille ($K_d$), la surface ($K_F$) et les effets d'entaille ($\beta$) :
 
-#### Piège n° 1 : comparer directement la contrainte nominale aux limites de fatigue du matériau
+$$\sigma_{WK} = \frac{\sigma_W \cdot K_d \cdot K_F}{\beta}$$
 
-Une décision a été prise :
-
-```
-185 MPa < 210 MPa
-PASS
-```
-
-Hypothèse erronée :
-
-Les contraintes nominales représentent la capacité de fatigue réelle.
-
-Pourquoi c'est faux :
-
-Les limites d'endurance du matériau doivent être corrigées pour tenir compte des effets de composant.
-
-Approche corrigée :
-
-```
-σWK = (σW × Kd × KF) / β
-```
-
-Résultat corrigé :
-
-```
-Corrected endurance limit:
-168 MPa
-
-185 MPa > 168 MPa
-
-FAIL
-```
+- **Résultat corrigé :** la limite d'endurance corrigée du composant chute à `$168\text{ MPa}$`. Comme `$185\text{ MPa} > 168\text{ MPa}$`, le vrai résultat est **ÉCHEC**.
 
 <details>
-<summary>Référence des formules</summary>
+<summary>Référence des formules Excel</summary>
 
 ```excel
 =(Sigma_W * Kd * KF) / Beta
@@ -231,144 +228,80 @@ FAIL
 
 </details>
 
----
+#### Piège 2 : sous-estimer les effets de la géométrie et du rayon de congé
+- **Hypothèse erronée :** de petits changements dans les congés d'épaulement ou les gorges ont un impact négligeable.
+- **Approche corrigée :** convertir la concentration de contraintes géométrique ($\alpha$) en facteur d'entaille de fatigue ($\beta$) via la sensibilité à l'entaille ($q$) :
 
-#### Piège n° 2 : ignorer les effets de géométrie
+$$\beta = 1 + q \cdot (\alpha - 1)$$
 
-Décision :
-
-Augmenter légèrement le diamètre de l'arbre.
-
-Hypothèse erronée :
-
-De petites modifications de géométrie ont une influence négligeable.
-
-Pourquoi c'est faux :
-
-Les rayons de raccordement et les gorges modifient sensiblement la concentration de contraintes.
-
-Approche corrigée :
-
-Évaluer les facteurs α et β.
-
-Résultat :
-
-Un rayon de raccordement plus grand a amélioré la sécurité en fatigue en réduisant la sévérité de l'entaille.
+- **Résultat :** augmenter un rayon de congé améliore souvent la sécurité en fatigue bien plus rentablement que de changer tout l'alliage de l'arbre.
 
 <details>
-<summary>Référence des formules</summary>
+<summary>Référence des formules Excel</summary>
 
 ```excel
-Beta = 1 + q*(Alpha-1)
+=1 + q*(Alpha - 1)
+```
+
+</details>
+
+#### Piège 3 : évaluer la flexion et la torsion indépendamment
+- **Hypothèse erronée :** si la sécurité en flexion ($S_b$) et la sécurité en torsion ($S_t$) passent chacune individuellement, l'arbre est sûr.
+- **Approche corrigée :** évaluer la sécurité en fatigue multi-axiale combinée :
+
+$$S = \frac{S_b \cdot S_t}{\sqrt{S_b^2 + S_t^2}}$$
+
+- **Résultat :** deux cas de charge passant individuellement donnent fréquemment un **ÉCHEC combiné** sous chargement simultané.
+
+<details>
+<summary>Référence des formules Excel</summary>
+
+```excel
+=(Sb * St) / SQRT(Sb^2 + St^2)
 ```
 
 </details>
 
 ---
 
-#### Piège n° 3 : traiter flexion et torsion indépendamment
+### Scénario d'exemple détaillé (tige de vanne 17-4PH)
 
-Décision :
+| Paramètre | Valeur |
+| :--- | ---: |
+| Matériau | 17-4PH |
+| Diamètre d'arbre ($d$) | `$40\text{ mm}$` |
+| Rayon de congé ($r$) | `$2\text{ mm}$` |
+| Moment de flexion ($M_b$) | `$450,000\text{ N}\cdot\text{mm}$` |
+| Moment de torsion ($T$) | `$180,000\text{ N}\cdot\text{mm}$` |
+| Facteur de service ($K_A$) | `$1.25$` |
+| Facteur de sécurité requis ($S_{\min}$) | `$1.50$` |
 
-Les deux coefficients de sécurité dépassent individuellement les limites.
+**Calculs intermédiaires de section et de contrainte nominale :**
 
-Hypothèse erronée :
+$$W_b = \frac{\pi d^3}{32}, \quad W_p = \frac{\pi d^3}{16}$$
 
-Une acceptation indépendante garantit l'acceptation du système.
+$$\sigma_b = \frac{M_b \cdot K_A}{W_b}, \quad \tau_t = \frac{T \cdot K_A}{W_p}$$
 
-Pourquoi c'est faux :
+Après application de la sensibilité à l'entaille, des corrections de géométrie, des effets de taille et des facteurs d'influence de surface :
 
-Le chargement combiné gouverne la tenue en fatigue.
-
-Approche corrigée :
-
-Utiliser une évaluation de sécurité combinée.
-
-Résultat :
-
-Des conditions CONFORME individuelles deviennent un NON CONFORME combiné.
-
-<details>
-<summary>Référence des formules</summary>
-
-```excel
-S=(Sb*St)/SQRT(Sb^2+St^2)
-```
-
-</details>
+- **Facteur de sécurité combiné calculé :** `$S = 1.38$`
+- **Exigence :** `$S \ge 1.50$`
+- **Résultat :** **ÉCHEC** (`$1.38 < 1.50$`)
+- **Recommandation exploitable :** augmentez le diamètre d'arbre, agrandissez le rayon de congé, réduisez les charges appliquées ou réévaluez la nuance de matériau avant la libération en fabrication.
 
 ---
 
-### Exemple de cas concret
-
-Une section de tige de soupape est évaluée avec les données suivantes :
-
-| Paramètre                      |        Valeur |
-| ---------------------- | -----------: |
-| Matériau                       |       17-4PH |
-| Diamètre                       |        40 mm |
-| Rayon de raccordement          |         2 mm |
-| Moment de flexion              | 450,000 N·mm |
-| Couple                         | 180,000 N·mm |
-| Coefficient de service         |         1.25 |
-| Coefficient de sécurité requis |         1.50 |
-
-Calculs intermédiaires :
-
-```text
-Wb = πd³/32
-Wp = πd³/16
-
-σb = Mb×KA/Wb
-τt = T×KA/Wp
-```
-
-Après application :
-
-* de la sensibilité à l'entaille,
-* des corrections de géométrie,
-* des effets d'échelle,
-* des facteurs d'influence de surface,
-
-le coefficient de sécurité combiné en fatigue devient :
-
-```text
-S = 1.38
-```
-
-Interprétation :
-
-```
-Required:
-S ≥ 1.50
-
-Actual:
-S = 1.38
-```
-
-Recommandation :
-
-Augmenter le diamètre, modifier la géométrie, réduire les charges ou reconsidérer le choix du matériau avant la mise en production.
-
-Implication sur la décision :
-
-L'arbre ne doit pas passer en fabrication avec les hypothèses de conception actuelles.
-
----
-
-### Référence des formules
+### Référence des formules principales
 
 <details>
-<summary>Caractéristiques de section</summary>
+<summary>Propriétés de section</summary>
 
 ```excel
 Wp = PI()*(d^3)/16
 Wb = PI()*(d^3)/32
 ```
 
-Objet :
-
-Calculer les modules de section en torsion et en flexion.
+Calcule les modules de section en torsion et en flexion pour les arbres circulaires pleins.
 
 </details>
 
@@ -376,13 +309,11 @@ Calculer les modules de section en torsion et en flexion.
 <summary>Contrainte nominale</summary>
 
 ```excel
-σb=(Mb×KA)/Wb
-τt=(T×KA)/Wp
+Sigma_b = (Mb * KA) / Wb
+Tau_t   = (T * KA) / Wp
 ```
 
-Objet :
-
-Calculer les contraintes nominales.
+Calcule les contraintes nominales de flexion et de torsion ajustées du facteur d'application.
 
 </details>
 
@@ -390,12 +321,10 @@ Calculer les contraintes nominales.
 <summary>Effets d'entaille</summary>
 
 ```excel
-β=1+q×(α−1)
+Beta = 1 + q * (Alpha - 1)
 ```
 
-Objet :
-
-Convertir la concentration géométrique en influence sur la fatigue.
+Convertit la concentration de contraintes géométrique en impact effectif d'entaille de fatigue.
 
 </details>
 
@@ -403,68 +332,48 @@ Convertir la concentration géométrique en influence sur la fatigue.
 <summary>Limites d'endurance corrigées</summary>
 
 ```excel
-σWK=(σW×Kd×KF)/β
-τWK=(τW×Kd×KF)/β
+Sigma_WK = (Sigma_W * Kd * KF) / Beta
+Tau_WK   = (Tau_W * Kd * KF) / Beta
 ```
 
-Objet :
-
-Déterminer la capacité de fatigue du composant.
+Détermine la résistance réelle en fatigue au niveau du composant.
 
 </details>
 
 <details>
-<summary>Sécurité combinée</summary>
+<summary>Facteur de sécurité combiné</summary>
 
 ```excel
-S=(Sb×St)/SQRT(Sb^2+St^2)
+S = (Sb * St) / SQRT(Sb^2 + St^2)
 ```
 
-Objet :
-
-Évaluer l'acceptabilité finale.
+Évalue l'acceptabilité finale en fatigue sous flexion + torsion combinées.
 
 </details>
 
 ---
 
-### Règles de validation
+### Règles de validation intégrée des entrées
 
-| Champ                      | Règle                           | Comportement en cas d'erreur |
-| --------------------- | ------------------------------- | --------------------------- |
-| Nom du projet              | Obligatoire                     | Empêche la finalisation     |
-| ID matériau                | Doit exister dans la bibliothèque | Rejette la saisie invalide |
-| Diamètre                   | Supérieur à zéro                | Avertissement de validation |
-| Rayon                      | Positif et inférieur au diamètre | Avertissement de validation |
-| Moment de flexion          | ≥ 0                             | Rejette une valeur négative |
-| Couple                     | ≥ 0                             | Rejette une valeur négative |
-| Coefficient de service     | 1.00–3.00                       | Empêche une saisie invalide |
-| Coefficient de sécurité minimal | 1.20–5.00                  | Empêche une saisie invalide |
-| Données de référence       | Contrôlées par l'administrateur | Masquées et protégées       |
-| Moteur de calcul           | Lecture seule                   | Écrasement des formules empêché |
+| Champ | Règle de validation | Comportement en cas d'erreur |
+| :--- | :--- | :--- |
+| Nom du projet | Obligatoire | Empêche la génération d'un rapport incomplet |
+| ID matériau | Doit exister dans la bibliothèque | Rejette toute entrée de matériau invalide |
+| Diamètre ($d$) | `$> 0$` | Avertissement de validation |
+| Rayon de congé ($r$) | `$0 < r < d$` | Avertissement de validation |
+| Moment de flexion ($M_b$) | `$\ge 0$` | Rejette toute entrée négative |
+| Moment de torsion ($T$) | `$\ge 0$` | Rejette toute entrée négative |
+| Facteur de service ($K_A$) | `$1.00 - 3.00$` | Empêche toute entrée hors plage |
+| Facteur de sécurité minimal | `$1.20 - 5.00$` | Empêche toute entrée hors plage |
+| Données de référence | Contrôlées par l'administrateur | Masquées et protégées |
+| Moteur de calcul | Lecture seule | Empêche l'écrasement accidentel des formules |
 
 </details>
-
----
-
-
-
-## Autres outils de cette série
-
-* **[construction-estimating](https://github.com/HyVoid/construction-estimating)** — Combien coûtera ce périmètre de construction selon les hypothèses actuelles ? — Standardiser l'estimation des appels d'offres de construction et transformer les estimations réalisées en bibliothèques de coûts réutilisables.
-* **[aia-construction-cost-tracker-excel](https://github.com/HyVoid/aia-construction-cost-tracker-excel)** — Comment les estimations et les coûts suivis se comparent-ils tout au long de la réalisation ? — Comparer les estimations de construction aux coûts réels pendant toute la réalisation du projet, au format standard AIA.
-* **[construction-project-management-excel](https://github.com/HyVoid/construction-project-management-excel)** — La situation financière du projet est-elle exacte après intégration des avenants approuvés, des coûts réels et de l'avancement de la facturation ? — Intégrer budgets, avenants, facturation à l'avancement et trésorerie dans un cadre unique de contrôle de projet de construction.
-* **[industrial-energy-tco-calculator](https://github.com/HyVoid/industrial-energy-tco-calculator)** — Quelle option énergétique offre le coût total de possession le plus bas pour ce projet précis, dans ses conditions d'exploitation réelles ? — Comparer les sources d'énergie industrielles sur une base d'énergie utile réelle, en normalisant les coûts de combustible, l'efficacité des équipements, l'investissement en infrastructure et les coûts de possession sur le cycle de vie.
-* **[residential-boq-template](https://github.com/HyVoid/residential-boq-template)** — Combien coûtera ce projet résidentiel et quels lots dépassent déjà le budget ? — Estimer les coûts de construction résidentielle à partir des métrés et des prix du BOQ, tout en comparant les budgets approuvés aux dépenses réelles.
-* **[tunnel-cost-estimator-boq-excel](https://github.com/HyVoid/tunnel-cost-estimator-boq-excel)** — Combien coûtera ce projet de tunnel en forage-dynamitage selon le cycle de construction retenu ? — Estimer les besoins en excavation, forage, dynamitage, soutènement, équipements et main-d'œuvre d'un tunnel en forage-dynamitage pour obtenir un coût de projet et un BOQ complets.
-* **[Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit](https://github.com/HyVoid/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit)** — Quel est le coût total des matériaux et des armatures de l'infrastructure de fondation, et puis-je rattacher chaque valeur commerciale de l'offre aux dimensions mesurées ? — Calculer les volumes de béton, les surfaces de coffrage, les quantités de terrassement, les tonnages d'armatures via des nomenclatures de façonnage automatisées, ainsi que les valeurs du devis quantitatif à partir des dimensions mesurées de la structure.
-
-Plus d'outils : [Visitez notre site web](https://www.theseusworkshop.com/)
 
 ---
 
 ## Licence
 
-Ce projet est distribué sous **licence Apache 2.0**.
+Ce projet est sous licence **Apache License 2.0**.
 
-Vous êtes libre d'utiliser, de modifier et de distribuer ce travail conformément aux termes de la licence Apache 2.0.
+Vous êtes libre d'utiliser, de modifier et de distribuer cette œuvre conformément aux termes de la licence Apache 2.0.
