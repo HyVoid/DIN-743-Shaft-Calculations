@@ -1,229 +1,226 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
+# Herramienta de Cálculo de Ejes DIN 743: Calculadora Gratuita Online de Dimensionamiento de Ejes y Plantilla Excel Automatizada de Verificación de Fatiga
 
-# Herramienta de cálculo de ejes DIN 743: calculadora en línea gratuita de dimensionamiento de ejes y plantilla Excel automatizada de análisis de resistencia a la fatiga
-<img width="1920" height="790" alt="image" src="https://github.com/user-attachments/assets/7488196d-f46b-404a-9ee5-adf83da8c83d" />
-<img width="1920" height="790" alt="image" src="https://github.com/user-attachments/assets/9ffa110b-aa4a-4650-bfe3-ddd5105abfec" />
- 
- 
+<img width="1920" height="790" alt="DIN 743 Shaft Calculation Tool Preview" src="https://github.com/user-attachments/assets/7488196d-f46b-404a-9ee5-adf83da8c83d" />
 
-![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
-![Platform](https://img.shields.io/badge/Platform-Browser%20Calculator%20%2B%20Excel%20Template-green.svg)
-![Engineering Standard](https://img.shields.io/badge/Standard-DIN%20743%20Shaft%20Fatigue%20Verification-orange.svg)
-![Automation](https://img.shields.io/badge/Automation-22%20Built--In%20Material%20%26%20Valve%20Rules-brightgreen.svg)
+![Price](https://img.shields.io/badge/Excel%20Template-Free%20%2F%20Pay%20What%20You%20Want-brightgreen.svg)
+![Platform](https://img.shields.io/badge/Platform-Web%20Calculator%20%2B%20Excel%20(.xlsx)-blue.svg)
+![Engineering Standard](https://img.shields.io/badge/Standard-DIN%20743%20Fatigue%20Verification-orange.svg)
+![Automation](https://img.shields.io/badge/Built--In%20Logic-22%20Material%20%26%20Valve%20Rules-teal.svg)
+![License](https://img.shields.io/badge/License-Apache%202.0-lightgrey.svg)
 
-<p><strong>Plantilla de cálculo de ejes DIN 743 y calculadora en línea</strong>: una <strong>herramienta de análisis de resistencia a la fatiga de ejes mecánicos</strong> y una <strong>hoja de cálculo de dimensionamiento de ejes rotativos y de válvula</strong> listas para usar y sin configuración previa, diseñadas para ingenieros, proyectistas CAD y compradores técnicos que necesitan resultados inmediatos y auditables sin memorizar complejas tablas de ingeniería alemanas. Disponible como <strong>calculadora de ejes gratuita basada en navegador</strong> y como <strong>plantilla automatizada de Microsoft Excel (.xlsx)</strong>, este conjunto de herramientas calcula <strong>factores de seguridad para cargas combinadas de flexión, torsión y axiales</strong>, automatiza las correcciones del <strong>factor de concentración de tensiones (<em>K<sub>t</sub></em>)</strong> y de la <strong>sensibilidad a la entalla</strong>, y calibra los límites de fatiga del material en <strong>6 clasificaciones de condición de servicio de válvula</strong>.</p>
+**Obtén resultados de dimensionamiento de ejes y verificación de fatiga según DIN 743, listos para auditoría, en cuestión de minutos, sin memorizar tablas de ingeniería alemanas, sin construir hojas de cálculo frágiles desde cero y sin comprar costoso software de FEA.**
 
-**Sin registro. Sin instalación de software. Retroalimentación de ingeniería Aprobado/Rechazado al instante.**
+La **Herramienta de Cálculo de Ejes DIN 743** es una **herramienta de análisis de resistencia a la fatiga de ejes mecánicos** y una **hoja de cálculo de dimensionamiento de ejes rotativos/vástagos de válvula** plug-and-play, diseñada para ingenieros, diseñadores CAD y responsables de decisiones técnicas que necesitan respuestas rápidas y defendibles en las que puedan confiar durante revisiones de diseño reales y evaluaciones de proveedores.
 
-Utilice la calculadora web gratuita para comprobaciones rápidas de un solo eje, o descargue el **libro de trabajo Excel Pro** totalmente desbloqueado, con **22 reglas preprogramadas de coincidencia de materiales y superficies**: pegue sus datos brutos y obtenga resultados de cálculo por lotes al instante sin escribir ni arrastrar una sola fórmula.
+Calcula automáticamente los **factores de seguridad para cargas combinadas de flexión, torsión y axiales**, aplica correcciones de **concentración de tensiones ($K_t$)** y **sensibilidad a la entalla**, y calibra los límites de resistencia de los materiales según **6 clasificaciones de condiciones de operación de válvulas**.
 
-> 🌐 **Aplicación web interactiva gratuita:** [**Abra la calculadora en línea gratuita de dimensionamiento de ejes y fatiga DIN 743 (sin instalación)**](https://hyvoid.github.io/DIN-743-Shaft-Calculations/)
-> 
-> 📥 **Hoja de cálculo Excel automatizada (.xlsx):** [**Descargue la plantilla Excel automatizada de verificación de fatiga de ejes y vástagos de válvula DIN 743 (garantía de devolución de 30 días)**](https://www.theseusworkshop.com/l/zjyuhp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=din-743-shaft-strength)
+**Cero configuración. Cero arrastre de fórmulas. Claridad de ingeniería y comercial instantánea de Aprobado/Rechazado.**
 
----
+- Empieza ahora mismo con la **calculadora gratuita en el navegador** para verificaciones rápidas de un solo eje (sin necesidad de registro).
+- Consigue el **Libro de Excel Automatizado completamente desbloqueado (`.xlsx`) de forma Gratuita (Paga lo que quieras — `$0+`)** para activar **22 reglas preprogramadas de coincidencia de materiales y superficies**; solo pega las dimensiones y cargas de tu eje para obtener decisiones de Aprobado/Rechazado por lotes al instante.
 
-## Para quién es este software de diseño de ejes DIN 743 y su plantilla Excel (perfiles de usuario y escenarios)
-
-Tanto si está dimensionando un eje de transmisión desde cero, validando un vástago de válvula bajo cargas cíclicas de alta presión o auditando el informe de cálculo mecánico de un proveedor, esta **plantilla de verificación de resistencia de ejes** elimina los errores de consulta manual:
-
-* **Ingenieros mecánicos junior y proyectistas CAD principiantes:** necesitan una **calculadora de dimensionamiento de diámetro de eje** lista para usar que les permita verificar ejes escalonados, radios de acuerdo y chaveteros en SolidWorks, Inventor o AutoCAD sin pasar días descifrando los gráficos de DIN 743 partes 1–3 ni ejecutando costosos análisis por elementos finitos (FEA).
-* **Ingenieros de diseño de válvulas y especialistas en dimensionamiento de actuadores:** necesitan una **hoja de cálculo de par y fatiga de vástagos de válvula** específica, precalibrada para **6 clasificaciones de condición de servicio de válvula** y para aleaciones resistentes a la corrosión (**acero inoxidable martensítico, Super Duplex, aleaciones de níquel, aleaciones de titanio y AISI 4340**).
-* **Ingenieros de bombas, cajas de engranajes y equipos rotativos:** necesitan una **hoja de cálculo repetible de flexión y torsión combinadas** para evaluar límites de fatiga cíclica, sobrecargas estáticas máximas y márgenes de seguridad frente a la deflexión del eje.
-* **Compras técnicas, ingenieros de costes y auditores de QA:** necesitan una **hoja de cálculo de apoyo a la decisión de ingeniería** sin barreras para verificar si un diseño de eje está peligrosamente subdimensionado (con riesgo de fallo en campo) o es excesivamente conservador (desperdiciando presupuesto de materia prima en barras de aleación sobredimensionadas).
+> 🌐 **Pruébalo al instante en tu navegador (Gratis, sin instalación):**
+> [**Abre la Calculadora Gratuita Online de Dimensionamiento de Ejes y Fatiga DIN 743 →**](https://hyvoid.github.io/DIN-743-Shaft-Calculations/)
+>
+> 📥 **Consigue el Libro de Excel Automatizado completo (`.xlsx`) — Gratis / Paga lo que quieras (`$0+`):**
+> [**Descarga la Plantilla Excel lista para usar de Fatiga de Ejes DIN 743 y Vástagos de Válvula →**](https://www.theseusworkshop.com/l/zjyuhp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=din-743-shaft-strength)
 
 ---
 
-## Verificación de fatiga y dimensionamiento de ejes: problemas habituales frente a soluciones automatizadas con plantilla
+## Vista Previa en Vivo de la Hoja de Cálculo (Mira Qué Obtienes Antes de Descargar)
 
-| Problema de diseño mecánico y dimensionamiento | Riesgo de ingeniería de alta frecuencia | Cómo lo resuelve esta calculadora DIN 743 y su plantilla Excel |
+¿Quieres inspeccionar la estructura, las reglas de materiales integradas y las pestañas de informes listas para auditoría antes de conseguir tu copia gratuita? Explora la estructura del libro directamente en Google Sheets:
+
+👉 [**Abre la Vista Previa en Vivo de la Hoja de Cálculo en Google Sheets**](https://docs.google.com/spreadsheets/d/1hkUnfBzuRpEWYokyyuTbXEXIKju9FyKF/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)
+
+> **Nota de compatibilidad:** La vista previa de Google Sheets puede mostrar ocasionalmente advertencias de `#NAME?` debido a diferencias entre la sintaxis de fórmulas de Google Sheets y Microsoft Excel. Esto afecta solo a la vista previa online: el libro `.xlsx` descargable funciona sin problemas con automatización completa en Microsoft Excel.
+
+---
+
+## Para Quién Está Diseñado Este Kit de Herramientas DIN 743 de Dimensionamiento de Ejes y Fatiga
+
+No necesitas un doctorado en metalurgia ni una licencia de simulación de `$10,000` para entrar en una revisión de diseño o una reunión con proveedores con confianza de nivel senior. Este **flujo de trabajo de verificación de ejes plug-and-play** está diseñado para equipos prácticos que necesitan respuestas rápidas y fiables con plazos ajustados:
+
+- **Ingenieros Mecánicos Junior y Diseñadores CAD:** Necesitan una **calculadora de dimensionamiento de diámetros de ejes** lista para usar para verificar ejes escalonados, radios de entalle, ranuras y chaveteros en SolidWorks, Inventor o AutoCAD, convirtiendo días de descifrar las gráficas de DIN 743 Partes 1–3 en una verificación de 5 minutos.
+- **Ingenieros de Válvulas y Especialistas en Dimensionamiento de Actuadores:** Necesitan una **hoja de cálculo dedicada al par del vástago de válvula y la fatiga** precalibrada para **6 clasificaciones de condiciones de operación de válvulas** y aleaciones resistentes a la corrosión (**Acero Inoxidable Martensítico, Super Dúplex, Aleaciones de Níquel, Aleaciones de Titanio y AISI 4340**).
+- **Profesionales de Bombas, Reductores y Equipos Rotativos:** Necesitan una **hoja de cálculo repetible de cálculo de ejes con flexión y torsión combinadas** para verificar límites de resistencia cíclicos, márgenes de límite elástico estático y riesgos de sobrecarga sin reinventar las matemáticas en cada proyecto.
+- **Compradores Técnicos, Ingenieros de Costes y Revisores de QA:** Necesitan una **hoja de decisiones de ingeniería y comercial accesible** para auditar planos de proveedores, detectando ejes con diseño insuficiente antes de fallos en campo e identificando ejes de aleación sobredimensionados innecesariamente antes de que inflen tu BOM.
+
+---
+
+## Puntos de Dolor Comunes en el Dimensionamiento de Ejes frente a Soluciones Automatizadas Instantáneas
+
+| Punto de dolor real en el dimensionamiento | Por qué crea riesgo profesional y comercial | Cómo lo resuelve instantáneamente este kit DIN 743 |
 | :--- | :--- | :--- |
-| **Factores de seguridad a la fatiga del eje inciertos ($S_f$)** | Estimar márgenes de seguridad conduce a fisuras por fatiga inesperadas o a auditorías de diseño fallidas ante el cliente. | Calcula automáticamente **factores de seguridad a la fatiga dinámica** y **factores de seguridad frente al límite elástico estático** respecto a los umbrales de referencia de DIN 743, con indicadores **Aprobado/Rechazado** inmediatos. |
-| **Consultas confusas del límite de fatiga del material** | Las tablas estándar de acero al carbono no sirven al dimensionar aleaciones exóticas para entornos corrosivos o de alta carga. | Base de datos integrada que cubre **acero inoxidable martensítico, Super Duplex, aleaciones de níquel, aleaciones de titanio y acero 4340** en **4 rangos de resistencia a la tracción ($R_m$)**. |
-| **Combinaciones complejas de cargas multiaxiales** | Evaluar manualmente momentos flectores, cortante torsional y tracción axial simultáneos es propenso a errores. | **Calculadora integrada de tensión equivalente de von Mises** que combina cargas alternantes y medias para **flexión, torsión y fuerzas axiales**. |
-| **Sensibilidad a la entalla y concentraciones de tensiones no cuantificadas** | Ignorar los escalones, las ranuras y los chaveteros del eje provoca fracturas catastróficas en las transiciones geométricas. | Seguimiento en tiempo real de los **factores geométricos de concentración de tensiones ($K_t$)**, los **coeficientes de entalla a la fatiga ($K_f$)** y los **factores de tamaño ($K_d$)**. |
-| **Uso indebido de la tensión nominal bruta** | Comparar la tensión nominal del CAD directamente con el límite elástico de catálogo ignora el acabado superficial y la severidad de servicio. | Reducción automática en **5 estados de rugosidad superficial × 4 intervalos de $R_m$**, calibrada específicamente para **6 clasificaciones de condición de servicio de válvula**. |
-| **Fórmulas rotas en hojas de cálculo heredadas** | Copiar y arrastrar celdas en hojas Excel antiguas corrompe las referencias durante las evaluaciones por lotes de ejes. | **Arquitectura Excel automatizada sin arrastre**: pegue sus filas de parámetros brutos y deje que las 22 reglas de cálculo integradas rellenen los resultados de inmediato. |
+| **Adivinar los Factores de Seguridad de Fatiga del Eje ($S_f$)** | Las estimaciones aproximadas conducen a revisiones de diseño rechazadas, preguntas incómodas de clientes o grietas de fatiga en campo. | Calcula automáticamente los **factores de seguridad de fatiga dinámica** y de **límite elástico estático** frente a los umbrales de DIN 743 con indicaciones claras de **PASS / FAIL**. |
+| **Datos de aleaciones exóticas difíciles de encontrar** | Las tablas de libro de texto de acero al carbono estándar fallan al dimensionar ejes resistentes a la corrosión o de alta carga. | Reglas integradas para **Acero Inoxidable Martensítico, Super Dúplex, Aleaciones de Níquel, Aleaciones de Titanio y AISI 4340** en **4 tramos de resistencia a la tracción ($R_m$)**. |
+| **Cálculos de cargas multiaxiales propensos a errores** | Combinar a mano momentos flectores, cortantes por torsión y fuerzas axiales facilita que los errores pasen desapercibidos. | Motor integrado de **tensión equivalente de von Mises** que combina cargas alternantes y medias para **flexión, torsión y empuje axial**. |
+| **Efectos de entalla y geometría pasados por alto** | Ignorar hombros de eje, radios de entalle y chaveteros oculta picos de tensión locales que provocan fracturas prematuras. | Cálculo en tiempo real de la **concentración de tensiones geométrica ($K_t$)**, los **factores de entalla por fatiga ($K_f$)** y los **factores de reducción por tamaño ($K_d$)**. |
+| **Comparar la tensión nominal bruta con valores de catálogo** | Omitir la rugosidad superficial y la reducción por severidad de operación sobreestima la capacidad real del eje entre un 30% y un 60%. | Reducción automatizada en **5 estados de acabado superficial $\times$ 4 intervalos de $R_m$**, calibrada para **6 clasificaciones de condiciones de operación de válvulas**. |
+| **Hojas de cálculo frágiles y enlaces de celdas rotos** | Copiar, pegar o arrastrar fórmulas en hojas de Excel antiguas corrompe silenciosamente los cálculos por lotes. | **Arquitectura automatizada de cero arrastre**: pega tus datos de entrada y deja que las **22 reglas de cálculo integradas** se actualicen automáticamente. |
 
 ---
 
-## Comparativa de funciones: cálculo manual DIN 743 vs. calculadora web gratuita vs. plantilla Excel Pro
+## Elige Tu Flujo de Trabajo: Consulta Manual frente a Calculadora Web Gratuita frente a Libro de Excel Gratuito
 
-| Dimensión operativa y de ingeniería | Cálculo manual / hoja de borrador | Calculadora DIN 743 gratuita en navegador | Plantilla Excel Pro DIN 743 automatizada (.xlsx) |
+Tanto la aplicación del navegador como el libro de Excel son de acceso gratuito; elige el formato que se adapte a tu forma de trabajar hoy:
+
+| Dimensión del flujo de trabajo | Consulta manual DIN 743 / borrador | Calculadora web gratuita online | Libro de Excel automatizado (`.xlsx`) — **Gratis / Paga lo que quieras** |
 | :--- | :--- | :--- | :--- |
-| **Caso de uso objetivo** | Estudio académico o estimación aproximada puntual | Validación rápida de un punto en el navegador | **Diseño de producción, dimensionamiento por lotes de ejes y vástagos, y documentación de QA** |
-| **Biblioteca de materiales y cobertura de aleaciones** | Requiere consulta manual en tablas de manual | Aceros de ingeniería estándar de referencia | **22 reglas de cálculo preconfiguradas (inoxidable martensítico, Super Duplex, aleaciones de níquel, titanio, 4340)** |
-| **Matriz de acabado superficial × resistencia a la tracción ($R_m$)** | Interpolación manual a partir de gráficos DIN | Entrada superficial básica de un solo punto | **Matriz automática de cruce de 5 estados superficiales × 4 rangos de $R_m$** |
-| **Calibración de la condición de servicio de la válvula** | No incluida (requiere reducción personalizada) | Solo cargas mecánicas generales | **Precalibrada para 6 clasificaciones de condición de servicio de válvula** |
-| **Mantenimiento de fórmulas y entrada de datos** | Alto riesgo de errores de referencia de celda y de copiar y pegar | Entrada manual en formulario web de un solo elemento | **Fórmulas 100% autoactualizables (sin doble clic ni arrastre de fórmulas)** |
-| **Procesamiento por lotes y trazabilidad offline** | Lento, no estandarizado y difícil de auditar | Solo una sesión (se reinicia al actualizar) | **Filas por lotes offline ilimitadas, hojas desbloqueadas personalizables y exportación a PDF lista para el cliente** |
+| **Ideal para** | Estudio académico o comprobaciones manuales aproximadas | Verificaciones rápidas de un solo eje en el navegador | **Diseño real, dimensionamiento por lotes, auditorías de proveedores e informes a clientes** |
+| **Cobertura de aleaciones y materiales** | Consulta manual de tablas de libro | Aceros de ingeniería estándar básicos | **22 reglas preprogramadas (Inox. Martensítico, Super Dúplex, Níquel, Titanio, 4340)** |
+| **Matriz de acabado superficial $\times$ $R_m$** | Interpolación manual de gráficas DIN | Entrada de superficie de un solo punto | **Matriz automatizada de coincidencia cruzada de 5 Estados Superficiales $\times$ 4 Rangos de $R_m$** |
+| **Condiciones de operación de válvulas** | Requiere reducción manual personalizada | Solo cargas mecánicas generales | **Precalibrado para 6 Clasificaciones de Condiciones de Operación de Válvulas** |
+| **Mantenimiento de la hoja de cálculo** | Alto riesgo de fórmulas rotas | Se reinicia al recargar el navegador | **100% de actualización automática (sin arrastrar fórmulas ni hacer clic en esquinas de celdas)** |
+| **Entregables y rastro de auditoría** | Notas de borrador no estandarizadas | Solo comprobación rápida en pantalla | **Filas por lotes sin conexión, entradas editables, exportación limpia a PDF lista para auditoría** |
 
 ---
 
-## Tutorial de inicio rápido: cómo calcular la resistencia a la fatiga de un eje en 4 pasos (flujo de trabajo sin fórmulas)
+## Pasa de Dimensiones en Bruto a una Decisión Segura en 4 Pasos
 
-No necesita formación en metalurgia avanzada ni en mecánica estructural para obtener resultados precisos de dimensionamiento de ejes. Siga este flujo de trabajo para pasar de las dimensiones brutas a una decisión de ingeniería en minutos:
+No necesitas construir fórmulas ni memorizar la notación DIN para producir cálculos limpios y defendibles:
 
-### Paso 1: valide la geometría de un solo eje en la calculadora gratuita del navegador
-Abra la [**calculadora web gratuita de resistencia de ejes DIN 743**](https://hyvoid.github.io/DIN-743-Shaft-Calculations/) e introduzca el diámetro de referencia del eje ($d$), la característica crítica de la sección (radio de acuerdo escalonado, chavetero o ranura) y los datos de carga nominal para ver cómo afecta la geometría a la concentración de tensiones.
+### Paso 1: Prueba un Caso Rápido de un Solo Eje en el Navegador
+Abre la [**Calculadora Gratuita Online de Ejes DIN 743**](https://hyvoid.github.io/DIN-743-Shaft-Calculations/) e introduce el diámetro de tu eje ($d$), la característica geométrica crítica (radio de entalle, ranura o chavetero) y las cargas para ver cómo la geometría impulsa la concentración de tensiones.
 
-### Paso 2: seleccione el grado de material y el estado de rugosidad superficial
-Elija el material de su eje o vástago de válvula y el acabado de mecanizado. El motor de cálculo evalúa cómo interactúan su **resistencia a la tracción ($R_m$)** y su **límite elástico ($R_{p0.2}$)** con la rugosidad superficial ($R_z$) para establecer el límite de fatiga corregido real.
+### Paso 2: Ajusta Tu Grado de Material y Acabado Superficial
+Selecciona la aleación de tu eje o vástago de válvula y su estado de mecanizado. El motor evalúa automáticamente cómo la **resistencia a la tracción ($R_m$)**, el **límite elástico ($R_{p0.2}$)** y la **rugosidad superficial ($R_z$)** determinan el límite de resistencia real de tu componente.
 
-### Paso 3: aplique cargas combinadas y severidad de servicio
-Introduzca su **momento flector**, **par torsor** y **empuje axial** de servicio, y seleccione la severidad de servicio correspondiente. Revise al instante si la sección transversal cumple o no los criterios del factor de seguridad de DIN 743.
+### Paso 3: Aplica Cargas Combinadas y Severidad de Servicio
+Introduce tu **momento flector**, **par de torsión** y **empuje axial** de operación, y luego selecciona la severidad de servicio para obtener retroalimentación inmediata de **PASS / FAIL** según los criterios de DIN 743.
 
-### Paso 4: pase a la automatización por lotes con un clic mediante la plantilla Excel Pro
-Cuando termine su prueba puntual en el navegador, escale su flujo de trabajo a la producción real de ingeniería con la [**plantilla Excel automatizada de cálculo de ejes y válvulas DIN 743**](https://www.theseusworkshop.com/l/zjyuhp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=din-743-shaft-strength).
+### Paso 4: Escala a Proyectos Reales con el Libro de Excel Automatizado Gratuito
+¿Listo para guardar tus cálculos, ejecutar varias opciones de diseño en paralelo o exportar un informe listo para auditoría? Consigue el [**Libro de Excel Automatizado de Cálculo de Ejes y Válvulas DIN 743 (Gratis / Paga lo que quieras)**](https://www.theseusworkshop.com/l/zjyuhp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=din-743-shaft-strength).
 
-* **¿Por qué cambiar al libro de trabajo Excel?** Aunque la teoría mecánica subyacente de DIN 743 y la lógica de riesgo comercial son muy complejas, el producto Excel ya ha empaquetado todo el trabajo pesado en **22 reglas de cálculo automáticas de coincidencia**.
-  <img width="1920" height="790" alt="image" src="https://github.com/user-attachments/assets/b30e51ae-fade-4f83-8869-7de538238ee4" />
+<img width="1920" height="790" alt="Automated DIN 743 Excel Dashboard Preview" src="https://github.com/user-attachments/assets/9ffa110b-aa4a-4650-bfe3-ddd5105abfec" />
 
-* **Cobertura completa de materiales convencionales y de servicio severo:** ampliada recientemente para abarcar materiales industriales de alta demanda —incluidos **acero inoxidable martensítico, acero inoxidable Super Duplex, aleaciones de níquel, aleaciones de titanio y acero aleado AISI 4340**—, referenciados automáticamente de forma cruzada en **5 estados de acabado superficial × 4 intervalos de resistencia a la tracción ($R_m$)** para calibrar **6 clasificaciones distintas de condición de servicio de válvula**.
-* **Funcionamiento realmente sin umbral (sin arrastrar fórmulas):** cada fórmula de consulta y de corrección de tensiones se actualiza dinámicamente. **Ni siquiera necesita hacer doble clic en la esquina de la celda ni arrastrar el ratón para copiar fórmulas.** Basta con descargar el archivo `.xlsx` en su ordenador, pegar sus propios datos dimensionales y de carga en las columnas de entrada y obtener al instante, con un clic, la retroalimentación de decisión técnica y comercial Aprobado/Rechazado, lo que permite a los principiantes aprovechar de inmediato un análisis de nivel sénior.
+- **Lógica de Nivel Senior, Operación Fácil para Principiantes:** La compleja teoría de fatiga de DIN 743 y las comprobaciones de riesgo comercial vienen preempaquetadas en **22 reglas de coincidencia automatizadas**, para que obtengas resultados fiables desde el primer día.
+- **Diseñado para Materiales Industriales de Servicio Severo:** Cubre **Acero Inoxidable Martensítico, Acero Inoxidable Super Dúplex, Aleaciones de Níquel, Aleaciones de Titanio y AISI 4340**, con referencias cruzadas en **5 estados de acabado superficial $\times$ 4 tramos de $R_m$** y **6 clasificaciones de condiciones de operación de válvulas**.
+- **Automatización Real de Pegar y Listo:** Sin arrastrar esquinas de celdas, sin BUSCARV rotos, sin macros que depurar. Descarga el archivo `.xlsx`, pega tus datos dimensionales y de carga en las columnas de entrada y genera de inmediato informes limpios de ingeniería y comerciales de PASS/FAIL.
 
-👉 [**Descargue la plantilla Excel automatizada DIN 743 lista para usar en Theseus Workshop**](https://www.theseusworkshop.com/l/zjyuhp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=din-743-shaft-strength)
+<img width="1920" height="790" alt="22 Pre-Programmed Material and Valve Rules Preview" src="https://github.com/user-attachments/assets/b30e51ae-fade-4f83-8869-7de538238ee4" />
+
+👉 [**Consigue el Libro de Excel Automatizado DIN 743 (Gratis / Paga lo que quieras — `$0+`) →**](https://www.theseusworkshop.com/l/zjyuhp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=din-743-shaft-strength)
 
 ---
 
-## La lógica de negocio y la metodología: descubrir los puntos ciegos comerciales ocultos en el dimensionamiento de ejes
+## La Lógica Comercial: Por Qué DIN 743 Protege Tu Reputación y Tu Margen
 
-Para los no especialistas, los ingenieros junior y los jefes de proyecto, el cálculo de ejes suele parecer un simple ejercicio matemático. En realidad, **la verificación de ejes según DIN 743 es una herramienta de control de riesgo comercial**. 
+Sobre el papel, el cálculo de ejes parece pura mecánica. En el trabajo real, **la verificación según DIN 743 es un escudo de decisiones comerciales**. La mayoría de los fallos costosos no ocurren porque alguien olvidara las matemáticas básicas; ocurren porque los equipos confían en notas dispersas o atajos no calibrados que ocultan dos puntos ciegos caros:
 
-Los cálculos DIN 743 rara vez fallan por aritmética básica; fallan porque los supuestos de ingeniería se fragmentan entre notas manuscritas, hojas de cálculo sin calibrar y cotizaciones de proveedores desconectadas. Cuando un equipo carece de un sistema de cálculo estandarizado, cae en dos costosos puntos ciegos comerciales:
+### Punto Ciego 1: La Trampa de la "Tensión Nominal" (Fallos en Campo y Retrabajos Costosos)
+Un atajo habitual es comparar la **tensión nominal** bruta directamente con el límite de fatiga o de fluencia del catálogo del material.
+- **La realidad de ingeniería:** Los chaveteros, los hombros escalonados, los diámetros de eje mayores, la rugosidad de superficies mecanizadas y los ciclos de servicio exigentes de las válvulas reducen habitualmente la capacidad real de fatiga de un componente entre un **30% y un 60%**.
+- **El impacto comercial:** Un eje que parece "seguro" en una comprobación simplificada puede fracturarse tras unos pocos miles de ciclos en servicio, provocando paradas no planificadas, reclamaciones de garantía y pérdida de confianza del cliente.
 
-### Punto ciego 1: la trampa de la «tensión nominal» (reclamaciones de garantía, fractura en campo y responsabilidad por retirada del producto)
-Los principiantes suelen calcular la **tensión nominal** bruta (dividir la carga entre el área de la sección transversal) y compararla directamente con la resistencia a la fatiga o el límite elástico de catálogo del material. 
-* **El hecho objetivo:** los ejes reales contienen concentradores de tensiones (chaveteros, escalones), penalizaciones por tamaño (los diámetros mayores tienen menor resistencia específica a la fatiga) y microentallas propias de la rugosidad superficial. Junto con las severas condiciones de servicio de la válvula, estos factores reducen habitualmente la capacidad de carga real de un eje entre un **30% y un 60%**.
-* **La consecuencia comercial:** un eje o vástago de válvula que parece «100% seguro» en una calculadora básica puede romperse en campo tras unos miles de ciclos, lo que desencadena paradas de planta no planificadas, penalizaciones por sustitución de emergencia y reclamaciones de garantía que anulan el beneficio de toda una línea de producto.
-
-#### Impacto real: tensión nominal bruta frente a tensión corregida según DIN 743
-* **Antes (comprobación nominal sin criterio):** un proyectista compara una tensión de flexión nominal de `185 MPa` directamente con un límite de fatiga de catálogo de `210 MPa` y aprueba el plano para fabricación.
-* **Después (comprobación automatizada con la plantilla DIN 743):** la plantilla aplica automáticamente la sensibilidad a la entalla, la reducción por tamaño del eje, los **factores de rugosidad superficial de 5 estados** y la **calibración de servicio de válvula de 6 clases**. El límite de fatiga admisible real desciende a `168 MPa`.
+#### Ejemplo Rápido: Comprobación Nominal Bruta frente a Comprobación Automatizada DIN 743
+- **Comprobación nominal ingenua:** Tensión de flexión nominal de `$185\text{ MPa}$` frente al límite de fatiga del material en catálogo de `$210\text{ MPa}$` $\rightarrow$ parece **PASS**.
+- **Comprobación automatizada DIN 743:** Tras aplicar sensibilidad a la entalla, reducción por tamaño, **rugosidad superficial de 5 estados** y **factores de servicio de válvula de 6 clases**, el límite de resistencia admisible real baja a `$168\text{ MPa}$`.
 
 ```text
-Original Naive Decision:
-185 MPa < 210 MPa  →  PASS (Hidden Field Failure Risk)
+Naive Check:
+185 MPa < 210 MPa  ->  PASS (Hidden Field Failure Risk)
 
-Corrected DIN 743 Decision:
-185 MPa > 168 MPa  →  FAIL (Redesign or Material Upgrade Required Before Production)
-
+DIN 743 Corrected Check:
+185 MPa > 168 MPa  ->  FAIL (Catch & Fix Before Manufacturing)
 ```
 
-### Punto ciego 2: sobredimensionamiento ciego y sobregasto en aleaciones (licitaciones perdidas y erosión del margen)
+### Punto Ciego 2: Sobrediseño a Ciegas (Ofertas Sobrepreciosas y Márgenes Erodados)
+Cuando ingenieros o compradores no están seguros de cómo se comporta una aleación en rangos específicos de $R_m$ o clases de operación, rellenan los diseños con "márgenes de miedo" arbitrarios: sobredimensionan el diámetro del eje o saltan prematuramente del **Acero Inoxidable Martensítico / 4340** a **Aleaciones de Níquel o Titanio** ultracostosas.
+- **La realidad de ingeniería:** Aumentar el diámetro del eje solo un 20% incrementa el peso de la barra en más de un 40% y obliga a usar actuadores, rodamientos y carcasas más grandes y caros.
+- **El impacto comercial:** Los costes de BOM inflados pierden licitaciones competitivas o erosionan silenciosamente entre un 15% y un 35% de tu margen bruto.
 
-Cuando los ingenieros o los compradores no saben exactamente cómo se comporta un material en intervalos concretos de resistencia a la tracción ($R_m$) o en las clasificaciones de servicio de válvula, compensan la incertidumbre añadiendo «factores de miedo» arbitrarios: o hacen el eje innecesariamente grueso o suben a ciegas de **acero inoxidable martensítico o 4340** a **aleaciones de níquel o de titanio** ultra caras.
-
-* **El hecho objetivo:** sobredimensionar un vástago de válvula o un eje de transmisión solo un 20% aumenta el peso de la barra en más del 40%, obliga a seleccionar un actuador o un alojamiento de rodamiento más grande y más caro, e incrementa el tiempo de mecanizado.
-* **La consecuencia comercial:** unos costes inflados de la lista de materiales (BOM) hacen que sus cotizaciones no sean competitivas en licitaciones sensibles al precio, o erosionan silenciosamente entre el 15% y el 35% de su margen bruto de fabricación.
-
-### Cómo nuestro motor Excel automatizado de 22 reglas resuelve ambos problemas
-
-En lugar de exigirle dominar las normas mecánicas alemanas, este libro de trabajo convierte la lógica de decisión en un flujo de trabajo a prueba de errores:
-
-1. **Elimina la responsabilidad por subdimensionamiento:** aplica automáticamente la reducción DIN 743 en **5 estados superficiales × 4 rangos de $R_m$** y **6 condiciones de servicio de válvula**, de modo que los diseños marginales nunca superen la revisión de QA.
-2. **Evita el sobregasto en materiales:** le permite comparar **inoxidable martensítico, Super Duplex, aleaciones de níquel, titanio y 4340** en paralelo en segundos, para que pueda elegir la aleación exacta de coste óptimo y el diámetro mínimo seguro que cumpla la normativa, protegiendo tanto su reputación técnica como su margen de beneficio.
+### Cómo Te Ayuda Este Libro Gratuito a Ganar por Doble Vía
+1. **Defiende Tus Márgenes de Seguridad:** Aplica automáticamente las reducciones de DIN 743 en **5 estados superficiales $\times$ 4 intervalos de $R_m$** y **6 clases de servicio de válvulas** para que los diseños riesgosos nunca lleguen a producción.
+2. **Optimiza el Coste del Material en Segundos:** Compara **Inox. Martensítico, Super Dúplex, Níquel, Titanio y 4340** lado a lado para elegir el material conforme más rentable y el diámetro de seguridad mínimo, aportando valor comercial inmediato a tu equipo.
 
 ---
 
-## Acerca de Theseus Workshop
+## Sobre Theseus Workshop — Kits de Herramientas de Decisión Plug-and-Play
 
-Desarrollo herramientas de seguimiento ligeras, calculadoras de ingeniería y plantillas de apoyo a la decisión comercial para flujos de trabajo técnicos complejos con demasiadas piezas móviles como para retenerlas de forma fiable en la cabeza de una sola persona.
+Este libro de DIN 743 es nuestro kit de inicio gratuito para la comunidad de **Theseus Workshop**.
 
-El principio rector detrás de cada herramienta es sencillo:
+Diseñamos plantillas de Excel ligeras y listas para usar y calculadoras de decisión para flujos de trabajo reales de ingeniería, construcción y negocios industriales, creadas específicamente para profesionales que quieren **estructura de nivel senior, resultados rápidos y cero exceso de software** sin pasar semanas construyendo modelos desde cero.
 
-> **¿Qué datos y reglas críticos deben existir en un solo lugar para que su próxima decisión de ingeniería o de negocio pueda tomarse con confianza en segundos?**
+> **Nuestro principio de diseño fundamental:** Colocar las reglas del sector correctas, las validaciones y los resultados de decisión en un único espacio de trabajo limpio, para que puedas tomar decisiones técnicas y comerciales de alto riesgo con confianza en cuestión de minutos.
 
-Esta **herramienta de cálculo de fatiga de ejes DIN 743** convierte normas de ingeniería mecánica contrastadas en un activo operativo reutilizable y sin umbral, en lugar de otra hoja de cálculo frágil y aislada.
-
-* 🛒 **Obtenga esta plantilla:** **[Descargue el libro de trabajo Excel automatizado de cálculo de ejes y válvulas DIN 743](https://www.theseusworkshop.com/l/zjyuhp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=din-743-shaft-strength)**
-* 🧰 **Explore todas las plantillas de ingeniería y decisión:** visite nuestra tienda oficial en **[TheseusWorkshop.com](https://www.google.com/search?q=https://www.theseusworkshop.com%3Futm_source%3Dgithub%26utm_medium%3DGitHub%2520README%26utm_campaign%3Dreadme%2520about%2520section%26utm_content%3Ddin-743-shaft-strength)** para descubrir más hojas de cálculo listas para usar, flujos de verificación de ingeniería y herramientas de decisión empresarial.
+- 📥 **Consigue Este Kit Gratuito (`$0+` Paga lo que quieras):** [**Descarga el Libro de Excel Automatizado de Ejes y Válvulas DIN 743**](https://www.theseusworkshop.com/l/zjyuhp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=din-743-shaft-strength)
+- 🧰 **¿Necesitas Más Kits de Decisión Comerciales y de Ingeniería Listos para Usar?** Si esta plantilla gratuita te ahorra horas hoy, explora nuestra biblioteca completa de hojas de cálculo plug-and-play para **estimación de costes, control de proyectos, mediciones de BOQ y análisis de TCO industrial** en [**TheseusWorkshop.com**](https://www.theseusworkshop.com?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20about%20section&utm_content=din-743-shaft-strength).
 
 ---
 
-## Detalles técnicos
+## Explora Otros Kits de Herramientas de Decisión de Esta Serie
+
+¿Buscas la misma estructura de pegar y listo en otros flujos de trabajo comerciales y de ingeniería? Echa un vistazo a nuestros repositorios complementarios:
+
+- **[construction-estimating](https://github.com/HyVoid/construction-estimating)** — *¿Cuánto costará este alcance de construcción bajo los supuestos actuales?* Estandariza la estimación de licitaciones y convierte las estimaciones completas en bibliotecas de costes reutilizables.
+- **[aia-construction-cost-tracker-excel](https://github.com/HyVoid/aia-construction-cost-tracker-excel)** — *¿Cómo se comparan las estimaciones y los costes registrados durante la entrega?* Registra costes estimados frente a reales usando estructuras estándar AIA.
+- **[construction-project-management-excel](https://github.com/HyVoid/construction-project-management-excel)** — *¿Cuál es nuestra posición financiera real del proyecto tras órdenes de cambio y facturación?* Integra presupuestos, órdenes de cambio, facturación por avance y flujo de caja en un único marco de control.
+- **[industrial-energy-tco-calculator](https://github.com/HyVoid/industrial-energy-tco-calculator)** — *¿Qué opción energética ofrece el menor Coste Total de Propiedad real?* Compara fuentes de energía industrial normalizando coste de combustible, eficiencia, capex y costes de ciclo de vida.
+- **[residential-boq-template](https://github.com/HyVoid/residential-boq-template)** — *¿Cuánto costará este proyecto residencial y qué divisiones se desvían del presupuesto?* Estima costes a partir de mediciones de BOQ mientras registras los presupuestos aprobados frente al gasto real.
+- **[tunnel-cost-estimator-boq-excel](https://github.com/HyVoid/tunnel-cost-estimator-boq-excel)** — *¿Cuánto costará este túnel de perforación y voladura bajo el ciclo supuesto?* Estima excavación, perforación, voladura, sostenimiento, equipos y mano de obra en un BOQ estructurado.
+- **[Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit](https://github.com/HyVoid/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit)** — *¿Puedo rastrear cada número de la licitación de cimentaciones hasta dimensiones medidas?* Automatiza volúmenes de hormigón, encofrados, movimiento de tierras, planos de doblado de barras (BBS) y precios de BOQ.
+
+👉 [**Explora Todos los Kits de Herramientas Listos para Usar en TheseusWorkshop.com**](https://www.theseusworkshop.com/)
+
+---
+
+## Preguntas, Comentarios y Novedades del Producto
+
+Mejoramos activamente este kit basándonos en flujos de trabajo reales de dimensionamiento de ejes DIN 743, fatiga de cargas combinadas y materiales/entallas:
+
+- **Preguntas y adecuación al flujo de trabajo:** [Pregunta sobre geometría de ejes, casos de carga, entradas de flexión/torsión/axial, reglas de materiales, sensibilidad a la entalla o clasificaciones de operación](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions)
+- **Ideas y solicitudes de funciones:** [Sugiere nuevas geometrías de eje, registros de aleaciones, casos de operación o vistas de informes](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas)
+- **Informe de error técnico:** [Envía un issue mediante el formulario de informes de errores de DIN-743-Shaft-Calculations](https://github.com/HyVoid/DIN-743-Shaft-Calculations/issues/new?template=bug-report.yml)
+- **Notas de versión y novedades:** [Sigue los registros de mantenimiento y mejoras](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates)
+
+> **Nota de privacidad y reproducibilidad:** Por favor, no publiques planos confidenciales de clientes, archivos CAD propietarios, informes de proveedores ni especificaciones de producto no publicadas en hilos públicos. Comparte geometría simplificada y valores de carga sintéticos con el ejemplo reproducible más pequeño (nombre de la hoja de trabajo, celda de entrada, resultado esperado frente al real), e indica si el problema ocurrió en la aplicación del navegador, en la vista previa de Google Sheets o en el libro de Excel. Las discusiones públicas no constituyen una revisión formal de diseño de ingeniería con sello.
+
+---
+
+## Detalles Técnicos y Arquitectura de Cálculo
 
 <details>
-<summary>Para revisores técnicos, usuarios avanzados de Excel y colaboradores</summary>
+<summary><strong>Haz clic para expandir:</strong> Arquitectura del libro, 3 trampas clásicas de ingeniería, Ejemplo resuelto de vástago de válvula, Fórmulas y reglas de validación (Para revisores técnicos)</summary>
 
 ---
 
-### Arquitectura del libro de trabajo
+### Arquitectura del Libro
 
-| Hoja        | Propósito                                              |
-| ----------- | ------------------------------------------------------ |
-| GUIDE       | Instrucciones de uso, alcance, control de versiones y aviso legal |
-| INPUT       | Punto de entrada editable único                        |
-| REFERENCE   | Base de datos de materiales y parámetros DIN           |
-| CALCULATION | Motor de cálculo protegido                             |
-| RESULTS     | Panel de seguridad y evaluación Aprobado/Rechazado     |
-| REPORT      | Salida de informes estandarizada                       |
+| Hoja | Propósito |
+| :--- | :--- |
+| `GUIDE` | Instrucciones de uso, alcance, control de versiones, aviso legal |
+| `INPUT` | Punto de entrada único editable con validación de datos integrada |
+| `REFERENCE` | Base de datos de materiales protegida y parámetros de consulta DIN 743 |
+| `CALCULATION` | Motor de cálculo protegido (evita sobrescribir fórmulas accidentalmente) |
+| `RESULTS` | Panel de factores de seguridad y evaluación automatizada de PASS / FAIL |
+| `REPORT` | Salida de informes de ingeniería estandarizada y lista para imprimir |
 
-#### Flujo de datos
+#### Flujo de Datos Unidireccional Limpio
 
 ```text
-GUIDE
-   ↓
-INPUT
-   ↓
-REFERENCE
-   ↓
-CALCULATION
-   ↓
-RESULTS
-   ↓
-REPORT
+GUIDE -> INPUT -> REFERENCE -> CALCULATION -> RESULTS -> REPORT
 ```
 
-La validación se realiza en INPUT.
-
-Las salidas dependen exclusivamente de los resultados de CALCULATION.
-
-No se permiten referencias circulares.
+- La validación de datos se ejecuta directamente en `INPUT`.
+- Todas las salidas hacen referencia exclusivamente a `CALCULATION`: no se permiten referencias circulares.
 
 ---
 
-### Tres trampas que atrapan incluso a ingenieros mecánicos experimentados
+### Tres Trampas que Atrapan Incluso a Ingenieros Mecánicos Experimentados
 
----
+#### Trampa 1: Comparar la Tensión Nominal Directamente con los Límites de Fatiga del Material
+- **Decisión errónea:** `$185\text{ MPa} < 210\text{ MPa} \rightarrow \text{PASS}$`
+- **Por qué falla:** Los límites de resistencia del catálogo deben corregirse por tamaño ($K_d$), superficie ($K_F$) y efectos de entalla ($\beta$):
 
-#### Trampa 1: comparar la tensión nominal directamente con los límites de fatiga del material
+$$\sigma_{WK} = \frac{\sigma_W \cdot K_d \cdot K_F}{\beta}$$
 
-Se tomó una decisión:
-
-```
-185 MPa < 210 MPa
-PASS
-```
-
-Supuesto erróneo:
-
-Las tensiones nominales representan la capacidad real de fatiga.
-
-Por qué es incorrecto:
-
-Los límites de fatiga del material deben ajustarse por los efectos del componente.
-
-Enfoque corregido:
-
-```
-σWK = (σW × Kd × KF) / β
-```
-
-Resultado corregido:
-
-```
-Corrected endurance limit:
-168 MPa
-
-185 MPa > 168 MPa
-
-FAIL
-```
+- **Resultado corregido:** El límite de resistencia corregido del componente baja a `$168\text{ MPa}$`. Dado que `$185\text{ MPa} > 168\text{ MPa}$`, el resultado real es **FAIL**.
 
 <details>
-<summary>Referencia de fórmulas</summary>
+<summary>Referencia de Fórmulas de Excel</summary>
 
 ```excel
 =(Sigma_W * Kd * KF) / Beta
@@ -231,240 +228,152 @@ FAIL
 
 </details>
 
----
+#### Trampa 2: Subestimar los Efectos de la Geometría y del Radio de Entalle
+- **Suposición errónea:** Los pequeños cambios en los entalles de hombros o ranuras tienen un impacto insignificante.
+- **Enfoque corregido:** Convertir la concentración de tensiones geométrica ($\alpha$) en factor de entalla por fatiga ($\beta$) mediante la sensibilidad a la entalla ($q$):
 
-#### Trampa 2: ignorar los efectos de la geometría
+$$\beta = 1 + q \cdot (\alpha - 1)$$
 
-Decisión:
-
-Aumentar ligeramente el diámetro del eje.
-
-Supuesto erróneo:
-
-Los pequeños cambios de geometría tienen una influencia despreciable.
-
-Por qué es incorrecto:
-
-Los radios de acuerdo y las ranuras alteran significativamente la concentración de tensiones.
-
-Enfoque corregido:
-
-Evaluar los factores α y β.
-
-Resultado:
-
-Un radio de acuerdo mayor mejoró la seguridad a la fatiga al reducir la severidad de la entalla.
+- **Resultado:** Aumentar el radio de entalle suele mejorar la seguridad frente a la fatiga de forma mucho más rentable que actualizar la aleación de todo el eje.
 
 <details>
-<summary>Referencia de fórmulas</summary>
+<summary>Referencia de Fórmulas de Excel</summary>
 
 ```excel
-Beta = 1 + q*(Alpha-1)
+=1 + q*(Alpha - 1)
+```
+
+</details>
+
+#### Trampa 3: Evaluar Flexión y Torsión de Forma Independiente
+- **Suposición errónea:** Si la seguridad a flexión ($S_b$) y la seguridad a torsión ($S_t$) pasan cada una por separado, el eje es seguro.
+- **Enfoque corregido:** Evaluar la seguridad de fatiga combinada multiaxial:
+
+$$S = \frac{S_b \cdot S_t}{\sqrt{S_b^2 + S_t^2}}$$
+
+- **Resultado:** Dos casos de carga que pasan individualmente a menudo resultan en un **FAIL combinado** bajo carga simultánea.
+
+<details>
+<summary>Referencia de Fórmulas de Excel</summary>
+
+```excel
+=(Sb * St) / SQRT(Sb^2 + St^2)
 ```
 
 </details>
 
 ---
 
-#### Trampa 3: tratar la flexión y la torsión de forma independiente
+### Escenario de Ejemplo Resuelto (Vástago de Válvula 17-4PH)
 
-Decisión:
+| Parámetro | Valor |
+| :--- | ---: |
+| Material | 17-4PH |
+| Diámetro del eje ($d$) | `$40\text{ mm}$` |
+| Radio de entalle ($r$) | `$2\text{ mm}$` |
+| Momento flector ($M_b$) | `$450,000\text{ N}\cdot\text{mm}$` |
+| Par de torsión ($T$) | `$180,000\text{ N}\cdot\text{mm}$` |
+| Factor de servicio ($K_A$) | `$1.25$` |
+| Factor de seguridad requerido ($S_{\min}$) | `$1.50$` |
 
-Ambos factores de seguridad superan los límites de forma individual.
+**Cálculos intermedios de sección y tensión nominal:**
 
-Supuesto erróneo:
+$$W_b = \frac{\pi d^3}{32}, \quad W_p = \frac{\pi d^3}{16}$$
 
-La aceptación independiente garantiza la aceptación del sistema.
+$$\sigma_b = \frac{M_b \cdot K_A}{W_b}, \quad \tau_t = \frac{T \cdot K_A}{W_p}$$
 
-Por qué es incorrecto:
+Tras aplicar la sensibilidad a la entalla, las correcciones geométricas, los efectos de tamaño y los factores de influencia superficial:
 
-La carga combinada gobierna el comportamiento a fatiga.
-
-Enfoque corregido:
-
-Utilizar una evaluación de seguridad combinada.
-
-Resultado:
-
-Condiciones individuales de APROBADO se convirtieron en un RECHAZADO combinado.
-
-<details>
-<summary>Referencia de fórmulas</summary>
-
-```excel
-S=(Sb*St)/SQRT(Sb^2+St^2)
-```
-
-</details>
+- **Factor de seguridad combinado calculado:** `$S = 1.38$`
+- **Requisito:** `$S \ge 1.50$`
+- **Resultado:** **FAIL** (`$1.38 < 1.50$`)
+- **Recomendación accionable:** Aumenta el diámetro del eje, amplía el radio de entalle, reduce las cargas aplicadas o reevalúa el grado del material antes de liberarlo a fabricación.
 
 ---
 
-### Escenario de ejemplo
-
-Se evalúa una sección de vástago de válvula con:
-
-| Parámetro              |        Valor |
-| ---------------------- | -----------: |
-| Material               |       17-4PH |
-| Diámetro               |        40 mm |
-| Radio de acuerdo       |         2 mm |
-| Momento flector        | 450,000 N·mm |
-| Par torsor             | 180,000 N·mm |
-| Factor de servicio     |         1.25 |
-| Factor de seguridad requerido |         1.50 |
-
-Cálculos intermedios:
-
-```text
-Wb = πd³/32
-Wp = πd³/16
-
-σb = Mb×KA/Wb
-τt = T×KA/Wp
-```
-
-Tras aplicar:
-
-* la sensibilidad a la entalla,
-* las correcciones geométricas,
-* los efectos de tamaño,
-* los factores de influencia superficial,
-
-el factor de seguridad combinado a la fatiga resulta:
-
-```text
-S = 1.38
-```
-
-Interpretación:
-
-```
-Required:
-S ≥ 1.50
-
-Actual:
-S = 1.38
-```
-
-Recomendación:
-
-Aumentar el diámetro, modificar la geometría, reducir las cargas o reconsiderar la selección de material antes de la liberación.
-
-Implicación de la decisión:
-
-El eje no debe pasar a fabricación con los supuestos de diseño actuales.
-
----
-
-### Referencia de fórmulas
+### Referencia de Fórmulas Fundamentales
 
 <details>
-<summary>Propiedades de la sección</summary>
+<summary>Propiedades de Sección</summary>
 
 ```excel
 Wp = PI()*(d^3)/16
 Wb = PI()*(d^3)/32
 ```
 
-Finalidad:
-
-Calcular los módulos resistentes a torsión y a flexión.
+Calcula los módulos de sección a torsión y a flexión para ejes circulares macizos.
 
 </details>
 
 <details>
-<summary>Tensión nominal</summary>
+<summary>Tensión Nominal</summary>
 
 ```excel
-σb=(Mb×KA)/Wb
-τt=(T×KA)/Wp
+Sigma_b = (Mb * KA) / Wb
+Tau_t   = (T * KA) / Wp
 ```
 
-Finalidad:
-
-Calcular las tensiones nominales.
+Calcula las tensiones nominales de flexión y torsión ajustadas por el factor de aplicación.
 
 </details>
 
 <details>
-<summary>Efectos de entalla</summary>
+<summary>Efectos de Entalla</summary>
 
 ```excel
-β=1+q×(α−1)
+Beta = 1 + q * (Alpha - 1)
 ```
 
-Finalidad:
-
-Convertir la concentración geométrica en influencia sobre la fatiga.
+Convierte la concentración de tensiones geométrica en un impacto efectivo de entalla por fatiga.
 
 </details>
 
 <details>
-<summary>Límites de fatiga corregidos</summary>
+<summary>Límites de Resistencia Corregidos</summary>
 
 ```excel
-σWK=(σW×Kd×KF)/β
-τWK=(τW×Kd×KF)/β
+Sigma_WK = (Sigma_W * Kd * KF) / Beta
+Tau_WK   = (Tau_W * Kd * KF) / Beta
 ```
 
-Finalidad:
-
-Determinar la capacidad a fatiga del componente.
+Determina la resistencia real a la fatiga a nivel de componente.
 
 </details>
 
 <details>
-<summary>Seguridad combinada</summary>
+<summary>Factor de Seguridad Combinado</summary>
 
 ```excel
-S=(Sb×St)/SQRT(Sb^2+St^2)
+S = (Sb * St) / SQRT(Sb^2 + St^2)
 ```
 
-Finalidad:
-
-Evaluar la aceptabilidad final.
+Evalúa la aceptabilidad final de la fatiga combinada de flexión + torsión.
 
 </details>
 
 ---
 
-### Reglas de validación
+### Reglas de Validación de Datos Integradas
 
-| Campo                 | Regla                            | Comportamiento en caso de error |
-| --------------------- | ------------------------------- | --------------------------- |
-| Nombre del proyecto   | Obligatorio                        | Impide completar            |
-| ID de material        | Debe existir en la biblioteca           | Rechaza la entrada no válida        |
-| Diámetro              | Mayor que cero               | Aviso de validación          |
-| Radio                 | Positivo y menor que el diámetro | Aviso de validación          |
-| Momento flector       | ≥ 0                             | Rechaza entradas negativas       |
-| Par torsor            | ≥ 0                             | Rechaza entradas negativas       |
-| Factor de servicio    | 1.00–3.00                       | Impide la entrada no válida       |
-| Factor de seguridad mínimo | 1.20–5.00                       | Impide la entrada no válida       |
-| Datos de referencia   | Controlados por el administrador        | Ocultos y protegidos        |
-| Motor de cálculo      | Solo lectura                       | Se impide sobrescribir fórmulas |
+| Campo | Regla de validación | Comportamiento ante error |
+| :--- | :--- | :--- |
+| Nombre del proyecto | Obligatorio | Evita la generación de informes incompletos |
+| ID del material | Debe existir en la biblioteca | Rechaza entradas de material no válidas |
+| Diámetro ($d$) | `$> 0$` | Advertencia de validación |
+| Radio de entalle ($r$) | `$0 < r < d$` | Advertencia de validación |
+| Momento flector ($M_b$) | `$\ge 0$` | Rechaza entradas negativas |
+| Par de torsión ($T$) | `$\ge 0$` | Rechaza entradas negativas |
+| Factor de servicio ($K_A$) | `$1.00 - 3.00$` | Evita entradas fuera de rango |
+| Factor de seguridad mínimo | `$1.20 - 5.00$` | Evita entradas fuera de rango |
+| Datos de referencia | Controlados por el administrador | Ocultos y protegidos |
+| Motor de cálculo | Solo lectura | Evita sobrescribir fórmulas accidentalmente |
 
 </details>
-
----
-
-
-
-## Otras herramientas de esta serie
-
-* **[construction-estimating](https://github.com/HyVoid/construction-estimating)** — ¿Cuánto costará este alcance de obra con los supuestos actuales? — Estandarice la estimación de licitaciones de construcción y transforme los presupuestos completados en bibliotecas de costes reutilizables.
-* **[aia-construction-cost-tracker-excel](https://github.com/HyVoid/aia-construction-cost-tracker-excel)** — ¿Cómo se comparan los presupuestos y los costes reales a lo largo de la ejecución? — Compare las estimaciones de construcción con los costes reales durante toda la ejecución del proyecto usando formatos estándar AIA.
-* **[construction-project-management-excel](https://github.com/HyVoid/construction-project-management-excel)** — ¿Es exacta la posición financiera del proyecto tras incorporar los cambios aprobados, los costes reales y el avance de la facturación? — Integre presupuestos, órdenes de cambio, facturación por avance y flujo de caja en un único marco de control de proyectos de construcción.
-* **[industrial-energy-tco-calculator](https://github.com/HyVoid/industrial-energy-tco-calculator)** — ¿Qué opción energética ofrece el menor coste total de propiedad para este proyecto concreto en sus condiciones reales de operación? — Compare fuentes de energía industrial sobre una base real de energía útil, normalizando costes de combustible, eficiencia de los equipos, inversión en infraestructura y costes de propiedad del ciclo de vida.
-* **[residential-boq-template](https://github.com/HyVoid/residential-boq-template)** — ¿Cuánto costará este proyecto residencial y qué partidas ya están por encima del presupuesto? — Estime los costes de construcción residencial a partir de mediciones y precios unitarios de BOQ, mientras hace seguimiento de los presupuestos aprobados frente al gasto real.
-* **[tunnel-cost-estimator-boq-excel](https://github.com/HyVoid/tunnel-cost-estimator-boq-excel)** — ¿Cuánto costará este proyecto de túnel por perforación y voladura con el ciclo de construcción supuesto? — Estime la excavación de túnel por perforación y voladura, la perforación, la voladura, el sostenimiento, los equipos y la mano de obra en un coste de proyecto y BOQ completos.
-* **[Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit](https://github.com/HyVoid/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit)** — ¿Cuál es el coste total de materiales y armadura de la subestructura de cimentación, y puedo rastrear cada valor comercial de la oferta hasta las dimensiones medidas? — Calcule volúmenes de hormigón de cimentación, áreas de encofrado, volúmenes de movimiento de tierras, tonelaje de armadura mediante listas de despiece automáticas y valores comerciales de la lista de cantidades a partir de dimensiones estructurales medidas.
-
-Más herramientas: [Visite nuestro sitio web](https://www.theseusworkshop.com/)
 
 ---
 
 ## Licencia
 
-Este proyecto está licenciado bajo la **Apache License 2.0**.
+Este proyecto se distribuye bajo la **Apache License 2.0**.
 
-Puede usar, modificar y distribuir libremente este trabajo de acuerdo con los términos de la Apache License 2.0.
+Eres libre de usar, modificar y distribuir esta obra de acuerdo con los términos de la Apache License 2.0.
