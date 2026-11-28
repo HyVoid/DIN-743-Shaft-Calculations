@@ -1,229 +1,226 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
+# DIN 743 Wellenberechnungstool: Kostenloser Online-Rechner zur Wellenauslegung & automatisierte Excel-Vorlage für den Dauerfestigkeitsnachweis
 
-# DIN 743 Wellenberechnungstool: Kostenloser Online-Rechner für die Wellenauslegung & Excel-Vorlage für automatisierte Dauerfestigkeitsanalyse
-<img width="1920" height="790" alt="image" src="https://github.com/user-attachments/assets/7488196d-f46b-404a-9ee5-adf83da8c83d" />
-<img width="1920" height="790" alt="image" src="https://github.com/user-attachments/assets/9ffa110b-aa4a-4650-bfe3-ddd5105abfec" />
+<img width="1920" height="790" alt="DIN 743 Shaft Calculation Tool Preview" src="https://github.com/user-attachments/assets/7488196d-f46b-404a-9ee5-adf83da8c83d" />
 
- 
+![Price](https://img.shields.io/badge/Excel%20Template-Free%20%2F%20Pay%20What%20You%20Want-brightgreen.svg)
+![Platform](https://img.shields.io/badge/Platform-Web%20Calculator%20%2B%20Excel%20(.xlsx)-blue.svg)
+![Engineering Standard](https://img.shields.io/badge/Standard-DIN%20743%20Fatigue%20Verification-orange.svg)
+![Automation](https://img.shields.io/badge/Built--In%20Logic-22%20Material%20%26%20Valve%20Rules-teal.svg)
+![License](https://img.shields.io/badge/License-Apache%202.0-lightgrey.svg)
 
-![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
-![Platform](https://img.shields.io/badge/Platform-Browser%20Calculator%20%2B%20Excel%20Template-green.svg)
-![Engineering Standard](https://img.shields.io/badge/Standard-DIN%20743%20Shaft%20Fatigue%20Verification-orange.svg)
-![Automation](https://img.shields.io/badge/Automation-22%20Built--In%20Material%20%26%20Valve%20Rules-brightgreen.svg)
+**In wenigen Minuten zu prüfungsfertigen Ergebnissen für Wellenauslegung und Dauerfestigkeitsnachweis nach DIN 743 – ohne deutsche Ingenieurtabellen auswendig zu lernen, ohne zerbrechliche Tabellen von Grund auf aufzubauen und ohne teure FEA-Software zu kaufen.**
 
-<p><strong>DIN 743 Wellenberechnungsvorlage & Online-Rechner</strong>: Ein sofort einsatzbereites <strong>Werkzeug zur Dauerfestigkeitsanalyse mechanischer Wellen</strong> und eine <strong>Tabellenkalkulation zur Auslegung von Rotations- und Ventilwellen</strong> – ohne jede Einrichtung. Entwickelt für Ingenieure, CAD-Konstrukteure und technische Einkäufer, die sofort prüffähige Ergebnisse brauchen, ohne komplexe deutsche Normtabellen auswendig zu lernen. Verfügbar als <strong>kostenloser browserbasierter Wellenrechner</strong> und als <strong>automatisierte Microsoft-Excel-Vorlage (.xlsx)</strong>, berechnet dieses Toolkit <strong>Sicherheitsfaktoren für kombinierte Biege-, Torsions- und Axialbelastungen</strong>, automatisiert die Korrekturen von <strong>Spannungskonzentrationsfaktor (<em>K<sub>t</sub></em>)</strong> und <strong>Kerbempfindlichkeit</strong> und kalibriert die Dauerfestigkeitsgrenzen von Werkstoffen über <strong>6 Klassifikationen von Ventilbetriebszuständen</strong>.</p>
+Das **DIN 743 Wellenberechnungstool** ist ein sofort einsatzbereites **Analysewerkzeug für die Dauerfestigkeit mechanischer Wellen** und eine **Auslegungstabelle für rotierende Wellen und Ventilspindeln**, entwickelt für Ingenieure, CAD-Konstrukteure und technische Entscheidungsträger, die schnelle, belastbare Antworten benötigen, denen sie in echten Design-Reviews und Lieferantenbewertungen vertrauen können.
 
-**Keine Anmeldung. Keine Softwareinstallation. Sofortiges technisches Bestanden/Nicht-bestanden-Feedback.**
+Es berechnet automatisch **Sicherheitsfaktoren für kombinierte Biegung, Torsion und Axiallasten**, wendet Korrekturen für den **Spannungskonzentrationsfaktor ($K_t$)** und die **Kerbsensitivität** an und kalibriert die Materialdauerfestigkeitsgrenzen über **6 Klassifikationen der Ventilbetriebszustände**.
 
-Nutzen Sie den kostenlosen Web-Rechner für schnelle Einzelprüfungen oder laden Sie die vollständig freigeschaltete **Pro Excel-Arbeitsmappe** mit **22 vorprogrammierten Werkstoff- und Oberflächen-Zuordnungsregeln** herunter – Rohdaten einfügen und sofort Ergebnisse für die Stapelberechnung erhalten, ohne eine einzige Formel zu schreiben oder zu ziehen.
+**Kein Setup. Kein Formelziehen. Sofort technische und kaufmännische Klarheit mit PASS/FAIL.**
 
-> 🌐 **Kostenlose interaktive Web-App:** [**Kostenlosen Online-Rechner für DIN 743-Wellenauslegung & Dauerfestigkeit starten (ohne Installation)**](https://hyvoid.github.io/DIN-743-Shaft-Calculations/)
-> 
-> 📥 **Automatisierte Excel-Tabellenkalkulation (.xlsx):** [**Automatisierte Excel-Vorlage für DIN 743-Wellen- und Ventilspindelprüfung herunterladen (30 Tage Geld-zurück-Garantie)**](https://www.theseusworkshop.com/l/zjyuhp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=din-743-shaft-strength)
+- Starten Sie sofort mit dem **kostenlosen Browser-Rechner** für schnelle Einzelwellenprüfungen (keine Registrierung erforderlich).
+- Holen Sie sich die **komplett freigeschaltete automatisierte Excel-Arbeitsmappe (`.xlsx`) kostenlos (Zahl nach Wunsch – `$0+`)** und nutzen Sie **22 vorprogrammierte Material- und Oberflächen-Zuordnungsregeln** – fügen Sie einfach Ihre Wellenabmessungen und Lastdaten ein und erhalten Sie sofort Batch-Entscheidungen nach PASS/FAIL.
 
----
-
-## Für wen diese DIN 743 Wellenkonstruktions-Software & Excel-Vorlage gedacht ist (Rollen & Szenarien)
-
-Ob Sie eine Antriebswelle von Grund auf auslegen, eine Ventilspindel unter hochdruckzyklischer Belastung validieren oder den mechanischen Berechnungsbericht eines Lieferanten prüfen – diese **Vorlage zur Festigkeitsprüfung von Wellen** schließt manuelle Nachschlagefehler aus:
-
-* **Junge Maschinenbauingenieure & CAD-Einsteiger:** Brauchen einen Plug-and-Play-**Rechner zur Wellendurchmesser-Auslegung**, um Stufenwellen, Hohlkehlradien und Passfedern in SolidWorks, Inventor oder AutoCAD zu prüfen, ohne Tage mit der Entschlüsselung der Diagramme aus DIN 743 Teil 1–3 oder mit teurer Finite-Elemente-Analyse (FEA) zu verbringen.
-* **Ventilkonstrukteure & Spezialisten für die Stellantriebsauslegung:** Brauchen eine dedizierte **Tabellenkalkulation für Ventilspindel-Drehmoment und Dauerfestigkeit**, vorab kalibriert auf **6 Klassifikationen von Ventilbetriebszuständen** und korrosionsbeständige Legierungen (**martensitischer Edelstahl, Super Duplex, Nickellegierungen, Titanlegierungen und AISI 4340**).
-* **Ingenieure für Pumpen, Getriebe & rotierende Ausrüstung:** Brauchen ein reproduzierbares **Arbeitsblatt zur Berechnung kombinierter Biege- und Torsionsbeanspruchung**, um zyklische Dauerfestigkeitsgrenzen, statische Spitzenlasten und Sicherheitsmargen der Wellendurchbiegung zu bewerten.
-* **Technischer Einkauf, Kosteningenieure & QA-Auditoren:** Brauchen eine **Tabellenkalkulation zur technischen Entscheidungsunterstützung** ohne Einstiegshürde, um zu prüfen, ob eine Wellenkonstruktion gefährlich unterdimensioniert ist (Risiko eines Feldausfalls) oder überkonservativ ausgelegt wurde (Verschwendung von Materialbudget für überdimensionierte Legierungsstangen).
+> 🌐 **Sofort im Browser ausprobieren (kostenlos, keine Installation):**
+> [**Kostenlosen Online-DIN 743 Wellenauslegungs- und Dauerfestigkeitsrechner starten →**](https://hyvoid.github.io/DIN-743-Shaft-Calculations/)
+>
+> 📥 **Die komplette automatisierte Excel-Arbeitsmappe (`.xlsx`) holen – Kostenlos / Zahl nach Wunsch (`$0+`):**
+> [**Fertig einsatzbereite DIN 743 Excel-Vorlage für Wellendauerfestigkeit & Ventilspindeln herunterladen →**](https://www.theseusworkshop.com/l/zjyuhp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=din-743-shaft-strength)
 
 ---
 
-## Dauerfestigkeitsprüfung & Wellenauslegung: typische Schmerzpunkte vs. automatisierte Vorlagenlösungen
+## Live-Vorschau der Tabellenkalkulation (Sehen Sie vor dem Herunterladen, was Sie erhalten)
 
-| Schmerzpunkt bei Konstruktion & Auslegung | Häufiges technisches Risiko | Wie dieser DIN 743 Rechner & die Excel-Vorlage das Problem löst |
+Möchten Sie das Layout, die integrierten Materialregeln und die prüfungsfertigen Berichtstabs prüfen, bevor Sie Ihre kostenlose Kopie abholen? Erkunden Sie die Struktur der Arbeitsmappe direkt in Google Sheets:
+
+👉 [**Live-Vorschau der Tabellenkalkulation in Google Sheets öffnen**](https://docs.google.com/spreadsheets/d/1hkUnfBzuRpEWYokyyuTbXEXIKju9FyKF/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)
+
+> **Hinweis zur Kompatibilität:** Die Google Sheets-Vorschau zeigt gelegentlich `#NAME?`-Warnungen aufgrund von Unterschieden zwischen der Formelsyntax von Google Sheets und Microsoft Excel an. Dies betrifft nur die Online-Vorschau – die herunterladbare `.xlsx`-Arbeitsmappe läuft mit voller Automatisierung einwandfrei in Microsoft Excel.
+
+---
+
+## Für wen dieses Toolkit für DIN 743 Wellenauslegung & Dauerfestigkeit entwickelt wurde
+
+Sie brauchen keinen Doktortitel in Metallurgie oder eine `$10,000`-Simulationslizenz, um mit Konfidenz auf Senior-Level in ein Design-Review oder ein Lieferantengespräch zu gehen. Dieser **sofort einsatzbereite Workflow für Wellennachweise** wurde für praktisch arbeitende Teams entwickelt, die unter engen Fristen schnelle, zuverlässige Antworten brauchen:
+
+- **Nachwuchs-Ingenieure (Maschinenbau) & CAD-Konstrukteure:** Benötigen einen einsatzbereiten **Rechner zur Wellendurchmesser-Auslegung**, um abgesetzte Wellen, Rundungen, Nuten und Keilnuten in SolidWorks, Inventor oder AutoCAD zu prüfen – und die Entschlüsselung der Diagramme aus DIN 743 Teil 1–3 von tagelanger Arbeit auf eine 5-Minuten-Prüfung zu verkürzen.
+- **Ventilingenieure & Stellantriebsauslegungsspezialisten:** Benötigen eine dedizierte **Tabellenkalkulation für Ventilspindel-Drehmoment und Dauerfestigkeit**, vorkalibriert für **6 Klassifikationen der Ventilbetriebszustände** und korrosionsbeständige Legierungen (**martensitischer rostfreier Stahl, Super Duplex, Nickellegierungen, Titanlegierungen und AISI 4340**).
+- **Praktiker für Pumpen, Getriebe & rotierende Anlagen:** Benötigen ein wiederholbares **Arbeitsblatt für kombinierte Biege- und Torsionswellenberechnung**, um zyklische Dauerfestigkeitsgrenzen, statische Streckgrenzen-Reserven und Überlastungsrisiken zu prüfen, ohne die Mathematik für jedes Projekt neu zu erfinden.
+- **Technische Einkäufer, Kosteningenieure & QA-Prüfer:** Benötigen ein leicht zugängliches **Entscheidungsblatt für Technik & Kommerz**, um Lieferantenzeichnungen zu prüfen – unterdimensionierte Wellen zu erkennen, bevor sie im Feld versagen, und unnötig überdimensionierte Legierungswellen zu entdecken, bevor sie Ihre Stückliste (BOM) aufblähen.
+
+---
+
+## Häufige Probleme bei der Wellenauslegung vs. sofortige automatisierte Lösungen
+
+| Reales Auslegungsproblem | Warum es Karriere- und kommerzielle Risiken birgt | Wie dieses DIN 743 Toolkit es sofort löst |
 | :--- | :--- | :--- |
-| **Unsicherheit bei den Dauerfestigkeits-Sicherheitsfaktoren der Welle ($S_f$)** | Geschätzte Sicherheitsmargen führen zu unerwarteten Dauerbrüchen oder zu nicht bestandenen Design-Audits beim Kunden. | Berechnet automatisch **dynamische Dauerfestigkeits-Sicherheitsfaktoren** und **statische Streckgrenzen-Sicherheitsfaktoren** gegen die Referenzschwellen der DIN 743 – mit sofortiger **Bestanden/Nicht bestanden**-Kennzeichnung. |
-| **Unübersichtliche Suche nach der Dauerfestigkeitsgrenze des Werkstoffs** | Standardtabellen für Kohlenstoffstahl versagen, sobald exotische Legierungen für korrosive oder hochbelastete Umgebungen ausgelegt werden müssen. | Integrierte Datenbank für **martensitischen Edelstahl, Super Duplex, Nickellegierungen, Titanlegierungen und 4340-Stahl** über **4 Zugfestigkeitsbereiche ($R_m$)**. |
-| **Komplexe mehrachsige Lastkombinationen** | Die gleichzeitige Bewertung von Biegemomenten, Torsionsschub und Axialzug von Hand ist fehleranfällig. | Integrierter **von-Mises-Vergleichsspannungsrechner**, der Wechsel- und Mittelwerte für **Biegung, Torsion und Axialkräfte** zusammenführt. |
-| **Nicht quantifizierte Kerbempfindlichkeit & Spannungskonzentrationen** | Wer Wellenabsätze, Nuten und Passfedern ignoriert, riskiert einen katastrophalen Bruch an Geometrieübergängen. | Echtzeit-Erfassung von **geometrischen Spannungskonzentrationsfaktoren ($K_t$)**, **Kerbwirkungszahlen ($K_f$)** und **Größenfaktoren ($K_d$)**. |
-| **Missbrauch der reinen Nennspannung** | Der direkte Vergleich der Nennspannung aus dem CAD mit der Katalog-Streckgrenze ignoriert Oberflächenbeschaffenheit und Betriebshärte. | Automatisierte Abwertung über **5 Oberflächenrauheitszustände × 4 $R_m$-Intervalle**, speziell kalibriert für **6 Klassifikationen von Ventilbetriebszuständen**. |
-| **Defekte Formeln in Alt-Tabellen** | Das Kopieren und Ziehen von Zellen in alten Excel-Dateien zerstört Bezüge bei der Stapelauswertung von Wellen. | **Automatisierte Excel-Architektur ohne Ziehen** – Parameterzeilen einfügen und die 22 integrierten Rechenregeln füllen die Ergebnisse sofort aus. |
+| **Raten bei den Dauerfestigkeits-Sicherheitsfaktoren der Welle ($S_f$)** | Grobe Schätzungen führen zu abgelehnten Design-Reviews, unangenehmen Kundenfragen oder Ermüdungsrissen im Feld. | Berechnet automatisch **dynamische Dauerfestigkeits-** und **statische Streckgrenzen-Sicherheitsfaktoren** gegen die DIN 743 Grenzwerte mit klaren **PASS / FAIL**-Kennzeichnungen. |
+| **Schwer auffindbare Daten exotischer Legierungen** | Standard-Lehrbuchtabellen für Kohlenstoffstahl versagen bei der Auslegung korrosionsbeständiger oder hochbelasteter Wellen. | Eingebaute Regeln für **martensitischen rostfreien Stahl, Super Duplex, Nickellegierungen, Titanlegierungen und AISI 4340** über **4 Zugfestigkeitsbereiche ($R_m$)**. |
+| **Fehleranfällige Mathematik für mehrachsige Lasten** | Die manuelle Kombination von Biegemomenten, Torsionsschub und Axialkräften macht Fehler leicht zu übersehen. | Integrierte **von-Mises-Vergleichsspannungs-Engine**, die Wechsel- und Mittelasten für **Biegung, Torsion und Axialschub** kombiniert. |
+| **Übersehene Kerb- und Geometrieeffekte** | Das Ignorieren von Wellenabsätzen, Rundungen und Keilnuten verbirgt lokale Spannungsspitzen, die vorzeitige Brüche auslösen. | Echtzeitberechnung der **geometrischen Spannungskonzentration ($K_t$)**, der **Ermüdungskerbfaktoren ($K_f$)** und der **Größenabminderungsfaktoren ($K_d$)**. |
+| **Vergleich der rohen Nennspannung mit Katalogwerten** | Das Weglassen der Oberflächenrauheit und der Abminderung nach der Versagensschwere des Betriebs überschätzt die echte Wellenkapazität um 30 %–60 %. | Automatisierte Abminderung über **5 Oberflächenzustände $\times$ 4 $R_m$-Intervalle**, kalibriert für **6 Klassifikationen der Ventilbetriebszustände**. |
+| **Zerbrechliche Tabellen & defekte Zellverknüpfungen** | Das Kopieren-Einfügen oder Ziehen von Formeln in älteren Excel-Tabellen verfälscht Batch-Berechnungen unbemerkt. | **Automatisierte Architektur ganz ohne Ziehen** – fügen Sie Ihre Rohdaten ein und lassen Sie alle **22 integrierten Berechnungsregeln** automatisch aktualisieren. |
 
 ---
 
-## Funktionsvergleich: manuelle DIN 743-Berechnung vs. kostenloser Web-Rechner vs. Pro Excel-Vorlage
+## Wählen Sie Ihren Workflow: Manuelle Nachschlagearbeit vs. kostenloser Web-Rechner vs. kostenlose Excel-Arbeitsmappe
 
-| Betriebliche & technische Dimension | Manuelle Berechnung / Notizzettel | Kostenloser DIN 743 Browser-Rechner | Automatisierte DIN 743 Pro Excel-Vorlage (.xlsx) |
+Sowohl die Browser-App als auch die Excel-Arbeitsmappe sind kostenlos zugänglich – wählen Sie das Format, das zu Ihrer heutigen Arbeitsweise passt:
+
+| Workflow-Dimension | Manuelle DIN 743 Nachschlag / Notizzettel | Kostenloser Online-Web-Rechner | Automatisierte Excel-Arbeitsmappe (`.xlsx`) – **Kostenlos / Zahl nach Wunsch** |
 | :--- | :--- | :--- | :--- |
-| **Typischer Anwendungsfall** | Studium oder einmalige Grobschätzung | Schnelle Einzelprüfung im Browser | **Serienkonstruktion, Stapelauslegung von Wellen/Ventilen & QA-Dokumentation** |
-| **Werkstoffbibliothek & Legierungsabdeckung** | Manuelles Nachschlagen in Lehrbuchtabellen erforderlich | Standard-Baustähle als Basis | **22 vorkonfigurierte Rechenregeln (martensitischer Edelstahl, Super Duplex, Nickellegierungen, Titan, 4340)** |
-| **Matrix Oberflächenbeschaffenheit × Zugfestigkeit ($R_m$)** | Manuelle Interpolation aus DIN-Diagrammen | Einfache Eingabe eines Oberflächenwerts | **Automatisierte Kreuzmatrix aus 5 Oberflächenzuständen × 4 $R_m$-Bereichen** |
-| **Kalibrierung auf Ventilbetriebszustände** | Nicht enthalten (individuelle Abwertung erforderlich) | Nur allgemeine mechanische Belastung | **Vorkalibriert für 6 Klassifikationen von Ventilbetriebszuständen** |
-| **Formelpflege & Dateneingabe** | Hohes Risiko für Zellbezugs- und Copy-Paste-Fehler | Manuelle Eingabe im Web-Formular, jeweils ein Datensatz | **Zu 100 % selbstaktualisierende Formeln (kein Doppelklick, kein Ziehen erforderlich)** |
-| **Stapelverarbeitung & Offline-Prüfpfad** | Langsam, uneinheitlich, schwer nachprüfbar | Nur eine Sitzung (Zurücksetzen beim Neuladen) | **Unbegrenzte Offline-Stapelzeilen, anpassbare freigeschaltete Tabellenblätter, kundenfertiger PDF-Export** |
+| **Am besten geeignet für** | Akademisches Studium oder grobe Handrechnungen | Schnelle Einzelwellenprüfungen im Browser | **Reale Konstruktion, Batch-Auslegung, Lieferantenaudits & Kundenberichte** |
+| **Legierungs- & Materialabdeckung** | Manuelle Nachschlagearbeit in Lehrbuchtabellen | Gängige technische Grundstähle | **22 vorprogrammierte Regeln (martensitischer rostfreier Stahl, Super Duplex, Nickel, Titan, 4340)** |
+| **Matrix Oberflächenfinish $\times$ $R_m$** | Manuelle Interpolation von DIN-Diagrammen | Einzelpunkt-Eingabe der Oberfläche | **Automatisierte Kreuzzuordnungsmatrix aus 5 Oberflächenzuständen $\times$ 4 $R_m$-Bereichen** |
+| **Ventilbetriebszustände** | Individuelle manuelle Abminderung erforderlich | Nur allgemeine mechanische Belastung | **Vorkalibriert für 6 Klassifikationen der Ventilbetriebszustände** |
+| **Wartung der Tabellenkalkulation** | Hohes Risiko defekter Formeln | Wird beim Browser-Refresh zurückgesetzt | **100 % automatisch aktualisierend (kein Formelziehen, kein Klicken auf Zellränder)** |
+| **Ergebnisse & Prüfpfad** | Unstandardisierte Notizen | Nur kurze Bildschirmprüfung | **Offline-Batch-Zeilen, editierbare Eingaben, sauberer prüfungsfertiger PDF-Export** |
 
 ---
 
-## Schnellstart-Anleitung: Dauerfestigkeit einer Welle in 4 Schritten berechnen (Workflow ohne Formeln)
+## In 4 Schritten von rohen Abmessungen zu einer sicheren Entscheidung
 
-Sie brauchen weder fortgeschrittene Metallurgie noch Strukturmechanik, um belastbare Ergebnisse bei der Wellenauslegung zu erhalten. Mit diesem Ablauf kommen Sie in wenigen Minuten von den Rohabmessungen zur technischen Entscheidung:
+Sie müssen keine Formeln aufbauen und keine DIN-Notation auswendig lernen, um saubere, belastbare Berechnungen zu erzeugen:
 
-### Schritt 1: Eine einzelne Wellengeometrie im kostenlosen Browser-Rechner prüfen
-Öffnen Sie den [**kostenlosen Online-Web-Rechner für die Festigkeit von DIN 743-Wellen**](https://hyvoid.github.io/DIN-743-Shaft-Calculations/) und geben Sie den Basis-Wellendurchmesser ($d$), das kritische Querschnittsmerkmal (Hohlkehlradius der Stufenwelle, Passfeder oder Nut) sowie die Nennlasten ein, um zu sehen, wie die Geometrie die Spannungskonzentration beeinflusst.
+### Schritt 1: Schnellen Einzelwellenfall im Browser testen
+Öffnen Sie den [**kostenlosen Online-DIN 743 Wellenrechner**](https://hyvoid.github.io/DIN-743-Shaft-Calculations/) und geben Sie Ihren Wellendurchmesser ($d$), das kritische Geometriemerkmal (Rundungsradius, Nut oder Keilnut) und die Lasten ein, um zu sehen, wie die Geometrie die Spannungskonzentration bestimmt.
 
-### Schritt 2: Werkstoffgüte und Oberflächenrauheit auswählen
-Wählen Sie den Werkstoff Ihrer Welle oder Ventilspindel und die Bearbeitungsoberfläche. Die Berechnungs-Engine bewertet, wie **Zugfestigkeit ($R_m$)** und **Streckgrenze ($R_{p0.2}$)** mit der Oberflächenrauheit ($R_z$) zusammenspielen, um die tatsächlich korrigierte Dauerfestigkeitsgrenze zu bestimmen.
+### Schritt 2: Werkstoffgüte & Oberflächenfinish abgleichen
+Wählen Sie die Legierung und den Bearbeitungszustand Ihrer Welle oder Ventilspindel. Die Engine bewertet automatisch, wie **Zugfestigkeit ($R_m$)**, **Streckgrenze ($R_{p0.2}$)** und **Oberflächenrauheit ($R_z$)** Ihre reale Bauteil-Dauerfestigkeitsgrenze bestimmen.
 
-### Schritt 3: Kombinierte Lasten und Betriebshärte ansetzen
-Geben Sie **Biegemoment**, **Torsionsmoment** und **Axialkraft** im Betrieb ein und wählen Sie die passende Betriebshärte. Prüfen Sie sofort, ob der Querschnitt die Kriterien des DIN 743-Sicherheitsfaktors besteht oder nicht.
+### Schritt 3: Kombinierte Lasten & Betriebsschwere anwenden
+Geben Sie Ihr betriebliches **Biegemoment**, **Torsionsmoment** und **Axialschub** ein und wählen Sie dann die Betriebsschwere, um sofortiges **PASS / FAIL**-Feedback gegen die DIN 743 Kriterien zu erhalten.
 
-### Schritt 4: Mit der Pro Excel-Vorlage auf Ein-Klick-Stapelautomatisierung umsteigen
-Sobald Ihr Einzeltest im Browser abgeschlossen ist, skalieren Sie Ihren Workflow auf die reale Konstruktionspraxis mit der [**automatisierten Excel-Vorlage für DIN 743-Wellen- und Ventilberechnung**](https://www.theseusworkshop.com/l/zjyuhp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=din-743-shaft-strength).
+### Schritt 4: Mit der kostenlosen automatisierten Excel-Arbeitsmappe auf echte Projekte skalieren
+Bereit, Ihre Berechnungen zu speichern, mehrere Konstruktionsoptionen nebeneinander zu prüfen oder einen prüfungsfertigen Bericht zu exportieren? Holen Sie sich die [**automatisierte DIN 743 Excel-Arbeitsmappe für Wellen- & Ventilberechnungen (Kostenlos / Zahl nach Wunsch)**](https://www.theseusworkshop.com/l/zjyuhp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=din-743-shaft-strength).
 
-* **Warum auf die Excel-Arbeitsmappe wechseln?** Die mechanische DIN 743-Theorie und die kaufmännische Risikologik sind hochkomplex – doch das Excel-Produkt hat die gesamte Rechenarbeit bereits in **22 automatisierte Zuordnungsregeln** verpackt.
-  <img width="1920" height="790" alt="image" src="https://github.com/user-attachments/assets/b30e51ae-fade-4f83-8869-7de538238ee4" />
+<img width="1920" height="790" alt="Automated DIN 743 Excel Dashboard Preview" src="https://github.com/user-attachments/assets/9ffa110b-aa4a-4650-bfe3-ddd5105abfec" />
 
-* **Vollständige Abdeckung gängiger und anspruchsvoller Werkstoffe:** Neu erweitert um stark nachgefragte Industriewerkstoffe – darunter **martensitischer Edelstahl, Super Duplex Edelstahl, Nickellegierungen, Titanlegierungen und AISI 4340-legierter Stahl** – automatisch gegenübergestellt über **5 Oberflächenzustände × 4 Zugfestigkeitsbereiche ($R_m$)**, um **6 verschiedene Klassifikationen von Ventilbetriebszuständen** zu kalibrieren.
-* **Echter Betrieb ohne Einstiegshürde (kein Formelziehen):** Jede Nachschlage- und Spannungskorrekturformel aktualisiert sich dynamisch. **Sie müssen nicht einmal die Zellecke doppelklicken oder die Maus ziehen, um Formeln zu kopieren.** Laden Sie einfach die `.xlsx`-Datei auf Ihren Rechner, fügen Sie Ihre eigenen Abmessungs- und Lastdaten in die Eingabespalten ein und erhalten Sie sofortiges Ein-Klick-Feedback für technische und kaufmännische Entscheidungen – damit auch absolute Einsteiger sofort auf dem Niveau erfahrener Analysten arbeiten.
+- **Logik auf Senior-Level, Einsteigerfreundliche Bedienung:** Komplexe DIN 743 Dauerfestigkeitstheorie und kaufmännische Risikoprüfungen sind in **22 automatisierte Zuordnungsregeln** verpackt, sodass Sie vom ersten Tag an zuverlässige Ergebnisse erhalten.
+- **Entwickelt für stark beanspruchte Industriematerialien:** Deckt **martensitischen rostfreien Stahl, Super-Duplex-rostfreien Stahl, Nickellegierungen, Titanlegierungen und AISI 4340** ab, kreuzreferenziert über **5 Oberflächenzustände $\times$ 4 $R_m$-Bereiche** und **6 Klassifikationen der Ventilbetriebszustände**.
+- **Echte Einfügen-und-Los-Automatisierung:** Kein Ziehen von Zellrändern, keine defekten VLOOKUPs, keine Makros zur Fehlersuche. Laden Sie die `.xlsx`-Datei herunter, fügen Sie Ihre Abmessungs- und Lastdaten in die Eingabespalten ein und erzeugen Sie sofort saubere technische und kaufmännische PASS/FAIL-Berichte.
 
-👉 [**Die einsatzbereite automatisierte DIN 743 Excel-Vorlage bei Theseus Workshop herunterladen**](https://www.theseusworkshop.com/l/zjyuhp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=din-743-shaft-strength)
+<img width="1920" height="790" alt="22 Pre-Programmed Material and Valve Rules Preview" src="https://github.com/user-attachments/assets/b30e51ae-fade-4f83-8869-7de538238ee4" />
+
+👉 [**Automatisierte DIN 743 Excel-Arbeitsmappe holen (Kostenlos / Zahl nach Wunsch – `$0+`) →**](https://www.theseusworkshop.com/l/zjyuhp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=din-743-shaft-strength)
 
 ---
 
-## Geschäftslogik & Methodik: versteckte kaufmännische blinde Flecken in der Wellenauslegung
+## Die kaufmännische Logik: Warum DIN 743 Ihren Ruf und Ihre Marge schützt
 
-Für Nichtspezialisten, junge Ingenieure und Projektleiter wirkt eine Wellenberechnung oft wie eine reine Mathematikübung. Tatsächlich ist die **DIN 743-Wellenprüfung ein Instrument der kaufmännischen Risikosteuerung**.
+Auf dem Papier sieht die Wellenberechnung wie reine Mechanik aus. In der Praxis ist der **DIN 743 Nachweis ein Schutzschild für kaufmännische Entscheidungen**. Die meisten teuren Versagungen passieren nicht, weil jemand die grundlegende Mathematik vergessen hat – sie passieren, weil sich Teams auf verstreute Notizen oder nicht kalibrierte Abkürzungen verlassen, die zwei teure blinde Flecken verbergen:
 
-DIN 743-Berechnungen scheitern selten an einfacher Arithmetik; sie scheitern daran, dass technische Annahmen über handschriftliche Notizen, nicht kalibrierte Tabellen und unverbundene Lieferantenangebote hinweg zerfasern. Fehlt einem Team ein standardisiertes Berechnungssystem, tappt es in zwei teure kaufmännische Fallen:
+### Blinder Fleck 1: Die Falle der „Nennspannung“ (Feldversagungen & teure Nacharbeit)
+Eine häufige Abkürzung ist der direkte Vergleich der rohen **Nennspannung** mit der Dauerfestigkeits- oder Streckgrenze eines Materialkatalogs.
+- **Die technische Realität:** Keilnuten, Absatzschultern, größere Wellendurchmesser, bearbeitete Oberflächenrauheit und harte Ventil-Einsatzzyklen reduzieren die tatsächliche Dauerfestigkeitskapazität eines Bauteils routinemäßig um **30 % bis 60 %**.
+- **Die geschäftliche Auswirkung:** Eine Welle, die bei einer vereinfachten Prüfung „sicher“ aussieht, kann nach wenigen tausend Zyklen im Betrieb brechen – mit ungeplanten Stillständen, Garantieansprüchen und verlorenem Kundenvertrauen.
 
-### Blinder Fleck 1: die „Nennspannungs“-Falle (Gewährleistungsansprüche, Feldbruch & Rückrufhaftung)
-Einsteiger berechnen häufig die rohe **Nennspannung** (Last geteilt durch Querschnittsfläche) und vergleichen sie direkt mit der Katalog-Dauerfestigkeit oder Streckgrenze des Werkstoffs.
-* **Der objektive Sachverhalt:** Reale Wellen enthalten Spannungsspitzen (Passfedern, Absätze), Größenabschläge (größere Durchmesser haben eine geringere spezifische Dauerfestigkeit) und Mikrokerben durch Oberflächenrauheit. Zusammen mit harten Ventilbetriebszuständen reduzieren diese Faktoren die tatsächliche Tragfähigkeit einer Welle regelmäßig um **30 % bis 60 %**.
-* **Die kaufmännische Konsequenz:** Eine Welle oder Ventilspindel, die auf einem einfachen Rechner „100 % sicher“ aussieht, kann im Feld nach wenigen tausend Lastwechseln brechen – mit ungeplanten Anlagenstillständen, Strafen für Notaustausch und Gewährleistungsansprüchen, die den Gewinn einer gesamten Produktlinie vernichten.
-
-#### Praxiswirkung: rohe Nennspannung vs. korrigierte Spannung nach DIN 743
-* **Vorher (unbedachte Nennspannungsprüfung):** Ein Konstrukteur vergleicht eine Nennbiegespannung von `185 MPa` direkt mit der Katalog-Dauerfestigkeit von `210 MPa` und gibt die Zeichnung zur Fertigung frei.
-* **Nachher (automatisierte Prüfung mit der DIN 743-Vorlage):** Die Vorlage berücksichtigt automatisch Kerbempfindlichkeit, Größenabschlag der Welle, **Oberflächenrauheitsfaktoren in 5 Zuständen** und die **Kalibrierung auf 6 Ventilbetriebsklassen**. Die tatsächlich zulässige Dauerfestigkeitsgrenze sinkt auf `168 MPa`.
+#### Schnelles Beispiel: Rohe Nennspannungsprüfung vs. automatisierte DIN 743 Prüfung
+- **Naive Nennspannungsprüfung:** Nennbiegespannung von `$185\text{ MPa}$` gegenüber Katalog-Dauerfestigkeitsgrenze von `$210\text{ MPa}$` $\rightarrow$ sieht wie **PASS** aus.
+- **Automatisierte DIN 743 Prüfung:** Nach Anwendung von Kerbsensitivität, Größenabminderung, **5-stufiger Oberflächenrauheit** und **6-stufigen Ventilbetriebsfaktoren** sinkt die tatsächliche zulässige Dauerfestigkeitsgrenze auf `$168\text{ MPa}$`.
 
 ```text
-Original Naive Decision:
-185 MPa < 210 MPa  →  PASS (Hidden Field Failure Risk)
+Naive Check:
+185 MPa < 210 MPa  ->  PASS (Hidden Field Failure Risk)
 
-Corrected DIN 743 Decision:
-185 MPa > 168 MPa  →  FAIL (Redesign or Material Upgrade Required Before Production)
-
+DIN 743 Corrected Check:
+185 MPa > 168 MPa  ->  FAIL (Catch & Fix Before Manufacturing)
 ```
 
-### Blinder Fleck 2: blindes Überdimensionieren & teure Legierungen (verlorene Ausschreibungen & Margenerosion)
+### Blinder Fleck 2: Blindes Over-Engineering (Überteuerte Angebote & schrumpfende Margen)
+Wenn Ingenieure oder Einkäufer nicht sicher wissen, wie eine Legierung über bestimmte $R_m$-Bereiche oder Betriebsklassen hinweg abschneidet, polstern sie Konstruktionen mit willkürlichen „Angstmargen“ auf – überdimensionieren den Wellendurchmesser oder springen verfrüht von **martensitischem rostfreiem Stahl / 4340** zu extrem teuren **Nickel- oder Titanlegierungen**.
+- **Die technische Realität:** Eine Erhöhung des Wellendurchmessers um nur 20 % erhöht das Stangenmaterialgewicht um über 40 % und erzwingt größere und teurere Stellantriebe, Lager und Gehäuse.
+- **Die geschäftliche Auswirkung:** Aufgeblähte Stücklistenkosten verlieren Wettbewerbsausschreibungen oder fressen still 15 %–35 % Ihrer Bruttomarge auf.
 
-Wenn Ingenieure oder Einkäufer nicht genau wissen, wie sich ein Werkstoff über bestimmte Zugfestigkeitsbereiche ($R_m$) oder Ventilbetriebsklassen verhält, kompensieren sie die Unsicherheit mit willkürlichen „Angstfaktoren“ – sie machen die Welle unnötig dick oder wechseln blind von **martensitischem Edelstahl oder 4340** zu extrem teuren **Nickel- oder Titanlegierungen**.
-
-* **Der objektive Sachverhalt:** Eine um nur 20 % überdimensionierte Ventilspindel oder Antriebswelle erhöht das Gewicht des Stangenmaterials um über 40 %, erzwingt die Auswahl eines größeren, teureren Stellantriebs oder Lagergehäuses und verlängert die Bearbeitungszeit.
-* **Die kaufmännische Konsequenz:** Aufgeblähte Stücklistenkosten machen Ihre Angebote in preissensiblen Ausschreibungen wettbewerbsunfähig oder zehren still 15 %–35 % Ihrer Bruttomarge in der Fertigung auf.
-
-### Wie unsere automatisierte Excel-Engine mit 22 Regeln beide Probleme löst
-
-Statt von Ihnen zu verlangen, deutsche Maschinenbaunormen zu beherrschen, macht diese Arbeitsmappe die Entscheidungslogik zu einem narrensicheren Workflow:
-
-1. **Schließt die Haftung für Unterdimensionierung aus:** Erzwingt automatisch die DIN 743-Abwertung über **5 Oberflächenzustände × 4 $R_m$-Bereiche** und **6 Ventilbetriebszustände**, damit grenzwertige Auslegungen die QA-Prüfung nie passieren.
-2. **Verhindert Materialverschwendung:** Ermöglicht den Vergleich von **martensitischem Edelstahl, Super Duplex, Nickellegierungen, Titan und 4340** nebeneinander in Sekunden – damit Sie genau die kostenoptimale Legierung und den minimal sicheren Durchmesser wählen, der die Konformität erfüllt, und zugleich Ihren technischen Ruf und Ihre Marge schützen.
+### Wie diese kostenlose Arbeitsmappe Ihnen auf beiden Wegen zum Erfolg verhilft
+1. **Verteidigen Sie Ihre Sicherheitsmargen:** Erzwingt automatisch die DIN 743 Abminderung über **5 Oberflächenzustände $\times$ 4 $R_m$-Intervalle** und **6 Ventil-Einsatzklassen**, damit riskante Konstruktionen nie in die Produktion gelangen.
+2. **Optimieren Sie Materialkosten in Sekunden:** Vergleichen Sie **martensitischen rostfreien Stahl, Super Duplex, Nickel, Titan und 4340** direkt nebeneinander, um den kostengünstigsten konformen Werkstoff und den minimalen sicheren Durchmesser zu wählen – und liefern Sie Ihrem Team sofortigen kommerziellen Mehrwert.
 
 ---
 
-## Über Theseus Workshop
+## Über Theseus Workshop – Sofort einsatzbereite Entscheidungs-Toolkits
 
-Ich baue schlanke Tracker, technische Rechner und Vorlagen zur Entscheidungsunterstützung für komplexe technische Abläufe, die zu viele bewegliche Teile haben, um sie zuverlässig im Kopf zu behalten.
+Diese DIN 743 Arbeitsmappe ist unser kostenloses Community-Starterkit von **Theseus Workshop**.
 
-Das Leitprinzip hinter jedem Werkzeug ist einfach:
+Wir entwickeln leichtgewichtige, einsatzbereite Excel-Vorlagen und Entscheidungsrechner für reale Engineering-, Bau- und Industriearbeitsabläufe – speziell für Praktiker, die **Struktur auf Senior-Level, schnelle Ergebnisse und keine aufgeblähte Software** wollen, ohne Wochen mit dem Aufbau von Modellen von Grund auf zu verbringen.
 
-> **Welche entscheidenden Daten und Regeln müssen an einem Ort vorliegen, damit Ihre nächste technische oder geschäftliche Entscheidung in Sekunden sicher getroffen werden kann?**
+> **Unser Kern-Designprinzip:** Die richtigen Branchenregeln, Validierungen und Entscheidungsergebnisse in einem sauberen Arbeitsbereich bündeln – damit Sie in wenigen Minuten sicher über hochriskante technische und kaufmännische Fragen entscheiden können.
 
-Dieses **DIN 743-Werkzeug zur Dauerfestigkeitsberechnung von Wellen** macht bewährte Maschinenbaunormen zu einem wiederverwendbaren Betriebsmittel ohne Einstiegshürde – statt zu einer weiteren fragilen, isolierten Tabellenkalkulation.
-
-* 🛒 **Diese Vorlage erhalten:** **[Automatisierte DIN 743 Excel-Arbeitsmappe für Wellen- & Ventilberechnung herunterladen](https://www.theseusworkshop.com/l/zjyuhp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=din-743-shaft-strength)**
-* 🧰 **Alle Engineering- & Entscheidungsvorlagen entdecken:** Besuchen Sie unseren offiziellen Shop auf **[TheseusWorkshop.com](https://www.google.com/search?q=https://www.theseusworkshop.com%3Futm_source%3Dgithub%26utm_medium%3DGitHub%2520README%26utm_campaign%3Dreadme%2520about%2520section%26utm_content%3Ddin-743-shaft-strength)** und entdecken Sie weitere sofort einsatzbereite Tabellenkalkulationen, technische Prüf-Workflows und Werkzeuge für Geschäftsentscheidungen.
+- 📥 **Holen Sie sich dieses kostenlose Toolkit (`$0+` Zahl nach Wunsch):** [**Automatisierte DIN 743 Excel-Arbeitsmappe für Wellen & Ventile herunterladen**](https://www.theseusworkshop.com/l/zjyuhp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=din-743-shaft-strength)
+- 🧰 **Benötigen Sie weitere einsatzbereite Geschäfts- und Engineering-Entscheidungs-Toolkits?** Wenn diese kostenlose Vorlage Ihnen heute Stunden spart, entdecken Sie unsere komplette Bibliothek sofort einsatzbereiter Tabellenkalkulationen für **Kostenschätzung, Projektsteuerung, BOQ-Aufmaß und industrielle TCO-Analyse** auf [**TheseusWorkshop.com**](https://www.theseusworkshop.com?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20about%20section&utm_content=din-743-shaft-strength).
 
 ---
 
-## Technische Details
+## Weitere Entscheidungs-Toolkits dieser Serie entdecken
+
+Suchen Sie dieselbe Einfügen-und-Los-Struktur für andere kaufmännische und technische Workflows? Werfen Sie einen Blick auf unsere Schwester-Repositories:
+
+- **[construction-estimating](https://github.com/HyVoid/construction-estimating)** – *Was wird dieser Bauumfang unter den aktuellen Annahmen kosten?* Standardisieren Sie Angebotskalkulationen und verwandeln Sie abgeschlossene Schätzungen in wiederverwendbare Kostenbibliotheken.
+- **[aia-construction-cost-tracker-excel](https://github.com/HyVoid/aia-construction-cost-tracker-excel)** – *Wie verhalten sich Schätzungen und erfasste Kosten bis zur Übergabe?* Verfolgen Sie geschätzte vs. tatsächliche Kosten mit AIA-Standardstrukturen.
+- **[construction-project-management-excel](https://github.com/HyVoid/construction-project-management-excel)** – *Wie sieht unsere reale Projektfinanzlage nach Änderungsaufträgen und Abrechnungen aus?* Integrieren Sie Budgets, Änderungsaufträge, Baufortschrittsabrechnungen und Cashflow in einem Steuerungsframework.
+- **[industrial-energy-tco-calculator](https://github.com/HyVoid/industrial-energy-tco-calculator)** – *Welche Energieoption liefert die niedrigsten echten Gesamtkosten des Eigentums?* Vergleichen Sie industrielle Energiequellen durch Normierung von Brennstoffkosten, Wirkungsgrad, Capex und Lebenszykluskosten.
+- **[residential-boq-template](https://github.com/HyVoid/residential-boq-template)** – *Was wird dieses Wohnbauprojekt kosten und welche Gewerke driften über das Budget?* Schätzen Sie Kosten aus BOQ-Aufmaßen und verfolgen Sie genehmigte Budgets gegen Ist-Ausgaben.
+- **[tunnel-cost-estimator-boq-excel](https://github.com/HyVoid/tunnel-cost-estimator-boq-excel)** – *Was wird dieses Bohr-und-Spreng-Tunnelprojekt unter dem angenommenen Taktzyklus kosten?* Schätzen Sie Aushub, Bohren, Sprengen, Ausbau, Ausrüstung und Arbeit in ein strukturiertes BOQ.
+- **[Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit](https://github.com/HyVoid/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit)** – *Lassen sich alle Fundament-Angebotszahlen auf gemessene Abmessungen zurückverfolgen?* Automatisieren Sie Betonvolumina, Schalung, Erdarbeiten, Biegeformenlisten (BBS) und BOQ-Kalkulation.
+
+👉 [**Alle einsatzbereiten Toolkits auf TheseusWorkshop.com durchstöbern**](https://www.theseusworkshop.com/)
+
+---
+
+## Fragen, Feedback & Produkt-Updates
+
+Wir verbessern dieses Toolkit aktiv auf Basis realer Workflows für DIN 743 Wellenauslegung, kombinierte Lastdauerfestigkeit und Material-/Kerb-Nachweise:
+
+- **Fragen & Workflow-Passung:** [Fragen Sie zu Wellengeometrie, Lastfällen, Biege-/Torsions-/Axialeingaben, Materialregeln, Kerbsensitivität oder Betriebsklassifikationen](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions)
+- **Feature-Ideen & Anfragen:** [Schlagen Sie neue Wellengeometrien, Legierungsdatensätze, Betriebsfälle oder Berichtsansichten vor](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas)
+- **Technischen Fehler melden:** [Übermitteln Sie ein Problem über das Fehlerbericht-Formular von DIN-743-Shaft-Calculations](https://github.com/HyVoid/DIN-743-Shaft-Calculations/issues/new?template=bug-report.yml)
+- **Release-Notes & Updates:** [Folgen Sie den Wartungs- und Verbesserungsprotokollen](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates)
+
+> **Hinweis zu Datenschutz & Reproduzierbarkeit:** Bitte posten Sie keine vertraulichen Kundenzeichnungen, proprietären CAD-Dateien, Lieferantenberichte oder unveröffentlichte Produktspezifikationen in öffentlichen Threads. Teilen Sie vereinfachte Geometrie und synthetische Lastwerte mit dem kleinstmöglichen reproduzierbaren Beispiel (Tabellenblattname, Eingabezelle, erwartetes vs. tatsächliches Ergebnis) und geben Sie an, ob das Problem in der Browser-App, der Google Sheets-Vorschau oder der Excel-Arbeitsmappe auftrat. Öffentliche Diskussionen stellen keine formale, unterschriebene technische Designprüfung dar.
+
+---
+
+## Technische Details & Berechnungsarchitektur
 
 <details>
-<summary>Für technische Prüfer, Excel-Anwender und Mitwirkende</summary>
+<summary><strong>Zum Aufklappen:</strong> Architektur der Arbeitsmappe, 3 klassische Ingenieur-Fallen, durchgerechnetes Ventilspindel-Beispiel, Formeln & Validierungsregeln (Für technische Prüfer)</summary>
 
 ---
 
-### Aufbau der Arbeitsmappe
+### Architektur der Arbeitsmappe
 
-| Blatt       | Zweck                                                  |
-| ----------- | ------------------------------------------------------ |
-| GUIDE       | Nutzungshinweise, Geltungsbereich, Versionskontrolle, Haftungsausschluss |
-| INPUT       | Einziger bearbeitbarer Eingabepunkt                    |
-| REFERENCE   | Werkstoffdatenbank und DIN-Parameter                   |
-| CALCULATION | Geschützte Berechnungs-Engine                           |
-| RESULTS     | Sicherheits-Dashboard und BESTANDEN/NICHT BESTANDEN-Bewertung |
-| REPORT      | Standardisierte Berichtsausgabe                        |
+| Tabellenblatt | Zweck |
+| :--- | :--- |
+| `GUIDE` | Anleitung, Umfang, Versionskontrolle, Haftungsausschluss |
+| `INPUT` | Einziger editierbarer Eingabepunkt mit integrierter Eingabevalidierung |
+| `REFERENCE` | Geschützte Materialdatenbank und DIN 743 Nachschlageparameter |
+| `CALCULATION` | Geschützte Berechnungs-Engine (verhindert versehentliches Überschreiben von Formeln) |
+| `RESULTS` | Dashboard der Sicherheitsfaktoren und automatisierte PASS / FAIL-Bewertung |
+| `REPORT` | Standardisierter, druckfertiger technischer Bericht |
 
-#### Datenfluss
+#### Sauberer gerichteter Datenfluss
 
 ```text
-GUIDE
-   ↓
-INPUT
-   ↓
-REFERENCE
-   ↓
-CALCULATION
-   ↓
-RESULTS
-   ↓
-REPORT
+GUIDE -> INPUT -> REFERENCE -> CALCULATION -> RESULTS -> REPORT
 ```
 
-Die Validierung erfolgt bei INPUT.
-
-Die Ausgaben hängen ausschließlich von den Ergebnissen in CALCULATION ab.
-
-Zirkuläre Bezüge sind nicht zulässig.
+- Die Eingabevalidierung läuft direkt auf `INPUT`.
+- Alle Ausgaben referenzieren ausschließlich `CALCULATION` – keine kreisförmigen Referenzen erlaubt.
 
 ---
 
-### Drei Fallen, in die selbst erfahrene Maschinenbauingenieure tappen
+### Drei Fallen, die selbst erfahrene Maschinenbauingenieure erwischen
 
----
+#### Falle 1: Direkter Vergleich der Nennspannung mit den Material-Dauerfestigkeitsgrenzen
+- **Fehlerhafte Entscheidung:** `$185\text{ MPa} < 210\text{ MPa} \rightarrow \text{PASS}$`
+- **Warum sie scheitert:** Katalog-Dauerfestigkeitsgrenzen müssen für Größe ($K_d$), Oberfläche ($K_F$) und Kerbeffekte ($\beta$) korrigiert werden:
 
-#### Falle 1: Nennspannung direkt mit der Dauerfestigkeit des Werkstoffs vergleichen
+$$\sigma_{WK} = \frac{\sigma_W \cdot K_d \cdot K_F}{\beta}$$
 
-Es wurde eine Entscheidung getroffen:
-
-```
-185 MPa < 210 MPa
-PASS
-```
-
-Fehlerhafte Annahme:
-
-Nennspannungen bilden die tatsächliche Dauerfestigkeit ab.
-
-Warum das falsch ist:
-
-Dauerfestigkeitsgrenzen von Werkstoffen müssen um Bauteileinflüsse korrigiert werden.
-
-Korrigiertes Vorgehen:
-
-```
-σWK = (σW × Kd × KF) / β
-```
-
-Korrigiertes Ergebnis:
-
-```
-Corrected endurance limit:
-168 MPa
-
-185 MPa > 168 MPa
-
-FAIL
-```
+- **Korrigiertes Ergebnis:** Die korrigierte Bauteil-Dauerfestigkeitsgrenze fällt auf `$168\text{ MPa}$`. Da `$185\text{ MPa} > 168\text{ MPa}$`, ist das wahre Ergebnis **FAIL**.
 
 <details>
-<summary>Formelreferenz</summary>
+<summary>Excel-Formelreferenz</summary>
 
 ```excel
 =(Sigma_W * Kd * KF) / Beta
@@ -231,132 +228,70 @@ FAIL
 
 </details>
 
----
+#### Falle 2: Unterschätzung von Geometrie- und Rundungsradius-Effekten
+- **Fehlerhafte Annahme:** Kleine Änderungen an Schulter-Rundungen oder Nuten haben vernachlässigbare Auswirkungen.
+- **Korrigierter Ansatz:** Umwandlung der geometrischen Spannungskonzentration ($\alpha$) in den Ermüdungskerbfaktor ($\beta$) über die Kerbsensitivität ($q$):
 
-#### Falle 2: Geometrieeffekte ignorieren
+$$\beta = 1 + q \cdot (\alpha - 1)$$
 
-Entscheidung:
-
-Wellendurchmesser leicht erhöhen.
-
-Fehlerhafte Annahme:
-
-Kleine Geometrieänderungen haben vernachlässigbaren Einfluss.
-
-Warum das falsch ist:
-
-Hohlkehlen und Nuten verändern die Spannungskonzentration erheblich.
-
-Korrigiertes Vorgehen:
-
-α- und β-Faktoren bewerten.
-
-Ergebnis:
-
-Ein größerer Hohlkehlradius verbesserte die Dauerfestigkeitssicherheit, indem er die Kerbschärfe reduzierte.
+- **Ergebnis:** Eine Vergrößerung des Rundungsradius verbessert die Dauerfestigkeitssicherheit oft deutlich kosteneffektiver als ein Wechsel der gesamten Wellenlegierung.
 
 <details>
-<summary>Formelreferenz</summary>
+<summary>Excel-Formelreferenz</summary>
 
 ```excel
-Beta = 1 + q*(Alpha-1)
+=1 + q*(Alpha - 1)
+```
+
+</details>
+
+#### Falle 3: Getrennte Bewertung von Biegung und Torsion
+- **Fehlerhafte Annahme:** Wenn die Biegesicherheit ($S_b$) und die Torsionssicherheit ($S_t$) jeweils einzeln bestanden werden, ist die Welle sicher.
+- **Korrigierter Ansatz:** Bewertung der kombinierten mehrachsigen Dauerfestigkeitssicherheit:
+
+$$S = \frac{S_b \cdot S_t}{\sqrt{S_b^2 + S_t^2}}$$
+
+- **Ergebnis:** Zwei einzeln bestandene Lastfälle führen häufig zu einem **kombinierten FAIL** unter gleichzeitiger Belastung.
+
+<details>
+<summary>Excel-Formelreferenz</summary>
+
+```excel
+=(Sb * St) / SQRT(Sb^2 + St^2)
 ```
 
 </details>
 
 ---
 
-#### Falle 3: Biegung und Torsion getrennt behandeln
+### Durchgerechnetes Beispielszenario (17-4PH Ventilspindel)
 
-Entscheidung:
+| Parameter | Wert |
+| :--- | ---: |
+| Material | 17-4PH |
+| Wellendurchmesser ($d$) | `$40\text{ mm}$` |
+| Rundungsradius ($r$) | `$2\text{ mm}$` |
+| Biegemoment ($M_b$) | `$450,000\text{ N}\cdot\text{mm}$` |
+| Torsionsmoment ($T$) | `$180,000\text{ N}\cdot\text{mm}$` |
+| Einsatzfaktor ($K_A$) | `$1.25$` |
+| Erforderlicher Sicherheitsfaktor ($S_{\min}$) | `$1.50$` |
 
-Beide Sicherheitsfaktoren überschreiten die Grenzwerte jeweils einzeln.
+**Berechnung von Querschnittswerten & Nennspannungen:**
 
-Fehlerhafte Annahme:
+$$W_b = \frac{\pi d^3}{32}, \quad W_p = \frac{\pi d^3}{16}$$
 
-Eine separate Zulassung garantiert die Zulassung des Gesamtsystems.
+$$\sigma_b = \frac{M_b \cdot K_A}{W_b}, \quad \tau_t = \frac{T \cdot K_A}{W_p}$$
 
-Warum das falsch ist:
+Nach Anwendung von Kerbsensitivität, Geometriekorrekturen, Größeneffekten und Oberflächeneinflussfaktoren:
 
-Die kombinierte Belastung bestimmt das Dauerfestigkeitsverhalten.
-
-Korrigiertes Vorgehen:
-
-Kombinierte Sicherheitsbewertung verwenden.
-
-Ergebnis:
-
-Einzelne „Bestanden“-Bedingungen ergaben zusammen ein „Nicht bestanden“.
-
-<details>
-<summary>Formelreferenz</summary>
-
-```excel
-S=(Sb*St)/SQRT(Sb^2+St^2)
-```
-
-</details>
+- **Berechneter kombinierter Sicherheitsfaktor:** `$S = 1.38$`
+- **Anforderung:** `$S \ge 1.50$`
+- **Ergebnis:** **FAIL** (`$1.38 < 1.50$`)
+- **Umsetzbare Empfehlung:** Wellendurchmesser erhöhen, Rundungsradius vergrößern, aufgebrachte Lasten reduzieren oder die Materialgüte vor der Freigabe zur Fertigung neu bewerten.
 
 ---
 
-### Beispielszenario
-
-Ein Ventilspindelabschnitt wird mit folgenden Werten bewertet:
-
-| Parameter              |         Wert |
-| ---------------------- | -----------: |
-| Werkstoff              |       17-4PH |
-| Durchmesser            |        40 mm |
-| Hohlkehlradius         |         2 mm |
-| Biegemoment            | 450,000 N·mm |
-| Torsionsmoment         | 180,000 N·mm |
-| Betriebsfaktor         |         1.25 |
-| Erforderlicher Sicherheitsfaktor |         1.50 |
-
-Zwischenberechnungen:
-
-```text
-Wb = πd³/32
-Wp = πd³/16
-
-σb = Mb×KA/Wb
-τt = T×KA/Wp
-```
-
-Nach Anwendung von:
-
-* Kerbempfindlichkeit,
-* Geometriekorrekturen,
-* Größeneinflüssen,
-* Oberflächen-Einflussfaktoren,
-
-ergibt sich der kombinierte Dauerfestigkeits-Sicherheitsfaktor zu:
-
-```text
-S = 1.38
-```
-
-Interpretation:
-
-```
-Required:
-S ≥ 1.50
-
-Actual:
-S = 1.38
-```
-
-Empfehlung:
-
-Durchmesser erhöhen, Geometrie anpassen, Lasten reduzieren oder die Werkstoffauswahl vor der Freigabe überdenken.
-
-Folge für die Entscheidung:
-
-Die Welle darf unter den aktuellen Konstruktionsannahmen nicht in die Fertigung gehen.
-
----
-
-### Formelreferenz
+### Referenz der Kernformeln
 
 <details>
 <summary>Querschnittswerte</summary>
@@ -366,9 +301,7 @@ Wp = PI()*(d^3)/16
 Wb = PI()*(d^3)/32
 ```
 
-Zweck:
-
-Torsions- und Biegewiderstandsmomente berechnen.
+Berechnet Torsions- und Biege-Widerstandsmomente für massivkreisförmige Wellen.
 
 </details>
 
@@ -376,26 +309,22 @@ Torsions- und Biegewiderstandsmomente berechnen.
 <summary>Nennspannung</summary>
 
 ```excel
-σb=(Mb×KA)/Wb
-τt=(T×KA)/Wp
+Sigma_b = (Mb * KA) / Wb
+Tau_t   = (T * KA) / Wp
 ```
 
-Zweck:
-
-Nennspannungen berechnen.
+Berechnet anwendungsfaktorbereinigte nominale Biege- und Torsionsspannungen.
 
 </details>
 
 <details>
-<summary>Kerbeinflüsse</summary>
+<summary>Kerbeffekte</summary>
 
 ```excel
-β=1+q×(α−1)
+Beta = 1 + q * (Alpha - 1)
 ```
 
-Zweck:
-
-Geometrische Konzentration in einen Dauerfestigkeitseinfluss umrechnen.
+Wandelt die geometrische Spannungskonzentration in die wirksame Ermüdungskerbwirkung um.
 
 </details>
 
@@ -403,63 +332,43 @@ Geometrische Konzentration in einen Dauerfestigkeitseinfluss umrechnen.
 <summary>Korrigierte Dauerfestigkeitsgrenzen</summary>
 
 ```excel
-σWK=(σW×Kd×KF)/β
-τWK=(τW×Kd×KF)/β
+Sigma_WK = (Sigma_W * Kd * KF) / Beta
+Tau_WK   = (Tau_W * Kd * KF) / Beta
 ```
 
-Zweck:
-
-Dauerfestigkeitskapazität des Bauteils bestimmen.
+Bestimmt die tatsächliche Dauerfestigkeit auf Bauteilebene.
 
 </details>
 
 <details>
-<summary>Kombinierte Sicherheit</summary>
+<summary>Kombinierter Sicherheitsfaktor</summary>
 
 ```excel
-S=(Sb×St)/SQRT(Sb^2+St^2)
+S = (Sb * St) / SQRT(Sb^2 + St^2)
 ```
 
-Zweck:
-
-Endgültige Zulässigkeit bewerten.
+Bewertet die endgültige kombinierte Biege- + Torsions-Dauerfestigkeitstragfähigkeit.
 
 </details>
 
 ---
 
-### Validierungsregeln
+### Integrierte Eingabevalidierungsregeln
 
-| Feld                  | Regel                           | Fehlerverhalten             |
-| --------------------- | ------------------------------- | --------------------------- |
-| Projektname           | Erforderlich                    | Abschluss verhindern        |
-| Werkstoff-ID          | Muss in der Bibliothek existieren | Ungültige Eingabe ablehnen |
-| Durchmesser           | Größer als null                 | Validierungswarnung         |
-| Radius                | Positiv und kleiner als Durchmesser | Validierungswarnung     |
-| Biegemoment           | ≥ 0                             | Negative Eingabe ablehnen   |
-| Torsionsmoment        | ≥ 0                             | Negative Eingabe ablehnen   |
-| Betriebsfaktor        | 1.00–3.00                       | Ungültige Eingabe verhindern |
-| Mindest-Sicherheitsfaktor | 1.20–5.00                   | Ungültige Eingabe verhindern |
-| Referenzdaten         | Vom Administrator verwaltet     | Ausgeblendet und geschützt  |
-| Rechen-Engine         | Schreibgeschützt                | Formelüberschreiben verhindert |
+| Feld | Validierungsregel | Fehlerverhalten |
+| :--- | :--- | :--- |
+| Projektname | Erforderlich | Verhindert unvollständige Berichterstellung |
+| Material-ID | Muss in der Bibliothek vorhanden sein | Lehnt ungültige Materialeingabe ab |
+| Durchmesser ($d$) | `$> 0$` | Validierungswarnung |
+| Rundungsradius ($r$) | `$0 < r < d$` | Validierungswarnung |
+| Biegemoment ($M_b$) | `$\ge 0$` | Lehnt negative Eingabe ab |
+| Torsionsmoment ($T$) | `$\ge 0$` | Lehnt negative Eingabe ab |
+| Einsatzfaktor ($K_A$) | `$1.00 - 3.00$` | Verhindert Eingaben außerhalb des Bereichs |
+| Mindest-Sicherheitsfaktor | `$1.20 - 5.00$` | Verhindert Eingaben außerhalb des Bereichs |
+| Referenzdaten | Admin-kontrolliert | Versteckt und geschützt |
+| Berechnungs-Engine | Schreibgeschützt | Verhindert versehentliches Überschreiben von Formeln |
 
 </details>
-
----
-
-
-
-## Weitere Werkzeuge dieser Reihe
-
-* **[construction-estimating](https://github.com/HyVoid/construction-estimating)** — Was kostet dieser Bauumfang unter den aktuellen Annahmen? — Ausschreibungen im Bauwesen standardisiert kalkulieren und abgeschlossene Kalkulationen in wiederverwendbare Kostenbibliotheken überführen.
-* **[aia-construction-cost-tracker-excel](https://github.com/HyVoid/aia-construction-cost-tracker-excel)** — Wie schlagen sich Kalkulation und verfolgte Kosten über die Projektabwicklung hinweg? — Baukalkulationen während der gesamten Projektabwicklung in AIA-Standardformaten mit den tatsächlichen Kosten vergleichen.
-* **[construction-project-management-excel](https://github.com/HyVoid/construction-project-management-excel)** — Stimmt die finanzielle Projektlage nach Einarbeitung genehmigter Änderungen, Ist-Kosten und Abrechnungsfortschritt? — Budgets, Nachträge, Fortschrittsabrechnung und Cashflow in einem einzigen Steuerungsrahmen für Bauprojekte zusammenführen.
-* **[industrial-energy-tco-calculator](https://github.com/HyVoid/industrial-energy-tco-calculator)** — Welche Energieoption bietet für dieses konkrete Projekt unter seinen tatsächlichen Betriebsbedingungen die niedrigsten Gesamtbetriebskosten? — Industrielle Energieträger auf Basis der tatsächlich nutzbaren Energie vergleichen, indem Brennstoffkosten, Anlageneffizienz, Infrastrukturinvestitionen und Lebenszykluskosten normalisiert werden.
-* **[residential-boq-template](https://github.com/HyVoid/residential-boq-template)** — Was kostet dieses Wohnbauprojekt und welche Gewerke sind bereits über Budget? — Baukosten für Wohngebäude aus Leistungsverzeichnis-Aufmaßen und Einheitspreisen kalkulieren und genehmigte Budgets gegen die tatsächlichen Ausgaben verfolgen.
-* **[tunnel-cost-estimator-boq-excel](https://github.com/HyVoid/tunnel-cost-estimator-boq-excel)** — Was kostet dieses Tunnelprojekt im Sprengvortrieb unter dem angenommenen Bauzyklus? — Ausbruch, Bohren, Sprengen, Ausbau, Ausrüstung und Arbeitskräfte für den Sprengvortrieb zu vollständigen Projektkosten und einem Leistungsverzeichnis zusammenführen.
-* **[Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit](https://github.com/HyVoid/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit)** — Wie hoch sind die gesamten Material- und Bewehrungskosten für das Gründungsbauwerk, und lässt sich jeder kaufmännische Angebotswert auf die aufgemessenen Abmessungen zurückführen? — Betonvolumen, Schalungsflächen, Erdmassen, Bewehrungsgewicht über automatisierte Biegeformlisten sowie kaufmännische Leistungsverzeichniswerte aus aufgemessenen Konstruktionsabmessungen berechnen.
-
-Weitere Werkzeuge: [Besuchen Sie unsere Website](https://www.theseusworkshop.com/)
 
 ---
 
@@ -467,4 +376,4 @@ Weitere Werkzeuge: [Besuchen Sie unsere Website](https://www.theseusworkshop.com
 
 Dieses Projekt ist unter der **Apache License 2.0** lizenziert.
 
-Sie dürfen dieses Werk im Rahmen der Bedingungen der Apache License 2.0 frei verwenden, verändern und verbreiten.
+Sie dürfen dieses Werk im Einklang mit den Bedingungen der Apache License 2.0 frei nutzen, ändern und verbreiten.
