@@ -1,0 +1,5 @@
+# Displays a prominent "Sponsor" button in the repository header.
+# Routes supporters & template users directly to the PWYW page and storefront.
+custom:
+  - "https://www.theseusworkshop.com/l/zjyuhp?utm_source=github&utm_medium=github_sponsor_btn&utm_campaign=din743_pwyw"
+  - "https://www.theseusworkshop.com/?utm_source=github&utm_medium=github_sponsor_btn&utm_campaign=store_discovery"

@@ -1,0 +1,40 @@
+name: "💡 Request a New Material, Standard, or Decision Template"
+description: "Suggest an upgrade to this DIN 743 tool or request another ready-to-use Excel workflow."
+title: "[Request] "
+labels: ["enhancement", "product-idea"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Tell us what calculation, material rule, or decision workflow would save you hours at work.
+        **Please do not upload confidential client drawings or proprietary CAD files.**
+  - type: dropdown
+    id: request_type
+    attributes:
+      label: "What do you need most?"
+      options:
+        - "New material / alloy grade in DIN 743 workbook"
+        - "New shaft feature (splines, press fit, deflection, critical speed)"
+        - "Better client-ready report / PDF export layout"
+        - "A brand-new Excel toolkit for another engineering/commercial standard"
+    validations:
+      required: true
+  - type: textarea
+    id: decision_scenario
+    attributes:
+      label: "What real-world decision are you trying to make?"
+      description: "Briefly describe your role and the problem you face (e.g., auditing supplier valve quotes, sizing a pump shaft, comparing alloy BOM cost)."
+      placeholder: "Example: I'm a junior valve engineer trying to compare 17-4PH vs Inconel 718 stem sizing and cost for a client quote..."
+    validations:
+      required: true
+  - type: dropdown
+    id: urgency
+    attributes:
+      label: "How often do you run into this calculation/decision?"
+      options:
+        - "Every week (core workflow)"
+        - "Monthly / per project bid"
+        - "One-off urgent project right now"
+        - "Just exploring / learning"
+    validations:
+      required: true
